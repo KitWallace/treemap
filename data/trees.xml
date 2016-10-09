@@ -1,0 +1,2571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trees>
+    <tree>
+        <id>RB-1</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>In Ashton Park beside the main drive. Girth 820cm. Age 700 years. A magnificent veteran, reduced to a substantial stump, but still vigorous. This is just one of over a hundred ancient pollard oaks in the park, the largest group in the country outside Windsor Great Park.</text>
+        <girth>820</girth>
+        <age>700</age>
+        <grid>ST5521 7180</grid>
+        <easting>355210</easting>
+        <northing>171800</northing>
+        <latitude>51.443409</latitude>
+        <longitude>-2.645847</longitude>
+    </tree>
+    <tree>
+        <id>RB-2</id>
+        <name>Sweet Chestnut</name>
+        <latin>Castanea sativa</latin>
+        <tag>Veteran</tag>
+        <text>In Ashton Park. Girth 805cm. Age 600 years. The largest of a line of six magnificent trees along the brow of the hill, probably all planted at the same time. There are hundreds of baby Chestnuts below them, so that, despite the die back of the main branches, all these trees are still vigorous.</text>
+        <girth>805</girth>
+        <age>600</age>
+        <grid>ST5541 7203</grid>
+        <easting>355410</easting>
+        <northing>172030</northing>
+        <latitude>51.445493</latitude>
+        <longitude>-2.642998</longitude>
+    </tree>
+    <tree>
+        <id>RB-3</id>
+        <name>Monterey Cypress</name>
+        <latin>Cupressus macrocarpa</latin>
+        <tag>Veteran</tag>
+        <text>In Bishops Knoll Wood, Bramble Lane, Stoke Bishop. Girth 710cm. Age 150 years. This species was first introduced into the UK from its tiny natural outpost on the Monterey Peninsula in Californian in 1839. It proved to have the fastest rate of growth of any species. This colossal specimen, still surrounded by its Victorian ironwork, cannot have been planted earlier than 1860. It is one of the parents of Cupressus leylandii, so commonly, and rashly, planted as screening today.</text>
+        <girth>710</girth>
+        <age>150</age>
+        <grid>ST5528 7519</grid>
+        <easting>355280</easting>
+        <northing>175190</northing>
+        <latitude>51.473894</latitude>
+        <longitude>-2.64527</longitude>
+    </tree>
+    <tree>
+        <id>RB-4</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Veteran</tag>
+        <text>In Combe Dingle. Girth 710cm. This is the largest of the three Wellingtonias in the Blaise estate, perhaps because it is growing so close to the stream near the lower pond.</text>
+        <girth>710</girth>
+        <grid>ST5570 7779</grid>
+        <easting>355700</easting>
+        <northing>177790</northing>
+        <latitude>51.497304</latitude>
+        <longitude>-2.63955</longitude>
+    </tree>
+    <tree>
+        <id>RB-5</id>
+        <name>Sweet Chestnut</name>
+        <latin>Castanea sativa</latin>
+        <tag>Veteran</tag>
+        <text>In the Blaise Estate. Girth 700cm. Age 550 years. This huge tree is in the meadow off the Henbury Road. It has vast horizontal branches a with.</text>
+        <girth>700</girth>
+        <age>550</age>
+        <grid>ST5636 7855</grid>
+        <easting>356360</easting>
+        <northing>178550</northing>
+        <latitude>51.504188</latitude>
+        <longitude>-2.630137</longitude>
+    </tree>
+    <tree>
+        <id>RB-6</id>
+        <name>Sweet Chestnut</name>
+        <latin>Castanea sativa</latin>
+        <tag>Veteran</tag>
+        <text>Chesterfield Hospital, Clifton. Girth 700cm. Age 550 years. This very vigorous stump appears to pre-date the original villa, and has survived the original building of the hospital, and its recent reconstruction. It is on private land, but is accessible to the public.</text>
+        <girth>700</girth>
+        <age>550</age>
+        <grid>ST5728 7295</grid>
+        <easting>357280</easting>
+        <northing>172950</northing>
+        <latitude>51.453909</latitude>
+        <longitude>-2.616204</longitude>
+    </tree>
+    <tree>
+        <id>RB-7</id>
+        <name>Sessile Oak</name>
+        <latin>Quercus petraea</latin>
+        <tag>Veteran</tag>
+        <text>Bishops Knoll Wood, Bramble Lane Stoke Bishop. Girth 700cm. Aged 700 years. This massive tree may have been a bundle planting, as its various trunks do not appear to originate from a pollard cut. It is mysterious because its presence is disguised by the growth of young ash trees around it, and, despite its huge size, it is not easy to find.</text>
+        <girth>700</girth>
+        <age>700</age>
+        <grid>ST5535 7521</grid>
+        <easting>355350</easting>
+        <northing>175210</northing>
+        <latitude>51.47408</latitude>
+        <longitude>-2.644264</longitude>
+    </tree>
+    <tree>
+        <id>RB-8</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>In Combe Dingle, this tree has a hollow trunk into which half a dozen people might stand, but it is on a steep slope and it has not been pollarded.</text>
+        <grid>ST5568 7780</grid>
+        <easting>355680</easting>
+        <northing>177800</northing>
+        <latitude>51.497392</latitude>
+        <longitude>-2.639839</longitude>
+    </tree>
+    <tree>
+        <id>RB-9</id>
+        <name>Cedar of Lebanon</name>
+        <latin>Cedrus libani</latin>
+        <tag>Veteran</tag>
+        <text>At Blaise House close to the main house. Girth 695cm. Age 250 years. Cedars grow exceptionally fast and this tree is probably not more than 250 years old, but it is the finest in Bristol, occupying a very prominent position.</text>
+        <girth>695</girth>
+        <age>250</age>
+        <grid>ST5624 7869</grid>
+        <easting>356240</easting>
+        <northing>178690</northing>
+        <latitude>51.505438</latitude>
+        <longitude>-2.631883</longitude>
+    </tree>
+    <tree>
+        <id>RB-10</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Bishops Knoll wood, Bramble Lane Stoke Bishop. Girth 690cm. Age 700 years old. This is the largest of a line of squat oak pollards which were planted just above the floodplain of the river Avon as part of the wood-pasture of the old Sneyd Park estate. Sixty years ago they were all still fine tall trees, but are now reduced to hulks, dominated by young ash trees. Some are still vigorous; others have collapsed completely. Several are on private land.</text>
+        <girth>690</girth>
+        <age>700</age>
+        <grid>ST5520 7537</grid>
+        <easting>355200</easting>
+        <northing>175370</northing>
+        <latitude>51.475506</latitude>
+        <longitude>-2.646444</longitude>
+    </tree>
+    <tree>
+        <id>RB-11</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Just off Stoke Park Road in the grounds of Trinity College, and opposite the University Botanic Garden. Girth 675cm. Age 700 years old. This fine leaning veteran pollard is technically in private land, but easily seen. The whole area of Sneyd Park was originally woodland pasture, and there are a large number of veteran oaks which have survived, many now in private gardens.</text>
+        <girth>675</girth>
+        <age>700</age>
+        <grid>ST5657 7554</grid>
+        <easting>356570</easting>
+        <northing>175540</northing>
+        <latitude>51.477142</latitude>
+        <longitude>-2.626741</longitude>
+    </tree>
+    <tree>
+        <id>RB-12</id>
+        <name>London Plane</name>
+        <latin>Platanus x hispanica</latin>
+        <tag>Veteran</tag>
+        <text>Brislington Brook. Girth 675cm. Age 250 years. London Planes grow very rapidly, and this vast specimen was probably associated with Brislington House. It now fills the valley of the brook, and is hollow. It was in danger of being ruined by fires built inside its hollow trunk, a common fate of veteran trees, but was recently saved by being bricked up. The species came to Britain in 1690, and is still being widely planted.</text>
+        <girth>675</girth>
+        <age>250</age>
+        <grid>ST6199 7150</grid>
+        <easting>361990</easting>
+        <northing>171500</northing>
+        <latitude>51.441209</latitude>
+        <longitude>-2.548266</longitude>
+    </tree>
+    <tree>
+        <id>RB-13</id>
+        <name>Horse Chestnut</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Veteran</tag>
+        <text>York Place, Clifton in the grounds of Manor Hall. Girth 625cm. Age 450. Much the oldest and largest Horse Chestnut in the city, this vigorous multi-trunked maiden tree has survived the building of Manor Hall in the 1960s which left it isolated twenty feet above the road that had been driven past it. From a distance it looks like an ordinary tree, but its base is well below the level of York Place. Close up it is astonishing.</text>
+        <girth>625</girth>
+        <age>450</age>
+        <grid>ST5758 7305</grid>
+        <easting>357580</easting>
+        <northing>173050</northing>
+        <latitude>51.454831</latitude>
+        <longitude>-2.611899</longitude>
+    </tree>
+    <tree>
+        <id>RB-13-1</id>
+        <name>London Plane</name>
+        <latin>Platanus x hispanica</latin>
+        <tag>Veteran</tag>
+        <text>Mina Road Park. Girth 620cm. The group of Plane trees in the Mina Road park are stunning, and all the same Age, having been planted in c 1880. And this one is the largest.</text>
+        <girth>620</girth>
+        <age>1880</age>
+        <grid>ST6014 7443</grid>
+        <easting>360140</easting>
+        <northing>174430</northing>
+        <latitude>51.467425</latitude>
+        <longitude>-2.575213</longitude>
+    </tree>
+    <tree>
+        <id>RB-14</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Veteran</tag>
+        <text>Blaise estate. Girth 600cm. Age 150. This is the second large tree close to the lowest pond on the Trym. When the seeds arrived from California, in 1855, at the Veitch nursery in Exeter, everyone who was anyone bought a tree. The Smythes of Ashton Court bought an avenue. Thus almost every tree in Bristol is roughly the same Age, and difference in girth reflect their habitat. Unfortunately, a number have died or are dying, which, as they can live for 5000 years, is disturbing. There is a grove of them in Ashton Hill Plantation, a stunning sight.</text>
+        <girth>600</girth>
+        <age>150</age>
+        <grid>ST5573 7779</grid>
+        <easting>355730</easting>
+        <northing>177790</northing>
+        <latitude>51.497306</latitude>
+        <longitude>-2.639118</longitude>
+    </tree>
+    <tree>
+        <id>RB-15</id>
+        <name>Cedar of Lebanon</name>
+        <latin>Cedrus libani</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Lodge. Girth 605cm. Age 150 years. There are three Cedars in the Stoke Lodge grounds all the same size and Age, though one unfortunately is dead, and being sculpted. There are probably more Lebanon Cedars in Britain than in the state of Lebanon. Includes trees 16 &amp; 17.</text>
+        <girth>605</girth>
+        <age>150</age>
+        <grid>ST5600 7640</grid>
+        <easting>356000</easting>
+        <northing>176400</northing>
+        <latitude>51.48483</latitude>
+        <longitude>-2.635055</longitude>
+    </tree>
+    <tree>
+        <id>RB-18</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Kings Weston estate. Girth 600cm. Age 450 years. This is the oldest tree in the Kings Weston estate, and predates the house. It is on a steep bank running down to a path, and is very tall and vigorous. It is surprisingly difficult to find given its huge bulk.</text>
+        <girth>600</girth>
+        <age>450</age>
+        <grid>ST5400 7738</grid>
+        <easting>354000</easting>
+        <northing>177380</northing>
+        <latitude>51.493481</latitude>
+        <longitude>-2.663984</longitude>
+    </tree>
+    <tree>
+        <id>RB-19</id>
+        <name>London Plane</name>
+        <latin>Platanus x hispanica</latin>
+        <tag>Veteran</tag>
+        <text>Kings Weston Lane. Girth 600cm. Age 200 years. There are three giant planes in a tiny strip of woodland off Kings Weston lane. Until five years ago they were towering trees, but fears that they might collapse and cause damage, led to all three being cut down to about twenty feet in height. Their vast girth is unaltered, and all three are putting out new shoots. Whereas once they dominated, now they have to be looked for. Includes trees 20 &amp; 21.</text>
+        <girth>600</girth>
+        <age>200</age>
+        <grid>ST5410 7779</grid>
+        <easting>354100</easting>
+        <northing>177790</northing>
+        <latitude>51.497176</latitude>
+        <longitude>-2.662597</longitude>
+    </tree>
+    <tree>
+        <id>RB-22</id>
+        <name>Cedar of Lebanon</name>
+        <latin>Cedrus libani</latin>
+        <tag>Veteran</tag>
+        <text>Frenchay Hospital (as was). Girth 600cm. Age 150 years. The future of the magnificent trees on this site must be uncertain.</text>
+        <girth>600</girth>
+        <age>150</age>
+        <grid>ST6391 7765</grid>
+        <easting>363910</easting>
+        <northing>177650</northing>
+        <latitude>51.49663</latitude>
+        <longitude>-2.521273</longitude>
+    </tree>
+    <tree>
+        <id>RB-23</id>
+        <name>Cedar of Lebanon</name>
+        <latin>Cedrus libani</latin>
+        <tag>Veteran</tag>
+        <text>Victoria Square, Clifton. Girth 595cm. Age 150 years. One of the few trees from the original planting. Its horizontal branches, twenty metres long, are dramatic.</text>
+        <girth>595</girth>
+        <age>150</age>
+        <grid>ST5728 7313</grid>
+        <easting>357280</easting>
+        <northing>173130</northing>
+        <latitude>51.455528</latitude>
+        <longitude>-2.616226</longitude>
+    </tree>
+    <tree>
+        <id>RB-24</id>
+        <name>Sweet Chestnut</name>
+        <latin>Castanea sativa</latin>
+        <tag>Veteran</tag>
+        <text>Oldbury Court. Girth 590cm. Age 400 years. This massive veteran stands in the middle of a large grassy area, and has a fine head of branches above a clean bole. It dominates the park.</text>
+        <girth>590</girth>
+        <age>400</age>
+        <grid>ST6366 7679</grid>
+        <easting>363660</easting>
+        <northing>176790</northing>
+        <latitude>51.488882</latitude>
+        <longitude>-2.524786</longitude>
+    </tree>
+    <tree>
+        <id>RB-25</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Victory Park, Brislington. One of two giant oaks in the hedges of this park. Girth 580 cm. Age perhaps 380 years old. Has its feet in the stream, on the northern edge of the park, which may account for its vigour.</text>
+        <age>380</age>
+        <grid>ST6241 7108</grid>
+        <easting>362410</easting>
+        <northing>171080</northing>
+        <latitude>51.437461</latitude>
+        <longitude>-2.542179</longitude>
+    </tree>
+    <tree>
+        <id>RB-26</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Victory Park, Brislington. One of two giant oaks in the hedges of this park. Girth 580 cm. Age perhaps 380 years old. Is in a hedge on the NE edge of the Park.</text>
+        <age>380</age>
+        <grid>ST6254 7081</grid>
+        <easting>362540</easting>
+        <northing>170810</northing>
+        <latitude>51.435042</latitude>
+        <longitude>-2.54028</longitude>
+    </tree>
+    <tree>
+        <id>RB-27</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Oldbury Court. Girth 570cm. Age 380. This giant is in the woods on the northern edge of the park, set above the almost vertical drop to the River Frome below.</text>
+        <girth>570</girth>
+        <age>380</age>
+        <grid>ST6357 7714</grid>
+        <easting>363570</easting>
+        <northing>177140</northing>
+        <latitude>51.492023</latitude>
+        <longitude>-2.526118</longitude>
+    </tree>
+    <tree>
+        <id>RB-28</id>
+        <name>Hybrid Black Poplar</name>
+        <latin>Populus x canadensis</latin>
+        <tag>Veteran</tag>
+        <text>Blaise estate. Girth 570cm. Age 170. This huge dead stump lost its top in a storm some thirty years ago, and more recently was trimmed back for safety reasons, but in the last year or so fungus has attacked and killed it- the fungus growth can still be seen as a black network clinging to the wood.</text>
+        <girth>570</girth>
+        <age>170</age>
+        <grid>ST5578 7786</grid>
+        <easting>355780</easting>
+        <northing>177860</northing>
+        <latitude>51.497939</latitude>
+        <longitude>-2.638406</longitude>
+    </tree>
+    <tree>
+        <id>RB-29</id>
+        <name>Holm Oak</name>
+        <latin>Quercus ilex</latin>
+        <tag>Veteran</tag>
+        <text>Clifton. Girth 550cm. Age 250. This tree is in the private grounds of Cornwallis House, and there is no public access, but it is clearly visible, and probably the oldest of its species in the city.</text>
+        <girth>550</girth>
+        <age>250</age>
+        <grid>ST5696 7284</grid>
+        <easting>356960</easting>
+        <northing>172840</northing>
+        <latitude>51.452896</latitude>
+        <longitude>-2.620796</longitude>
+    </tree>
+    <tree>
+        <id>RB-30</id>
+        <name>Horse Chestnut</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Park, Hermitage Wood. There are three veteran Horse Chestnuts in hermitage wood, the largest trees there. This has a girth of 550cm and is on the eastern edge of the wood. Likely to have been planted for aesthetic reasons, for the woods were managed for wood and timber. Probably 300 years old.</text>
+        <girth>550</girth>
+        <age>550</age>
+        <grid>ST6172 7735</grid>
+        <easting>361720</easting>
+        <northing>177350</northing>
+        <latitude>51.493789</latitude>
+        <longitude>-2.552786</longitude>
+    </tree>
+    <tree>
+        <id>RB-31</id>
+        <name>Horse Chestnut</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Park, Hermitage Wood. There are three veteran Horse Chestnuts in hermitage wood, the largest trees there. This has a girth of 505cm and the corner of the wood Likely to have been planted for aesthetic reasons, for the woods were managed for wood and timber. Probably 300 years old.</text>
+        <girth>505</girth>
+        <age>505</age>
+        <grid>ST6189 7760</grid>
+        <easting>361890</easting>
+        <northing>177600</northing>
+        <latitude>51.496048</latitude>
+        <longitude>-2.550365</longitude>
+    </tree>
+    <tree>
+        <id>RB-32</id>
+        <name>Horse Chestnut</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Park, Hermitage Wood. There are three veteran Horse Chestnuts in hermitage wood, the largest trees there. This has a girth of 500cm. This at the northern edge of the main path through the wood. Both are likely to have been planted for aesthetic reasons, for the woods were managed for wood and timber. Probably 300 years old.</text>
+        <girth>500</girth>
+        <age>500</age>
+        <grid>ST6178 7739</grid>
+        <easting>361780</easting>
+        <northing>177390</northing>
+        <latitude>51.494152</latitude>
+        <longitude>-2.551927</longitude>
+    </tree>
+    <tree>
+        <id>RB-33</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Two ancient pollard oaks, this one healthy tree with massive burrs in the middle of the field and part of a large group of huge, pollard oaks in fields and hedges belonging to the Riding for the Disabled Association, with public access by footpath.</text>
+        <grid>ST5576 7885</grid>
+        <easting>355760</easting>
+        <northing>178850</northing>
+        <latitude>51.506839</latitude>
+        <longitude>-2.638819</longitude>
+    </tree>
+    <tree>
+        <id>RB-34</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>One of two ancient pollard oaks, this one a hollow wreck, ivy clad, and collapsing in a hedge and part of a large group of huge, pollard oaks in fields and hedges belonging to the Riding for the Disabled Association, with public access by footpath.</text>
+        <grid>ST5589 7891</grid>
+        <easting>355890</easting>
+        <northing>178910</northing>
+        <latitude>51.507388</latitude>
+        <longitude>-2.636954</longitude>
+    </tree>
+    <tree>
+        <id>RB-35</id>
+        <name>Beech, Copper</name>
+        <latin>Fagus sylvatica</latin>
+        <tag>Veteran</tag>
+        <text>Merchant Venturers House, The Promenade Clifton. Girth 540cm. Age 160 years. This is the largest Copper Beech in Bristol, one of a large number in the Clifton area. It grows in the private front garden of the mansion, dominating its surroundings, and shows what a magnificent tree the Beech can be when grown free from competition.</text>
+        <girth>540</girth>
+        <age>160</age>
+        <grid>ST5661 7371</grid>
+        <easting>356610</easting>
+        <northing>173710</northing>
+        <latitude>51.460691</latitude>
+        <longitude>-2.625939</longitude>
+    </tree>
+    <tree>
+        <id>RB-36</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Veteran</tag>
+        <text>Lord Mayors House, Canynge Road, Clifton. Girth 540cm. Age 160. A very fine tree, slightly smaller than the one at Blaise, but planted at a similar date.</text>
+        <girth>540</girth>
+        <age>160</age>
+        <grid>ST5666 7370</grid>
+        <easting>356660</easting>
+        <northing>173700</northing>
+        <latitude>51.460605</latitude>
+        <longitude>-2.625218</longitude>
+    </tree>
+    <tree>
+        <id>RB-37</id>
+        <name>Eastern Plane</name>
+        <latin>Platanus orientalis</latin>
+        <tag>Veteran</tag>
+        <text>The Quaker burial ground, Redcliffe Hill. Girth 540cm. Age 200. The tree has a very decided lean. It is one of the parents of the London Plane, but is now very rarely planted, though it grows just as fast.</text>
+        <girth>540</girth>
+        <age>200</age>
+        <grid>ST5908 7233</grid>
+        <easting>359080</easting>
+        <northing>172330</northing>
+        <latitude>51.448468</latitude>
+        <longitude>-2.590229</longitude>
+    </tree>
+    <tree>
+        <id>RB-38</id>
+        <name>Lombardy Poplar</name>
+        <latin>Populus nigra var italica</latin>
+        <tag>Veteran</tag>
+        <text>St Andrews Park. Girth 530cm. Age 120. Poplars are exceptionally fast growing trees, but there are very few old Lombardy Poplars in Bristol parks, though they were often planted as industrial screening in the 1930s. This one has developed huge buttresses to strengthen it against the wind.</text>
+        <girth>530</girth>
+        <age>120</age>
+        <grid>ST5932 7506</grid>
+        <easting>359320</easting>
+        <northing>175060</northing>
+        <latitude>51.473031</latitude>
+        <longitude>-2.58709</longitude>
+    </tree>
+    <tree>
+        <id>RB-39</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Park, Long Wood. Girth 530cm. Age 300. Long Wood was a working woodland, part of the Stoke Park estate, and it would have grown Oaks for timber and coppiced Hazel for fencing. This is the largest of a number of the oaks which would normally have been felled at an Age of about 150 years if the price was right. But demand for timber fell sharply in the 19th century with the invention of cheap steel so that a large number of veteran trees remain.</text>
+        <girth>530</girth>
+        <age>300</age>
+        <grid>ST6156 7740</grid>
+        <easting>361560</easting>
+        <northing>177400</northing>
+        <latitude>51.494227</latitude>
+        <longitude>-2.555096</longitude>
+    </tree>
+    <tree>
+        <id>RB-40</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Shirehampton Golf course, by southern tip. Girth 520cm. Age 320. This fine tree lies by the path around the Golf course which is National Trust land, leased to the golfers. If visiting, please keep to the path.</text>
+        <girth>520</girth>
+        <age>320</age>
+        <grid>ST5461 7666</grid>
+        <easting>354610</easting>
+        <northing>176660</northing>
+        <latitude>51.487057</latitude>
+        <longitude>-2.655105</longitude>
+    </tree>
+    <tree>
+        <id>RB-41</id>
+        <name>London Plane</name>
+        <latin>Platanus europaea</latin>
+        <tag>Veteran</tag>
+        <text>Eastville Park, close to the southern tip. Girth 520cm. It seems unlikely that this tree preceded the creation of the park so that it is only 120 years old.</text>
+        <girth>520</girth>
+        <grid>ST6143 7512</grid>
+        <easting>361430</easting>
+        <northing>175120</northing>
+        <latitude>51.473719</latitude>
+        <longitude>-2.556719</longitude>
+    </tree>
+    <tree>
+        <id>RB-42</id>
+        <name>Common Beech</name>
+        <latin>Fagus sylvatica</latin>
+        <tag>Veteran</tag>
+        <text>Eastville park. A huge pollard by the eastern end of the lake, girth 520cm. This giant must have existed before the park was created and should be 300 years old.</text>
+        <girth>520</girth>
+        <grid>ST6168 7552</grid>
+        <easting>361680</easting>
+        <northing>175520</northing>
+        <latitude>51.477332</latitude>
+        <longitude>-2.553163</longitude>
+    </tree>
+    <tree>
+        <id>RB-43</id>
+        <name>Deodar Cedar</name>
+        <latin>Cedrus deodara</latin>
+        <tag>Veteran</tag>
+        <text>Stoke Lodge. Girth 520, Age 150. This cedar comes from Afghanistan, and is characterised by drooping tips to the shoots.</text>
+        <age>150</age>
+        <grid>ST5592 7646</grid>
+        <easting>355920</easting>
+        <northing>176460</northing>
+        <latitude>51.485363</latitude>
+        <longitude>-2.636214</longitude>
+    </tree>
+    <tree>
+        <id>RB-44</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Veteran</tag>
+        <text>Blaise estate. Girth 520cm Age 150. This is the tree growing in splendour close to the House. It is 33m high, but with a smaller girth than the one by the pond.</text>
+        <girth>520</girth>
+        <age>150</age>
+        <grid>ST5602 7863</grid>
+        <easting>356020</easting>
+        <northing>178630</northing>
+        <latitude>51.504881</latitude>
+        <longitude>-2.635046</longitude>
+    </tree>
+    <tree>
+        <id>RB-45</id>
+        <name>Holm Oak</name>
+        <latin>Quercus ilex</latin>
+        <tag>Veteran</tag>
+        <text>West Mall garden, Clifton. Girth 520cm. Age 150. There are some eight Holm Oaks which were planted in c 1850. This specimen has a wonderfully contorted and twisted bole, as a result of pollarding down the years.</text>
+        <girth>520</girth>
+        <age>150</age>
+        <grid>ST5680 7302</grid>
+        <easting>356800</easting>
+        <northing>173020</northing>
+        <latitude>51.454502</latitude>
+        <longitude>-2.62312</longitude>
+    </tree>
+    <tree>
+        <id>RB-46</id>
+        <name>London Plane</name>
+        <latin>Platanus europaea</latin>
+        <tag>Veteran</tag>
+        <text>Queens Square. Girth 510cm. Age 180. There were trees planted around Queens Square in 1688, shown on the Millerd Map, but the London Plane was not created until 1690. The present trees must date to the early Victorian period, and there are numerous pictures of them. A mini tornado blew some over c 40 years ago, so they are not all the same Age.</text>
+        <girth>510</girth>
+        <age>180</age>
+        <grid>ST5875 7250</grid>
+        <easting>358750</easting>
+        <northing>172500</northing>
+        <latitude>51.449973</latitude>
+        <longitude>-2.594997</longitude>
+    </tree>
+    <tree>
+        <id>RB-47</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Henbury Golf Course. Girth 505cm. Age 300. This tree is in an ancient hedge line, and on the footpath through the Golf course, which is otherwise private. It is the largest of several oaks in this hedge.</text>
+        <girth>505</girth>
+        <age>300</age>
+        <grid>ST5664 7761</grid>
+        <easting>356640</easting>
+        <northing>177610</northing>
+        <latitude>51.495758</latitude>
+        <longitude>-2.625988</longitude>
+    </tree>
+    <tree>
+        <id>RB-48</id>
+        <name>Common Lime</name>
+        <latin>Tilia europaea</latin>
+        <tag>Veteran</tag>
+        <text>Kings Weston, the main avenue. Girth 500cm. Age 300. The Common Lime was the commonest tree for formal avenues in the 18th century, and there are the remnants of a double avenue on one side of the carriage drive and a single one on the other, almost certainly planted when the house was built by Vanbrugh in 1720. This is the oldest lime avenue in the city. The longest, planted in 1860, leads up to what is now Redland High School, at ST584 745. The trees typically have dense masses of growth both around the base of the trunk and in the middle of the tree as they are clones. The individual trees in the avenue have suffered a variety of different fates down the years, and are very hard to measure accurately.</text>
+        <girth>500</girth>
+        <age>300</age>
+        <grid>ST5398 7728</grid>
+        <easting>353980</easting>
+        <northing>177280</northing>
+        <latitude>51.492581</latitude>
+        <longitude>-2.664259</longitude>
+    </tree>
+    <tree>
+        <id>RB-49</id>
+        <name>Horse Chestnut</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Veteran</tag>
+        <text>Saville Road, the Downs. Girth 500cm. Age 200. This is the largest of the Horse Chestnut on the Downs, though the line along Westbury Park Road were probably planted at the same time. This tree is diseased with bleeding canker, but remains vigorous. A number of other trees have succumbed in the past few years and had to be felled.</text>
+        <girth>500</girth>
+        <age>200</age>
+        <grid>ST5712 7574</grid>
+        <easting>357120</easting>
+        <northing>175740</northing>
+        <latitude>51.478982</latitude>
+        <longitude>-2.618846</longitude>
+    </tree>
+    <tree>
+        <id>RB-50</id>
+        <name>Common Oak</name>
+        <latin>Quercus robur</latin>
+        <tag>Veteran</tag>
+        <text>Brandon Hill. Girth 500cm. Age 300. This magnificent tree has boughs twenty metres long. It is just inside the park-keepers compound, but dominates the area. It is the oldest tree in this extraordinary park, which has been a public open space for 800 years.</text>
+        <girth>500</girth>
+        <age>300</age>
+        <grid>ST5781 7291</grid>
+        <easting>357810</easting>
+        <northing>172910</northing>
+        <latitude>51.45359</latitude>
+        <longitude>-2.608572</longitude>
+    </tree>
+    <tree>
+        <id>RB-51</id>
+        <name>Black Poplar</name>
+        <latin>Populus x canadensis</latin>
+        <tag>Veteran</tag>
+        <text>Victoria Park. Girth 500 plus. Half this tree has rotted away, and its top has been truncated, and lies alongside it, but it is still just alive. The largest of about fifteen Poplars in the park all of which were probably planted in around 1890.</text>
+        <grid>ST5935 7156</grid>
+        <easting>359350</easting>
+        <northing>171560</northing>
+        <latitude>51.441565</latitude>
+        <longitude>-2.586255</longitude>
+    </tree>
+    <tree>
+        <id>RB-52</id>
+        <name>Alder, Common</name>
+        <latin>Alnus glutinosa</latin>
+        <tag>Champion</tag>
+        <text>Common on stream-ways, and some have suffered from a disease in recent years. Occasionally planted on drier sites. There are large trees on the banks of the Frome, but the largest is on the Trym at Combe Dingle where a rotting trunk 2600cm in girth supports three vigorous young stems.</text>
+    </tree>
+    <tree>
+        <id>RB-53</id>
+        <name>Alder, Italian</name>
+        <latin>Alnus cordata</latin>
+        <tag>Champion</tag>
+        <text>Recently planted in parks and as a street tree, prominent on Park Row. Fast growing and almost evergreen. The largest is in Eastville Park at ST6175 7531 with a girth of 240cm.</text>
+        <girth>240</girth>
+        <grid>ST5853 7320</grid>
+        <easting>358530</easting>
+        <northing>173200</northing>
+        <latitude>51.45625</latitude>
+        <longitude>-2.598245</longitude>
+    </tree>
+    <tree>
+        <id>RB-54</id>
+        <name>Alder, Cut leaf</name>
+        <latin>Alnus glutinosa laciniata</latin>
+        <tag>Champion</tag>
+        <text>This is an attractive slow growing variety of the Common Alder. Oldbury Park close to the main drive.</text>
+        <grid>ST6347 7671</grid>
+        <easting>363470</easting>
+        <northing>176710</northing>
+        <latitude>51.488151</latitude>
+        <longitude>-2.527514</longitude>
+    </tree>
+    <tree>
+        <id>RB-55</id>
+        <name>Alder, Grey</name>
+        <latin>Alnus incana</latin>
+        <tag>Champion</tag>
+        <text>Uncommon in Bristol, but there are three young trees on Woodland Road.</text>
+        <grid>ST5816 7325</grid>
+        <easting>358160</easting>
+        <northing>173250</northing>
+        <latitude>51.456673</latitude>
+        <longitude>-2.603576</longitude>
+    </tree>
+    <tree>
+        <id>RB-56</id>
+        <name>Ash, Common</name>
+        <latin>Fraxinus excelsior</latin>
+        <tag>Champion</tag>
+        <text>The most widespread tree in the city. The largest is in a field in Henbury. It is hollow, has lost its top, and Has a girth of 470cm. There is footpath access. Five others have a girth of 425cm in Redland Green, the Downs, Bedminster Down, and Victory Park, Brislington. They are much rarer as veterans than oaks because they were rarely pollarded.</text>
+        <girth>470</girth>
+        <grid>ST5573 7881</grid>
+        <easting>355730</easting>
+        <northing>178810</northing>
+        <latitude>51.506477</latitude>
+        <longitude>-2.639246</longitude>
+    </tree>
+    <tree>
+        <id>RB-57</id>
+        <name>Ash, Common</name>
+        <latin>Fraxinus excelsior</latin>
+        <tag>Champion</tag>
+        <text>The most widespread tree in the city. Found at Lawrence Weston Reserve, a collapsing hollow pollard in a hedge at with a girth of 450cm around. It has vigorous branches growing out at low level. Five others have a girth of 425cm in Redland Green, the Downs, Bedminster Down, and Victory Park, Brislington. They are much rarer as veterans than oaks because they were rarely pollarded.</text>
+        <girth>450</girth>
+        <grid>ST5515 7941</grid>
+        <easting>355150</easting>
+        <northing>179410</northing>
+        <latitude>51.511826</latitude>
+        <longitude>-2.647679</longitude>
+    </tree>
+    <tree>
+        <id>RB-58</id>
+        <name>Ash, Narrow-leaf</name>
+        <latin>Fraxinus angustifolia</latin>
+        <tag>Champion</tag>
+        <text>Widely planted in parks in recent years, it turns a magnificent purple in the autumn. The largest is at Oldbury Court. Girth 220cm.</text>
+        <girth>220</girth>
+        <grid>ST6369 7680</grid>
+        <easting>363690</easting>
+        <northing>176800</northing>
+        <latitude>51.488974</latitude>
+        <longitude>-2.524355</longitude>
+    </tree>
+    <tree>
+        <id>RB-59</id>
+        <name>Ash, Single-leaf</name>
+        <latin>Fraxinus excelsior var diversifolia</latin>
+        <tag>Champion</tag>
+        <text>This is a natural variant in which the leaf is a single blade rather than leaflets. It was quite widely planted about 30 years ago. One in Snuff Mills Park has a girth of 130cm.</text>
+        <girth>130</girth>
+        <grid>ST6259 7651</grid>
+        <easting>362590</easting>
+        <northing>176510</northing>
+        <latitude>51.486295</latitude>
+        <longitude>-2.540166</longitude>
+    </tree>
+    <tree>
+        <id>RB-60</id>
+        <name>Ash, Weeping</name>
+        <latin>Fraxinus excelsior 'Pendula'</latin>
+        <tag>Champion</tag>
+        <text>A Victorian cemetery favourite, achieved by grafting as high as possible, as the branches grow straight downwards. There are a number in Greville Smythe Park, the largest with a girth of 210cm.</text>
+        <girth>210</girth>
+        <grid>ST5696 7179</grid>
+        <easting>356960</easting>
+        <northing>171790</northing>
+        <latitude>51.443455</latitude>
+        <longitude>-2.620668</longitude>
+    </tree>
+    <tree>
+        <id>RB-61</id>
+        <name>Ash, Manna</name>
+        <altname>Flowering Ash</altname>
+        <latin>Fraxinus ornus</latin>
+        <tag>Champion</tag>
+        <text>Named for its dramatic white flowers in spring. There is one on the Downs by the pound.</text>
+        <grid>ST5683 7424</grid>
+        <easting>356830</easting>
+        <northing>174240</northing>
+        <latitude>51.465474</latitude>
+        <longitude>-2.622838</longitude>
+    </tree>
+    <tree>
+        <id>RB-62</id>
+        <name>Atlas Cedar</name>
+        <latin>Cedrus atlantica</latin>
+        <tag>Champion</tag>
+        <text>This comes from the Atlas Mountains of North Africa, and a very striking blue form is often grown. Its branches grow upwards, unlike the other two cedars. The largest at Oldbury Court. Has a 410cm girth, but is probably only about 100 years old.</text>
+        <grid>ST5328 7690</grid>
+        <easting>353280</easting>
+        <northing>176900</northing>
+        <latitude>51.489107</latitude>
+        <longitude>-2.67429</longitude>
+    </tree>
+    <tree>
+        <id>RB-63</id>
+        <name>Azara</name>
+        <latin>Azara microphylla</latin>
+        <tag>Champion</tag>
+        <text>A delightful small multi-trunk evergreen tree from S America. The Zoo has number of them.</text>
+        <grid>ST5678 7398</grid>
+        <easting>356780</easting>
+        <northing>173980</northing>
+        <latitude>51.463132</latitude>
+        <longitude>-2.623526</longitude>
+    </tree>
+    <tree>
+        <id>RB-64</id>
+        <name>Beech, Common</name>
+        <latin>Fagus sylvatica</latin>
+        <tag>Champion</tag>
+        <text>Commonly planted in avenues, of which the best known is the Promenade in Clifton, the oldest trees in which are 100 years old.</text>
+        <grid>ST5277 7494</grid>
+        <easting>352770</easting>
+        <northing>174940</northing>
+        <latitude>51.471442</latitude>
+        <longitude>-2.681372</longitude>
+    </tree>
+    <tree>
+        <id>RB-65</id>
+        <name>Beech, Common</name>
+        <latin>Fagus sylvatica</latin>
+        <tag>Champion</tag>
+        <text>There is a magnificent tree at Crabtree Slip, the little wood off the Portway with a 480cm girth and one of the same size on the Downs.</text>
+        <grid>ST5444 7665</grid>
+        <easting>354440</easting>
+        <northing>176650</northing>
+        <latitude>51.486954</latitude>
+        <longitude>-2.657552</longitude>
+    </tree>
+    <tree>
+        <id>RB-66</id>
+        <name>Beech, Dawyck</name>
+        <latin>Fagus sylvatica var fastigiata</latin>
+        <tag>Champion</tag>
+        <text>This grows in a columnar form, but is rather rare in Bristol. The best is a young tree in the Royal Fort garden.</text>
+        <grid>ST5826 7332</grid>
+        <easting>358260</easting>
+        <northing>173320</northing>
+        <latitude>51.457309</latitude>
+        <longitude>-2.602145</longitude>
+    </tree>
+    <tree>
+        <id>RB-67</id>
+        <name>Beech, Fern leaf</name>
+        <latin>Fagus sylvatica var heterophylla</latin>
+        <tag>Champion</tag>
+        <text>This is a natural variant with cut leaves. The finest is in Victoria Square, Clifton, with a girth of 480cm. It dates back to the original planting c 1860.</text>
+        <girth>480</girth>
+        <grid>ST5727 7310</grid>
+        <easting>357270</easting>
+        <northing>173100</northing>
+        <latitude>51.455257</latitude>
+        <longitude>-2.616366</longitude>
+    </tree>
+    <tree>
+        <id>RB-68</id>
+        <name>Beech, Weeping</name>
+        <latin>Fagus sylvatica pendula</latin>
+        <tag>Champion</tag>
+        <text>This is a wonderful form and probably the oldest is in the private garden opposite the Victoria Rooms in Clifton. It hangs over the pavement.</text>
+        <grid>ST5773 7337</grid>
+        <easting>357730</easting>
+        <northing>173370</northing>
+        <latitude>51.457719</latitude>
+        <longitude>-2.609778</longitude>
+    </tree>
+    <tree>
+        <id>RB-69</id>
+        <name>Brewer's Spruce</name>
+        <latin>Picea breweriana</latin>
+        <tag>Champion</tag>
+        <text>Spruces are uncommon in Bristol. This species has branches hung with pendulous branchlets. A fine one is at Oldbury Court.</text>
+        <grid>ST6344 7676</grid>
+        <easting>363440</easting>
+        <northing>176760</northing>
+        <latitude>51.488598</latitude>
+        <longitude>-2.527951</longitude>
+    </tree>
+    <tree>
+        <id>RB-70</id>
+        <name>Birch, Ermans</name>
+        <latin>Betula ermanii</latin>
+        <tag>Champion</tag>
+        <text>A rather rugged rare tree from Japan, three of which are on the Downs at the top of Stoke Hill, with a girth of 270cm.</text>
+        <girth>270</girth>
+        <grid>ST5669 7521</grid>
+        <easting>356690</easting>
+        <northing>175210</northing>
+        <latitude>51.474184</latitude>
+        <longitude>-2.624972</longitude>
+    </tree>
+    <tree>
+        <id>RB-71</id>
+        <name>Birch, Himalayan</name>
+        <latin>Betula utilis</latin>
+        <tag>Champion</tag>
+        <text>This is now a very common species for its fine white bark, sometimes damaged by people pulling it off in strips. All the trees found are very young.</text>
+    </tree>
+    <tree>
+        <id>RB-72</id>
+        <name>Silver Birch</name>
+        <latin>Betula pendula</latin>
+        <tag>Champion</tag>
+        <text>A very common pioneer tree, also widely planted. It rarely lives long, and can't survive shade. The largest is a fine tree growing by the lake in Sneyd Park Nature Reserve, with a girth of 300cm.</text>
+        <girth>300</girth>
+        <grid>ST5547 7550</grid>
+        <easting>355470</easting>
+        <northing>175500</northing>
+        <latitude>51.476696</latitude>
+        <longitude>-2.642573</longitude>
+    </tree>
+    <tree>
+        <id>RB-73</id>
+        <name>Mulberry, Black</name>
+        <latin>Morus nigra</latin>
+        <tag>Champion</tag>
+        <text>This species is widely planted for its delicious fruit, but is very often found growing horizontally. The largest is in the gardens of the Royal Fort with a girth of 230cm.</text>
+        <girth>230</girth>
+        <grid>ST5833 7331</grid>
+        <easting>358330</easting>
+        <northing>173310</northing>
+        <latitude>51.457225</latitude>
+        <longitude>-2.601136</longitude>
+    </tree>
+    <tree>
+        <id>RB-74</id>
+        <name>Mulberry, Black</name>
+        <latin>Morus nigra</latin>
+        <tag>Champion</tag>
+        <text>This species is widely planted for its delicious fruit, but is very often found growing horizontally, as it is in Victoria Square in Clifton.</text>
+        <grid>ST5713 7313</grid>
+        <easting>357130</easting>
+        <northing>173130</northing>
+        <latitude>51.455516</latitude>
+        <longitude>-2.618385</longitude>
+    </tree>
+    <tree>
+        <id>RB-75</id>
+        <name>Bull Bay</name>
+        <latin>Magnolia grandiflora</latin>
+        <tag>Champion</tag>
+        <text>The evergreen magnolia from the southern states of the USA which has flowers the size of dinner plates. The finest and probably the oldest are on either side of the entrance to Ashton Court mansion.</text>
+        <grid>ST5716 7181</grid>
+        <easting>357160</easting>
+        <northing>171810</northing>
+        <latitude>51.443651</latitude>
+        <longitude>-2.617793</longitude>
+    </tree>
+    <tree>
+        <id>RB-76</id>
+        <name>Cabbage Palm</name>
+        <latin>Cordyline australis</latin>
+        <tag>Champion</tag>
+        <text>Widely planted in gardens, in time this becomes a substantial tree and there are a number in the Zoo. A fine one is in a garden on St Johns Road, Clifton.</text>
+        <age>7412</age>
+        <grid>ST5747 7412</grid>
+        <easting>357470</easting>
+        <northing>174120</northing>
+        <latitude>51.464443</latitude>
+        <longitude>-2.613611</longitude>
+    </tree>
+    <tree>
+        <id>RB-77</id>
+        <name>Chestnut, Japanese</name>
+        <latin>Aesculus turbinata</latin>
+        <tag>Champion</tag>
+        <text>A rare tree with large leaves with seven leaflets on each, which has just been planted in Victoria Park.</text>
+        <grid>ST5912 7151</grid>
+        <easting>359120</easting>
+        <northing>171510</northing>
+        <latitude>51.441098</latitude>
+        <longitude>-2.589558</longitude>
+    </tree>
+    <tree>
+        <id>RB-78</id>
+        <name>Chestnut, Red</name>
+        <latin>Aesculus x carnea</latin>
+        <tag>Champion</tag>
+        <text>Several have been planted on the Downs, in the avenue on Stoke Road and are striking in flower, but grow slowly and look unhappy. They are unaffected by the new Chestnut Leaf miner moth.</text>
+        <grid>ST5685 7510</grid>
+        <easting>356850</easting>
+        <northing>175100</northing>
+        <latitude>51.473207</latitude>
+        <longitude>-2.622655</longitude>
+    </tree>
+    <tree>
+        <id>RB-79</id>
+        <name>Chestnut, Yellow Buckeye</name>
+        <latin>Aesculus flava</latin>
+        <tag>Champion</tag>
+        <text>A young tree in the Royal Fort gardens may be this species.</text>
+        <grid>ST5829 7331</grid>
+        <easting>358290</easting>
+        <northing>173310</northing>
+        <latitude>51.457222</latitude>
+        <longitude>-2.601712</longitude>
+    </tree>
+    <tree>
+        <id>RB-80</id>
+        <name>Cherry, Bird</name>
+        <latin>Prunus padus</latin>
+        <tag>Champion</tag>
+        <text>This is the wild cherry of the north of the UK, but rare here as a wild tree, though it grows well. A fine young tree grows in St Andrews churchyard, Clifton and has a girth of 90cm.</text>
+        <girth>90</girth>
+        <grid>ST5737 7293</grid>
+        <easting>357370</easting>
+        <northing>172930</northing>
+        <latitude>51.453736</latitude>
+        <longitude>-2.614906</longitude>
+    </tree>
+    <tree>
+        <id>RB-81</id>
+        <name>Cherry, Japanese</name>
+        <latin>Prunus serrulata</latin>
+        <tag>Champion</tag>
+        <text>There are a huge variety of varieties that the Japanese originally bred, and they are widely planted in streets and parks. The double pink Kanzan is well known.</text>
+    </tree>
+    <tree>
+        <id>RB-82</id>
+        <name>Cherry, Tibetan</name>
+        <latin>Prunus serrulata</latin>
+        <tag>Champion</tag>
+        <text>A small slow growing tree recognised at once by its bight glossy dark brown bark. Often planted, the finest at Oldbury Court with a girth of 200cm.</text>
+        <girth>200</girth>
+        <grid>ST6348 7664</grid>
+        <easting>363480</easting>
+        <northing>176640</northing>
+        <latitude>51.487522</latitude>
+        <longitude>-2.527362</longitude>
+    </tree>
+    <tree>
+        <id>RB-83</id>
+        <name>Cherry, Wild</name>
+        <latin>Prunus avium</latin>
+        <tag>Champion</tag>
+        <text>The native wild cherry, sometimes called Gean, seeds itself readily, and spreads by suckering. There are many fine old trees in Leigh Woods. It rarely last to a great Age, but one in Victoria Park, with a girth of 250cm. They turn a fine colour in the autumn.</text>
+        <girth>250</girth>
+        <age>250</age>
+        <grid>ST5791 7155</grid>
+        <easting>357910</easting>
+        <northing>171550</northing>
+        <latitude>51.441369</latitude>
+        <longitude>-2.606971</longitude>
+    </tree>
+    <tree>
+        <id>RB-84</id>
+        <name>Cherry, Wild</name>
+        <latin>Prunus avium</latin>
+        <tag>Champion</tag>
+        <text>The double form, called plena has late and large double flowers and there are two on Clifton Green.</text>
+        <grid>ST5696 7335</grid>
+        <easting>356960</easting>
+        <northing>173350</northing>
+        <latitude>51.457481</latitude>
+        <longitude>-2.620858</longitude>
+    </tree>
+    <tree>
+        <id>RB-85</id>
+        <name>Koda, Chinese</name>
+        <latin>Ehretia acuminata</latin>
+        <tag>Champion</tag>
+        <text>A tree believed to be this grows by the children's playground in Blaise, with a girth of 190cm.</text>
+        <girth>190</girth>
+        <grid>ST5608 7871</grid>
+        <easting>356080</easting>
+        <northing>178710</northing>
+        <latitude>51.505605</latitude>
+        <longitude>-2.634191</longitude>
+    </tree>
+    <tree>
+        <id>RB-86</id>
+        <name>Chinese Privet</name>
+        <latin>Ligustrum lucidum</latin>
+        <tag>Champion</tag>
+        <text>There is a very fine specimen of this rare tree, with glossy evergreen leaves that flowers in August, in the front garden of a house in Ashgrove Road off Whiteladies Road. It has twin trunks.</text>
+        <grid>ST5765 7435</grid>
+        <easting>357650</easting>
+        <northing>174350</northing>
+        <latitude>51.466525</latitude>
+        <longitude>-2.611048</longitude>
+    </tree>
+    <tree>
+        <id>RB-87</id>
+        <name>Dawn Redwood</name>
+        <latin>Metasequoia glyptostroboides</latin>
+        <tag>Champion</tag>
+        <text>This tree was discovered at a remote site in China in 1941, and widely distributed to parks across the world. The finest is the one in the grounds of Clifton College, planted in 1955, with a girth of 260cm. It is on private property, but readily seen from public roads.</text>
+        <girth>260</girth>
+        <grid>ST5718 7379</grid>
+        <easting>357180</easting>
+        <northing>173790</northing>
+        <latitude>51.461454</latitude>
+        <longitude>-2.617745</longitude>
+    </tree>
+    <tree>
+        <id>RB-88</id>
+        <name>Dawn Redwood</name>
+        <latin>Metasequoia glyptostroboides</latin>
+        <tag>Champion</tag>
+        <text>This tree was discovered at a remote site in China in 1941, and widely distributed to parks across the world. There is an avenue of them at Oldbury Court, at the entrance to Eastwood Farm Park.</text>
+        <grid>ST6303 7117</grid>
+        <easting>363030</easting>
+        <northing>171170</northing>
+        <latitude>51.438311</latitude>
+        <longitude>-2.533269</longitude>
+    </tree>
+    <tree>
+        <id>RB-89</id>
+        <name>Dogwood, Table</name>
+        <latin>Cornus controversa variegata</latin>
+        <tag>Champion</tag>
+        <text>The pretty variegated form in the Zoo just by the entrance is the best example, and the only one in Bristol.</text>
+        <grid>ST5675 7401</grid>
+        <easting>356750</easting>
+        <northing>174010</northing>
+        <latitude>51.463399</latitude>
+        <longitude>-2.623961</longitude>
+    </tree>
+    <tree>
+        <id>RB-90</id>
+        <name>Douglas Fir</name>
+        <latin>Pseudotsuga menziesii</latin>
+        <tag>Champion</tag>
+        <text>Uncommon, and does not grow well. One at Stoke Lodge. Girth 240cm.</text>
+        <girth>240</girth>
+        <grid>ST5592 7642</grid>
+        <easting>355920</easting>
+        <northing>176420</northing>
+        <latitude>51.485003</latitude>
+        <longitude>-2.636209</longitude>
+    </tree>
+    <tree>
+        <id>RB-91</id>
+        <name>Dove Tree</name>
+        <latin>Davidia involucrata</latin>
+        <tag>Champion</tag>
+        <text>Sometimes unfortunately called the Paper Handkerchief Tree as, when flowering, it has white bracts that cover the flowers in late May. The Zoo has the finest specimen, with a girth of 195.</text>
+        <grid>ST5685 7395</grid>
+        <easting>356850</easting>
+        <northing>173950</northing>
+        <latitude>51.462868</latitude>
+        <longitude>-2.622514</longitude>
+    </tree>
+    <tree>
+        <id>RB-92</id>
+        <name>Dove Tree</name>
+        <latin>Davidia involucrata</latin>
+        <tag>Champion</tag>
+        <text>Sometimes unfortunately called the Paper Handkerchief Tree as, when flowering, it has white bracts that cover the flowers in late May. There is an excellent specimen in Canynge Square, Clifton.</text>
+        <grid>ST5686 7354</grid>
+        <easting>356860</easting>
+        <northing>173540</northing>
+        <latitude>51.459182</latitude>
+        <longitude>-2.62232</longitude>
+    </tree>
+    <tree>
+        <id>RB-93</id>
+        <name>Elm, Wych</name>
+        <latin>Ulmus glabra</latin>
+        <tag>Champion</tag>
+        <text>Until 1975 Elms were the most familiar of trees, and the recovery from Dutch Elm Disease has been slow. One large tree, a Huntingdon Elm, survives on the Downs at the bottom of Ladies Mile with a girth of 250cm.</text>
+        <girth>250</girth>
+        <grid>ST5654 7416</grid>
+        <easting>356540</easting>
+        <northing>174160</northing>
+        <latitude>51.464732</latitude>
+        <longitude>-2.627002</longitude>
+    </tree>
+    <tree>
+        <id>RB-94</id>
+        <name>Elm, Wych</name>
+        <latin>Ulmus glabra</latin>
+        <tag>Champion</tag>
+        <text>Until 1975 Elms were the most familiar of trees, and the recovery from Dutch Elm Disease has been slow. There are two magnificent trees in Castle Park with the same girth. There are a very large number of young trees in all parks, many growing into the canopy.</text>
+        <grid>ST5932 7316</grid>
+        <easting>359320</easting>
+        <northing>173160</northing>
+        <latitude>51.455948</latitude>
+        <longitude>-2.586871</longitude>
+    </tree>
+    <tree>
+        <id>RB-95</id>
+        <name>Elm</name>
+        <latin>Resistant</latin>
+        <tag>Champion</tag>
+        <text>Ulmus sapporo Autumn Gold. ST5682 7329. As an experiment after the disease a species believed to be resistant to DED was planted on Clifton Green. Of the five trees planted only one has grown into the canopy, the others all having collapsed in storms.</text>
+    </tree>
+    <tree>
+        <id>RB-96</id>
+        <name>Foxglove Tree</name>
+        <latin>Paulownia tomentosa</latin>
+        <tag>Champion</tag>
+        <text>A fast growing tree from China with huge leaves and wonderful purple flowers on the bare branches in early spring. There are no old trees but there is a fine one in the Zoo with a girth of 190cm near the old bear pit.</text>
+        <girth>190</girth>
+        <grid>ST5688 7409</grid>
+        <easting>356880</easting>
+        <northing>174090</northing>
+        <latitude>51.464129</latitude>
+        <longitude>-2.6221</longitude>
+    </tree>
+    <tree>
+        <id>RB-97</id>
+        <name>Grand Fir</name>
+        <latin>Abies grandis</latin>
+        <tag>Champion</tag>
+        <text>This is the finest and commonest of the firs but is rare in Bristol. The best is in Oldbury Court, planted c 1955, now the tallest tree in the estate, with a girth of 280cm near the main path down to the Frome.</text>
+        <girth>280</girth>
+        <grid>ST6348 7682</grid>
+        <easting>363480</easting>
+        <northing>176820</northing>
+        <latitude>51.48914</latitude>
+        <longitude>-2.527381</longitude>
+    </tree>
+    <tree>
+        <id>RB-98</id>
+        <name>Gum, Cider</name>
+        <latin>Eucalyptus gunnii</latin>
+        <tag>Champion</tag>
+        <text>This is very frequently planted in gardens, and has proved to be hardy. Very fast growing, but only planted recently in Victoria Park.</text>
+        <grid>ST5913 7150</grid>
+        <easting>359130</easting>
+        <northing>171500</northing>
+        <latitude>51.441009</latitude>
+        <longitude>-2.589413</longitude>
+    </tree>
+    <tree>
+        <id>RB-98-1</id>
+        <name>Gum, Cider</name>
+        <latin>Eucalyptus gunnii</latin>
+        <tag>Champion</tag>
+        <text>This is very frequently planted in gardens, and has proved to be hardy. Very fast growing. A fine one is in front garden of Pembroke Road in Clifton.</text>
+        <grid>ST5728 7376</grid>
+        <easting>357280</easting>
+        <northing>173760</northing>
+        <latitude>51.461192</latitude>
+        <longitude>-2.616302</longitude>
+    </tree>
+    <tree>
+        <id>RB-99</id>
+        <name>Hackberry</name>
+        <latin>Celtis occidentalis</latin>
+        <tag>Champion</tag>
+        <text>Sometimes called Nettle Tree, this is a rare tree, planted in what was a mini arboretum at Blaise House, now within the children's playground.</text>
+        <grid>ST5605 7870</grid>
+        <easting>356050</easting>
+        <northing>178700</northing>
+        <latitude>51.505513</latitude>
+        <longitude>-2.634622</longitude>
+    </tree>
+    <tree>
+        <id>RB-100</id>
+        <name>Holly</name>
+        <latin>Ilex aquifolium</latin>
+        <tag>Champion</tag>
+        <text>Hollies are very widespread but mostly form an understory because they are so tolerant of shade. On occasion they can make substantial trees and there is one with a girth of 300cm in Long Wood, Stoke Park.</text>
+        <girth>300</girth>
+        <grid>ST6160 7744</grid>
+        <easting>361600</easting>
+        <northing>177440</northing>
+        <latitude>51.49459</latitude>
+        <longitude>-2.554525</longitude>
+    </tree>
+    <tree>
+        <id>RB-101</id>
+        <name>Honey Locust</name>
+        <latin>Gleditsia triacanthos</latin>
+        <tag>Champion</tag>
+        <text>Large numbers of young trees have recently been planted, called Sunburst because of their light green foliage in spring. The mature tree is very large and in hot summers bears copious long brown pods. The best are three trees in a private garden on Percival Road, Clifton, which lean over the road and date back to 1875 when the house was built.</text>
+        <age>1875</age>
+        <grid>ST5677 7357</grid>
+        <easting>356770</easting>
+        <northing>173570</northing>
+        <latitude>51.459445</latitude>
+        <longitude>-2.623619</longitude>
+    </tree>
+    <tree>
+        <id>RB-102</id>
+        <name>Hop Hornbeam</name>
+        <latin>Ostrya carpinifolia</latin>
+        <tag>Champion</tag>
+        <text>This is a rare tree closely related to the Hornbeam, with fruit that look like a bunch of ripe hops. There are a group of three healthy young trees in Oldbury Court.</text>
+        <grid>ST6372 7679</grid>
+        <easting>363720</easting>
+        <northing>176790</northing>
+        <latitude>51.488886</latitude>
+        <longitude>-2.523921</longitude>
+    </tree>
+    <tree>
+        <id>RB-103</id>
+        <name>Hornbeam</name>
+        <latin>Carpinus betulus</latin>
+        <tag>Champion</tag>
+        <text>This is a native tree, in appearance similar to a Beech. The largest is in the Zoo, with a girth of 325cm.</text>
+        <girth>325</girth>
+        <grid>ST6154 7551</grid>
+        <easting>361540</easting>
+        <northing>175510</northing>
+        <latitude>51.477233</latitude>
+        <longitude>-2.555178</longitude>
+    </tree>
+    <tree>
+        <id>RB-104</id>
+        <name>Incense Cedar</name>
+        <latin>Calocedrus decurrens</latin>
+        <tag>Champion</tag>
+        <text>One of two in the Zoo. They grow in columnar form and have a girth of 300cm implying that they are over a century old. This one hangs over the wall of College Road.</text>
+        <girth>300</girth>
+        <grid>ST5686 7388</grid>
+        <easting>356860</easting>
+        <northing>173880</northing>
+        <latitude>51.462239</latitude>
+        <longitude>-2.622362</longitude>
+    </tree>
+    <tree>
+        <id>RB-105</id>
+        <name>Indian Bean Tree</name>
+        <latin>Catalpa bignonioides</latin>
+        <tag>Champion</tag>
+        <text>An attractive tree with large floppy leaves, fairly fast growth and white flowers in July that give rise to long thin beans. In recent years newly planted ones have tended to develop splits in their branches, but the best is in Greville Smythe Park, with a girth of 380cm. dating back to the origin of the park in 1890.</text>
+        <girth>380</girth>
+        <grid>ST5700 7180</grid>
+        <easting>357000</easting>
+        <northing>171800</northing>
+        <latitude>51.443548</latitude>
+        <longitude>-2.620093</longitude>
+    </tree>
+    <tree>
+        <id>RB-106</id>
+        <name>Italian Cypress</name>
+        <latin>Cupressus sempervirens</latin>
+        <tag>Champion</tag>
+        <text>Now often planted in gardens, but old specimens are uncommon. The best is in Royal Fort garden.</text>
+        <grid>ST5823 7333</grid>
+        <easting>358230</easting>
+        <northing>173330</northing>
+        <latitude>51.457397</latitude>
+        <longitude>-2.602578</longitude>
+    </tree>
+    <tree>
+        <id>RB-107</id>
+        <name>Japanese Cedar</name>
+        <latin>Cryptomeria japonica</latin>
+        <tag>Champion</tag>
+        <text>Its most attractive feature is its red fibrous barks with long vertical striations. The largest in Bristol is a sorry tree at Kings Weston by the summerhouse which has lost its top in a storm. Its girth is 390cm.</text>
+        <girth>390</girth>
+        <grid>ST5444 7727</grid>
+        <easting>354440</easting>
+        <northing>177270</northing>
+        <latitude>51.492528</latitude>
+        <longitude>-2.657632</longitude>
+    </tree>
+    <tree>
+        <id>RB-108</id>
+        <name>Jefferies Pine</name>
+        <latin>Pinus jeffreyi</latin>
+        <tag>Champion</tag>
+        <text>This tree has the distinction of carrying the largest pine cone, up to 500 grams in weight, and the longest needles, up to 23cm. of any pine. It is very rare in Bristol, and the best is at the Bishops Knoll Wood, Bramble Lane Stoke Bishop, with a girth of 295cm.</text>
+        <girth>295</girth>
+        <grid>ST5525 7523</grid>
+        <easting>355250</easting>
+        <northing>175230</northing>
+        <latitude>51.474251</latitude>
+        <longitude>-2.645707</longitude>
+    </tree>
+    <tree>
+        <id>RB-109</id>
+        <name>Kapuka</name>
+        <latin>Griselinia littoralis</latin>
+        <tag>Champion</tag>
+        <text>Quite commonly used as a hedging plant, this evergreen shrub, with multiple stems, grows as a tree in the Royal Fort gardens.</text>
+        <grid>ST5835 7333</grid>
+        <easting>358350</easting>
+        <northing>173330</northing>
+        <latitude>51.457406</latitude>
+        <longitude>-2.600851</longitude>
+    </tree>
+    <tree>
+        <id>RB-110</id>
+        <name>Katsura</name>
+        <latin>Cercidiphyllum japonicum</latin>
+        <tag>Champion</tag>
+        <text>When fully grown this is a fine tree that grows its leaves all down its branches. There is a very small tree in the Zoo.</text>
+        <grid>ST5684 7393</grid>
+        <easting>356840</easting>
+        <northing>173930</northing>
+        <latitude>51.462687</latitude>
+        <longitude>-2.622656</longitude>
+    </tree>
+    <tree>
+        <id>RB-111</id>
+        <name>Keaki</name>
+        <latin>Zelkova serrata</latin>
+        <tag>Champion</tag>
+        <text>This is an uncommon Japanese tree. A young tree on Brandon hill, has a girth of 150cm.</text>
+        <girth>150</girth>
+        <grid>ST5794 7269</grid>
+        <easting>357940</easting>
+        <northing>172690</northing>
+        <latitude>51.451621</latitude>
+        <longitude>-2.606675</longitude>
+    </tree>
+    <tree>
+        <id>RB-112</id>
+        <name>Kentucky Coffee Tree</name>
+        <latin>Gymnocladus dioicus</latin>
+        <tag>Champion</tag>
+        <text>An American tree with leaves a yard long grows outside the Senate House on Woodland Road.</text>
+        <grid>ST5816 7350</grid>
+        <easting>358160</easting>
+        <northing>173500</northing>
+        <latitude>51.45892</latitude>
+        <longitude>-2.603605</longitude>
+    </tree>
+    <tree>
+        <id>RB-113</id>
+        <name>Korean Euodia</name>
+        <latin>Tetradium daniellii</latin>
+        <tag>Champion</tag>
+        <text>This is a rare tree that flowers in September. It is found in Malago Park.</text>
+        <grid>ST5771 6960</grid>
+        <easting>357710</easting>
+        <northing>169600</northing>
+        <latitude>51.423822</latitude>
+        <longitude>-2.609615</longitude>
+    </tree>
+    <tree>
+        <id>RB-114</id>
+        <name>Korean Euodia</name>
+        <latin>Tetradium daniellii</latin>
+        <tag>Champion</tag>
+        <text>This is a rare tree that flowers in September. It is found in Kingsdown at the top of St Michael's Hill next to a supermarket.</text>
+        <grid>ST5824 7377</grid>
+        <easting>358240</easting>
+        <northing>173770</northing>
+        <latitude>51.461354</latitude>
+        <longitude>-2.602486</longitude>
+    </tree>
+    <tree>
+        <id>RB-115</id>
+        <name>Larch</name>
+        <latin>Larix decidua</latin>
+        <tag>Champion</tag>
+        <text>Most of those planted grow rather badly, though there are one or two exceptionally tall on the steep slopes of Penpole Point in the Kings Weston estate.</text>
+        <grid>ST5348 7725</grid>
+        <easting>353480</easting>
+        <northing>177250</northing>
+        <latitude>51.49227</latitude>
+        <longitude>-2.671456</longitude>
+    </tree>
+    <tree>
+        <id>RB-116</id>
+        <name>Larch</name>
+        <latin>Larix decidua</latin>
+        <tag>Champion</tag>
+        <text>Most of those planted grow rather badly. The largest is in Crabtree Slip wood, off the Portway with a girth of 240cm.</text>
+        <girth>240</girth>
+        <grid>ST5451 7660</grid>
+        <easting>354510</easting>
+        <northing>176600</northing>
+        <latitude>51.48651</latitude>
+        <longitude>-2.656537</longitude>
+    </tree>
+    <tree>
+        <id>RB-117</id>
+        <name>Lawson Cypress</name>
+        <latin>Chamaecyparis lawsoniana</latin>
+        <tag>Champion</tag>
+        <text>This is the most commonly planted Cypress, in parks gardens and cemeteries everywhere, with a wide variety of forms. They sometimes grow with multiple trunks from close to the ground. The largest measured was in Savile Place, Clifton, with a girth of 260cm. It is a weirdly twisted and contorted specimen.</text>
+        <girth>260</girth>
+        <grid>ST5722 7293</grid>
+        <easting>357220</easting>
+        <northing>172930</northing>
+        <latitude>51.453725</latitude>
+        <longitude>-2.617065</longitude>
+    </tree>
+    <tree>
+        <id>RB-118</id>
+        <name>Lime, Large Leaf</name>
+        <latin>Tilia platyphyllos</latin>
+        <tag>Champion</tag>
+        <text>This a rare native species, but now very widely planted. It has none of the Common Lime's faults and all its advantages. Like all limes it is slow growing. The largest is on the Downs as part of an avenue near Clay Pit Road with a girth of 480 cm. This would imply an Age of over 250 years.</text>
+        <age>480</age>
+        <grid>ST5734 7530</grid>
+        <easting>357340</easting>
+        <northing>175300</northing>
+        <latitude>51.475043</latitude>
+        <longitude>-2.615625</longitude>
+    </tree>
+    <tree>
+        <id>RB-119</id>
+        <name>Lime, Silver</name>
+        <latin>Tilia tomentosa</latin>
+        <tag>Champion</tag>
+        <text>A fine well shaped tree distinguished by the white undersides of the leaves. A few planted on Ladies Mile on the Downs to replace Huntingdon Elms, but the best is on Victoria Street in Redcliff by Temple Church with a girth of 205cm.</text>
+        <girth>205</girth>
+        <grid>ST5927 7274</grid>
+        <easting>359270</easting>
+        <northing>172740</northing>
+        <latitude>51.452168</latitude>
+        <longitude>-2.587542</longitude>
+    </tree>
+    <tree>
+        <id>RB-120</id>
+        <name>Lime, Silver Pendent</name>
+        <latin>Tilia tomentosa 'Petiolaris'</latin>
+        <tag>Champion</tag>
+        <text>Always grafted this is similar to the Silver Lime, but with a weeping form. The finest is in the private Vyvyan gardens, Clifton, which dates back to 1840 and has a girth of 350cm. It dominates the local landscape.</text>
+        <girth>350</girth>
+        <grid>ST5723 7343</grid>
+        <easting>357230</easting>
+        <northing>173430</northing>
+        <latitude>51.458221</latitude>
+        <longitude>-2.616982</longitude>
+    </tree>
+    <tree>
+        <id>RB-121</id>
+        <name>Lime, Small Leaf</name>
+        <latin>Tilia cordata</latin>
+        <tag>Champion</tag>
+        <text>Though nationally this is an uncommon native species, locally it is frequent with some very ancient trees in Leigh Woods. It rarely produces seed in our present climate. It is distinguished by holding its flowers and fruit upright rather than hanging. Many were planted on the Downs avenues to replace Huntingdon Elms. The best is a tree at Victoria Park, with a girth of 360cm.</text>
+        <girth>360</girth>
+        <grid>ST5926 7167</grid>
+        <easting>359260</easting>
+        <northing>171670</northing>
+        <latitude>51.442547</latitude>
+        <longitude>-2.587562</longitude>
+    </tree>
+    <tree>
+        <id>RB-122</id>
+        <name>Maidenhair Tree</name>
+        <latin>Ginkgo biloba</latin>
+        <tag>Champion</tag>
+        <text>A very ancient tree species, dating back to the Jurassic era, it has a very upright form of growth and is now being planted in streets. Its leaf is unlike that of any other tree, and it turns a wonderful lemon yellow in the Autumn. Rarely planted, the best is in Canford Cemetery with a girth of 280cm. A fine one in Blaise by the summer house may be larger but cannot be accessed.</text>
+        <girth>280</girth>
+        <grid>ST5643 7748</grid>
+        <easting>356430</easting>
+        <northing>177480</northing>
+        <latitude>51.494573</latitude>
+        <longitude>-2.628996</longitude>
+    </tree>
+    <tree>
+        <id>RB-123</id>
+        <name>Maple, Box Elder</name>
+        <latin>Acer negundo</latin>
+        <tag>Champion</tag>
+        <text>Sometimes called Ash Leaf Maple as its leaves are quite unlike other maples, it has attractive flowers in spring, and pretty shoots when young, but it does not Age well. Commonly planted, the best is in Canford Cemetery with a girth of 200cm.</text>
+        <girth>200</girth>
+        <age>200</age>
+        <grid>ST5632 7748</grid>
+        <easting>356320</easting>
+        <northing>177480</northing>
+        <latitude>51.494565</latitude>
+        <longitude>-2.630581</longitude>
+    </tree>
+    <tree>
+        <id>RB-124</id>
+        <name>Maple, Cappadocian</name>
+        <latin>Acer cappadocicum</latin>
+        <tag>Champion</tag>
+        <text>It is the only maple that suckers, which can create problems. The best is a street tree at the top end of St John's Road, Clifton with a girth of 250cm. It was clearly planted in error for a Common Lime.</text>
+        <girth>250</girth>
+        <grid>ST5740 7439</grid>
+        <easting>357400</easting>
+        <northing>174390</northing>
+        <latitude>51.466865</latitude>
+        <longitude>-2.614651</longitude>
+    </tree>
+    <tree>
+        <id>RB-125</id>
+        <name>Maple, Cappadocian</name>
+        <latin>Acer cappadocicum</latin>
+        <tag>Champion</tag>
+        <text>It is the only maple that suckers, which can create problems. In Canford Park with a girth of 240cm.</text>
+        <girth>240</girth>
+        <grid>ST5682 7737</grid>
+        <easting>356820</easting>
+        <northing>177370</northing>
+        <latitude>51.493614</latitude>
+        <longitude>-2.623365</longitude>
+    </tree>
+    <tree>
+        <id>RB-126</id>
+        <name>Maple, Field</name>
+        <latin>Acer campestre</latin>
+        <tag>Champion</tag>
+        <text>A slow growing small native species, common in hedges, and hence often multi-trunked, and probably older than they look. The largest girth was measured in Crabtree Slip wood with a girth of 370cm.</text>
+        <girth>370</girth>
+        <grid>ST5450 7658</grid>
+        <easting>354500</easting>
+        <northing>176580</northing>
+        <latitude>51.486329</latitude>
+        <longitude>-2.656679</longitude>
+    </tree>
+    <tree>
+        <id>RB-127</id>
+        <name>Maple, Italian</name>
+        <latin>Acer opalus</latin>
+        <tag>Champion</tag>
+        <text>A rare tree looking almost identical to a Sycamore, but with blunter leaves, that flowers at the end of February. A fine one in Victoria Square, Clifton has a girth of 280cm. There is another, unmeasured, inside Wills Hall on the edge of the Downs.</text>
+        <girth>280</girth>
+        <grid>ST5732 7312</grid>
+        <easting>357320</easting>
+        <northing>173120</northing>
+        <latitude>51.455441</latitude>
+        <longitude>-2.615649</longitude>
+    </tree>
+    <tree>
+        <id>RB-128</id>
+        <name>Maple, Italian</name>
+        <latin>Acer opalus</latin>
+        <tag>Champion</tag>
+        <text>A rare tree looking almost identical to a Sycamore, but with blunter leaves, that flowers at the end of February. Inside Wills Hall on the edge of the Downs. Unmeasured.</text>
+        <grid>ST5696 7558</grid>
+        <easting>356960</easting>
+        <northing>175580</northing>
+        <latitude>51.477531</latitude>
+        <longitude>-2.62113</longitude>
+    </tree>
+    <tree>
+        <id>RB-129</id>
+        <name>Maple, Japanese</name>
+        <latin>Acer palmatum</latin>
+        <tag>Champion</tag>
+        <text>A slow growing small tree with amazing autumn colour, that is widely planted in gardens, but rarely in parks. West mall gardens Clifton have some good examples.</text>
+        <grid>ST5673 7298</grid>
+        <easting>356730</easting>
+        <northing>172980</northing>
+        <latitude>51.454137</latitude>
+        <longitude>-2.624123</longitude>
+    </tree>
+    <tree>
+        <id>RB-130</id>
+        <name>Maple, Norway</name>
+        <latin>Acer platanoides</latin>
+        <tag>Champion</tag>
+        <text>Very commonly planted in recent years, with a wide variety of leaf colours, this species grows very fast, and is distinguished from the Sycamore by pointed tips to its leaves, and a bark that is vertically striated. Much the oldest is a very fine tree in Ashton Park with a girth of 440cm</text>
+        <girth>440</girth>
+        <grid>ST5539 7195</grid>
+        <easting>355390</easting>
+        <northing>171950</northing>
+        <latitude>51.444772</latitude>
+        <longitude>-2.643276</longitude>
+    </tree>
+    <tree>
+        <id>RB-131</id>
+        <name>Maple Silver</name>
+        <latin>Acer saccharinum</latin>
+        <tag>Champion</tag>
+        <text>A fast growing Maple with pretty leaves that have a pale underside turning silver in the Autumn. It flowers in January and its seeds fall at the end of May. Widely planted in recent years, the largest is in Greville Smythe Park with a girth of 290cm.</text>
+        <girth>290</girth>
+        <grid>ST5693 7172</grid>
+        <easting>356930</easting>
+        <northing>171720</northing>
+        <latitude>51.442824</latitude>
+        <longitude>-2.621091</longitude>
+    </tree>
+    <tree>
+        <id>RB-132</id>
+        <name>Maple Silver</name>
+        <latin>Acer saccharinum</latin>
+        <tag>Champion</tag>
+        <text>A fast growing Maple with pretty leaves that have a pale underside turning silver in the Autumn. It flowers in January and its seeds fall at the end of May. Widely planted in recent years. Found on College Green with a girth of 290cm and planted in 1950.</text>
+        <girth>290</girth>
+        <grid>ST5839 7281</grid>
+        <easting>358390</easting>
+        <northing>172810</northing>
+        <latitude>51.452734</latitude>
+        <longitude>-2.600214</longitude>
+    </tree>
+    <tree>
+        <id>RB-133</id>
+        <name>Maple, Red</name>
+        <latin>Acer rubrum</latin>
+        <tag>Champion</tag>
+        <text>Only one mature tree, in Oldbury Court with a girth of 200cm. Distinguished by flowers in March and early start to red autumn colour in September.</text>
+        <girth>200</girth>
+        <grid>ST6348 7679</grid>
+        <easting>363480</easting>
+        <northing>176790</northing>
+        <latitude>51.48887</latitude>
+        <longitude>-2.527378</longitude>
+    </tree>
+    <tree>
+        <id>RB-134</id>
+        <name>Monkey Puzzle</name>
+        <latin>Araucaria araucana</latin>
+        <tag>Champion</tag>
+        <text>Quite often planted in private gardens, and the one on The Promenade in Clifton is probably the oldest.</text>
+        <grid>ST5655 7352</grid>
+        <easting>356550</easting>
+        <northing>173520</northing>
+        <latitude>51.458979</latitude>
+        <longitude>-2.626779</longitude>
+    </tree>
+    <tree>
+        <id>RB-135</id>
+        <name/>
+        <latin>Neolitsea sericea</latin>
+        <tag>Champion</tag>
+        <text>A very rare tree from Korea. It is evergreen, and not especially impressive, and is in St Andrews Churchyard in Clifton. It is multi-trunked, and related to Laurel.</text>
+        <grid>ST5742 7291</grid>
+        <easting>357420</easting>
+        <northing>172910</northing>
+        <latitude>51.45356</latitude>
+        <longitude>-2.614184</longitude>
+    </tree>
+    <tree>
+        <id>RB-136</id>
+        <name>Norway Spruce</name>
+        <latin>Picea abies</latin>
+        <tag>Champion</tag>
+        <text>This is the commonest Christmas Tree, and there are a number of tall young trees in Combe Dingle with a girth of around 180cm.</text>
+        <girth>180</girth>
+        <grid>ST5573 7774</grid>
+        <easting>355730</easting>
+        <northing>177740</northing>
+        <latitude>51.496857</latitude>
+        <longitude>-2.639111</longitude>
+    </tree>
+    <tree>
+        <id>RB-137</id>
+        <name>Oak, Chestnut leaved</name>
+        <latin>Quercus castaneifolia</latin>
+        <tag>Champion</tag>
+        <text>Five of these have recently been established in Victoria Square, Clifton beside the centre path, to replace the original beech trees.</text>
+        <grid>ST5724 7311</grid>
+        <easting>357240</easting>
+        <northing>173110</northing>
+        <latitude>51.455345</latitude>
+        <longitude>-2.616799</longitude>
+    </tree>
+    <tree>
+        <id>RB-138</id>
+        <name>Oak, Cluster</name>
+        <latin>Quercus robur var cristata</latin>
+        <tag>Champion</tag>
+        <text>The rarest tree in Bristol as there are only about six in the country. The original tree was found in Savernake Forest, and it is a very slow growing sport with distorted leaves. It does however come true from seed. It must have been planted c 1950 in the triangle outside the Lord Mayors House, near the Proctors Fountain. Its girth is only 130cm.</text>
+        <girth>130</girth>
+        <grid>ST5662 7379</grid>
+        <easting>356620</easting>
+        <northing>173790</northing>
+        <latitude>51.461411</latitude>
+        <longitude>-2.625805</longitude>
+    </tree>
+    <tree>
+        <id>RB-139</id>
+        <name>Oak Cork</name>
+        <latin>Quercus suber</latin>
+        <tag>Champion</tag>
+        <text>An evergreen oak, there is a single very young plant in Victoria Square, Clifton.</text>
+        <grid>ST5724 7311</grid>
+        <easting>357240</easting>
+        <northing>173110</northing>
+        <latitude>51.455345</latitude>
+        <longitude>-2.616799</longitude>
+    </tree>
+    <tree>
+        <id>RB-140</id>
+        <name>Oak, Cypress</name>
+        <latin>Quercus robur fastigiata</latin>
+        <tag>Champion</tag>
+        <text>This variety grows in a columnar form, but is not often planted. The best is at Blaise, by the children's playground with a girth of 260cm.</text>
+        <girth>260</girth>
+        <grid>ST5611 7871</grid>
+        <easting>356110</easting>
+        <northing>178710</northing>
+        <latitude>51.505607</latitude>
+        <longitude>-2.633759</longitude>
+    </tree>
+    <tree>
+        <id>RB-141</id>
+        <name>Oak, Lebanon</name>
+        <latin>Quercus libani</latin>
+        <tag>Champion</tag>
+        <text>This is a small evergreen Oak planted in Castle Park. It has a girth of 150 cm.</text>
+        <grid>ST5933 7319</grid>
+        <easting>359330</easting>
+        <northing>173190</northing>
+        <latitude>51.456219</latitude>
+        <longitude>-2.58673</longitude>
+    </tree>
+    <tree>
+        <id>RB-142</id>
+        <name>Oak, Luccombe</name>
+        <latin>Quercus x hispanica</latin>
+        <tag>Champion</tag>
+        <text>This is a cross between Turkey Oak and Cork oak, and originated in the Exeter nurseries, and was widely planted by the Victorians. It does come true from seed. Most of the old estates had one, but they have tended to die in recent years. The best survivor is at Stoke Lodge with a girth of 480cm. There is a fine one in a private garden in Druid Stoke Avenue that may be larger.</text>
+        <girth>480</girth>
+        <grid>ST5584 7650</grid>
+        <easting>355840</easting>
+        <northing>176500</northing>
+        <latitude>51.485716</latitude>
+        <longitude>-2.637371</longitude>
+    </tree>
+    <tree>
+        <id>RB-143</id>
+        <name>Oak, Red</name>
+        <latin>Quercus borealis</latin>
+        <tag>Champion</tag>
+        <text>This is a fast growing N American oak, with splendid colour in some autumns and very large leaves with fine points. The bests is at Blaise, by the caf', with a girth of 280cm.</text>
+        <girth>280</girth>
+        <grid>ST5597 7867</grid>
+        <easting>355970</easting>
+        <northing>178670</northing>
+        <latitude>51.505237</latitude>
+        <longitude>-2.635771</longitude>
+    </tree>
+    <tree>
+        <id>RB-144</id>
+        <name>Oak, Sessile</name>
+        <latin>Quercus petraea</latin>
+        <tag>Champion</tag>
+        <text>This species is common in the north west of the UK, and is locally rare. A fine tree on the Kings Weston estate has a girth of 400cm.</text>
+        <girth>400</girth>
+        <grid>ST5425 7720</grid>
+        <easting>354250</easting>
+        <northing>177200</northing>
+        <latitude>51.491883</latitude>
+        <longitude>-2.66036</longitude>
+    </tree>
+    <tree>
+        <id>RB-145</id>
+        <name>Oak, Turkey</name>
+        <latin>Quercus cerris</latin>
+        <tag>Champion</tag>
+        <text>It has been widely planted, and is now spreading fast naturally though woodlands. It is distinguished by hairs at the tip of its buds, and the sharp teething on its leaves, but it is very variable. The oldest is in Ashton Park with a girth of 480, and an Age of 200 or more. It is close to the main drive from Clifton, close to the top of the hill.</text>
+        <age>200</age>
+        <grid>ST5544 7211</grid>
+        <easting>355440</easting>
+        <northing>172110</northing>
+        <latitude>51.446215</latitude>
+        <longitude>-2.642577</longitude>
+    </tree>
+    <tree>
+        <id>RB-146</id>
+        <name>Oak, Turners</name>
+        <latin>Quercus x turneri</latin>
+        <tag>Champion</tag>
+        <text>This is a rare hybrid between the Common Oak and the Holm oak, which is semi-evergreen. Two treed stand in the front garden of a private house in Gordon Road, Clifton.</text>
+        <grid>ST5754 7320</grid>
+        <easting>357540</easting>
+        <northing>173200</northing>
+        <latitude>51.456177</latitude>
+        <longitude>-2.612492</longitude>
+    </tree>
+    <tree>
+        <id>RB-147</id>
+        <name>Oak, White</name>
+        <latin>Quercus alba</latin>
+        <tag>Champion</tag>
+        <text>This is a rare North American Oak and a fine tree grows amidst dense undergrowth in Kings Weston.</text>
+        <grid>ST5383 7723</grid>
+        <easting>353830</easting>
+        <northing>177230</northing>
+        <latitude>51.492119</latitude>
+        <longitude>-2.666413</longitude>
+    </tree>
+    <tree>
+        <id>RB-148</id>
+        <name>Persion Ironwood</name>
+        <latin>Parrotia persica</latin>
+        <tag>Champion</tag>
+        <text>By the Wills Tower. This is a large, sprawling tree, with dark leaves that turn a wonderful purple in the autumn. It is rare.</text>
+        <grid>ST5815 7318</grid>
+        <easting>358150</easting>
+        <northing>173180</northing>
+        <latitude>51.456042</latitude>
+        <longitude>-2.603711</longitude>
+    </tree>
+    <tree>
+        <id>RB-149</id>
+        <name>Persion Ironwood</name>
+        <latin>Parrotia persica</latin>
+        <tag>Champion</tag>
+        <text>In the Zoo. This is a large, sprawling tree, with dark leaves that turn a wonderful purple in the autumn. It is rare.</text>
+        <grid>ST5684 7396</grid>
+        <easting>356840</easting>
+        <northing>173960</northing>
+        <latitude>51.462957</latitude>
+        <longitude>-2.62266</longitude>
+    </tree>
+    <tree>
+        <id>RB-150</id>
+        <name>Pine, Bhutan</name>
+        <latin>Pinus wallichiana</latin>
+        <tag>Champion</tag>
+        <text>This tree has very graceful fine needles in bunches of five, and is often planted. The largest, girth 395cm. is in the grove in a piece of public parkland off the road called Clifton High Grove.</text>
+        <girth>395</girth>
+        <grid>ST5613 7625</grid>
+        <easting>356130</easting>
+        <northing>176250</northing>
+        <latitude>51.483491</latitude>
+        <longitude>-2.633164</longitude>
+    </tree>
+    <tree>
+        <id>RB-151</id>
+        <name>Pine, Black</name>
+        <latin>Pinus nigra</latin>
+        <tag>Champion</tag>
+        <text>Sometimes called the Austrian Pine or the Corsican Pine, this is much the most common and successful pine in the city. It was widely planted on the Downs in the 1880s. The largest is in the Bishops Knoll Wood, Bramble Lane, Stoke Bishop with a girth of 460cm. However, it is unlikely to be much more than 150 years old.</text>
+        <girth>460</girth>
+        <grid>ST5528 7523</grid>
+        <easting>355280</easting>
+        <northing>175230</northing>
+        <latitude>51.474254</latitude>
+        <longitude>-2.645275</longitude>
+    </tree>
+    <tree>
+        <id>RB-152</id>
+        <name>Pine, Maritime</name>
+        <latin>Pinus pinaster</latin>
+        <tag>Champion</tag>
+        <text>This species is distinguished by holding its unopened cones on its branches for years, waiting for a fire to come to open them. Three is an unhappy specimen in the upper reaches of the Sneyd Park Nature Reserve with a girth of 170cm.</text>
+        <girth>170</girth>
+        <grid>ST 5516 7552</grid>
+        <easting>355160</easting>
+        <northing>175520</northing>
+        <latitude>51.476852</latitude>
+        <longitude>-2.647039</longitude>
+    </tree>
+    <tree>
+        <id>RB-153</id>
+        <name>Pine, Scots</name>
+        <latin>Pinus sylvestris</latin>
+        <tag>Champion</tag>
+        <text>This is quite often planted, but rarely does well in Bristol. The best is in Eastville Park with a girth of 200cm.</text>
+        <girth>200</girth>
+        <grid>ST6159 7547</grid>
+        <easting>361590</easting>
+        <northing>175470</northing>
+        <latitude>51.476877</latitude>
+        <longitude>-2.554454</longitude>
+    </tree>
+    <tree>
+        <id>RB-154</id>
+        <name>Phillyrea</name>
+        <latin>Phillyrea latifolia</latin>
+        <tag>Champion</tag>
+        <text>A rare small evergreen tree which grows in a garden on the northern edge of the Downs, but fans out over the wall.</text>
+        <grid>ST5595 7482</grid>
+        <easting>355950</easting>
+        <northing>174820</northing>
+        <latitude>51.47062</latitude>
+        <longitude>-2.635577</longitude>
+    </tree>
+    <tree>
+        <id>RB-155</id>
+        <name>Poplar, Balsam</name>
+        <latin>Populus trichocarpa</latin>
+        <tag>Champion</tag>
+        <text>This fine species, with a strongly upright growth, scents the whole area with balsam when its buds break in the spring, and it turns a magnificent yellow in the Autumn. It is not common. The largest grows in the front garden of a house in Cecil Road Clifton, close to the Zoo.</text>
+        <grid>ST5861 7388</grid>
+        <easting>358610</easting>
+        <northing>173880</northing>
+        <latitude>51.46237</latitude>
+        <longitude>-2.597173</longitude>
+    </tree>
+    <tree>
+        <id>RB-156</id>
+        <name>Poplar, Grey</name>
+        <latin>Populus canescens</latin>
+        <tag>Champion</tag>
+        <text>Distinguished by the black diamond shaped pits on its trunk. Many were planted at Eastwood Farm when the tip closed but the largest are in the Frome Valley with a girth of 230cm. Somewhat larger ones on the bank could not be measured.</text>
+        <girth>230</girth>
+        <grid>ST6298 7657</grid>
+        <easting>362980</easting>
+        <northing>176570</northing>
+        <latitude>51.48686</latitude>
+        <longitude>-2.534556</longitude>
+    </tree>
+    <tree>
+        <id>RB-157</id>
+        <name>Poplar, White</name>
+        <latin>Populus alba</latin>
+        <tag>Champion</tag>
+        <text>This tree suckers vigorously, and can often be seen along Motorways. The undersides of the leaves are white and turn silver in the Autumn. One in a grove on Canford Lane has a girth of 270cm.</text>
+        <girth>270</girth>
+        <grid>ST5602 7745</grid>
+        <easting>356020</easting>
+        <northing>177450</northing>
+        <latitude>51.494272</latitude>
+        <longitude>-2.634898</longitude>
+    </tree>
+    <tree>
+        <id>RB-158</id>
+        <name>Cyprian Plane</name>
+        <latin>Platanus orientalis var insularis</latin>
+        <tag>Champion</tag>
+        <text>An interesting variety with leaves that have five long fingers, and holds its foliage later than other planes. A young tree is in Victoria Park with a girth of about 100cm.</text>
+        <girth>100</girth>
+        <age>100</age>
+        <grid>ST5926 7137</grid>
+        <easting>359260</easting>
+        <northing>171370</northing>
+        <latitude>51.43985</latitude>
+        <longitude>-2.587528</longitude>
+    </tree>
+    <tree>
+        <id>RB-159</id>
+        <name>Pride of India</name>
+        <latin>Koelreuteria paniculata</latin>
+        <tag>Champion</tag>
+        <text>Sometimes called the Golden Rain Tree for its bright yellow flowers which come in August, it has very unusual attractive leaves and small black fruit in papery bladders. There is a fine one by the tower on Brandon Hill with a girth of 110cm.</text>
+        <girth>110</girth>
+        <grid>ST5793 7298</grid>
+        <easting>357930</easting>
+        <northing>172980</northing>
+        <latitude>51.454228</latitude>
+        <longitude>-2.606854</longitude>
+    </tree>
+    <tree>
+        <id>RB-160</id>
+        <name>Redwood</name>
+        <latin>Sequoia sempervirens</latin>
+        <tag>Champion</tag>
+        <text>Distinguished by its thick red bark and yew-like leaves, it does not grow as well as the Wellingtonia. It will coppice, which is very unusual for a conifer, and this can be seen in action on Richmond Hill at the entrance to a car park.</text>
+        <grid>ST5774 7333</grid>
+        <easting>357740</easting>
+        <northing>173330</northing>
+        <latitude>51.457361</latitude>
+        <longitude>-2.60963</longitude>
+    </tree>
+    <tree>
+        <id>RB-160-1</id>
+        <name>Redwood</name>
+        <latin>Sequoia sempervirens</latin>
+        <tag>Champion</tag>
+        <text>Distinguished by its thick red bark and yew-like leaves, it does not grow as well as the Wellingtonia. It will coppice, which is very unusual for a conifer. The largest is in the Bishops Knoll Wood, Bramble Lane, Stoke Bishop with a girth of 400cm. It is aged 150 years old at most.</text>
+        <girth>400</girth>
+        <age>150</age>
+        <grid>ST5774 7333</grid>
+        <easting>357740</easting>
+        <northing>173330</northing>
+        <latitude>51.457361</latitude>
+        <longitude>-2.60963</longitude>
+    </tree>
+    <tree>
+        <id>RB-161</id>
+        <name>Robinia</name>
+        <altname>False acacia</altname>
+        <latin>Robinia pseudoacacia</latin>
+        <tag>Champion</tag>
+        <text>This is a very tough spiny fast-growing tree that suckers readily, and has delicate white pea like flowers. In Kings Weston there is a grove of them behind the house.</text>
+        <grid>ST5425 7749</grid>
+        <easting>354250</easting>
+        <northing>177490</northing>
+        <latitude>51.494491</latitude>
+        <longitude>-2.660397</longitude>
+    </tree>
+    <tree>
+        <id>RB-161-1</id>
+        <name>Robinia</name>
+        <altname>False acacia</altname>
+        <latin>Robinia pseudoacacia</latin>
+        <tag>Champion</tag>
+        <text>This is a very tough spiny fast-growing tree that suckers readily, and has delicate white pea like flowers. The largest is in Greville Smythe park with a girth of 350cm that can't be aged more than 120 years old.</text>
+        <girth>350</girth>
+        <age>120</age>
+        <grid>ST5699 7176</grid>
+        <easting>356990</easting>
+        <northing>171760</northing>
+        <latitude>51.443188</latitude>
+        <longitude>-2.620232</longitude>
+    </tree>
+    <tree>
+        <id>RB-162</id>
+        <name>Roble Beech</name>
+        <latin>Lophozonia obliqua</latin>
+        <tag>Champion</tag>
+        <text>This is the beech of South America and it is too rarely planted in Bristol. The tree in the Zoo has a girth of 200cm.</text>
+        <girth>200</girth>
+        <grid>ST5690 7407</grid>
+        <easting>356900</easting>
+        <northing>174070</northing>
+        <latitude>51.46395</latitude>
+        <longitude>-2.621809</longitude>
+    </tree>
+    <tree>
+        <id>RB-163</id>
+        <name>Rowan</name>
+        <latin>Sorbus aucuparia</latin>
+        <tag>Champion</tag>
+        <text>A native small tree, and a number of varieties and species are often planted in gardens and car parks, but rarely in parks. Present in Canford Cemetery and Cumberland Basin.</text>
+    </tree>
+    <tree>
+        <id>RB-164</id>
+        <name>Service Tree</name>
+        <latin>Sorbus torminalis</latin>
+        <tag>Champion</tag>
+        <text>A rare small native tree, found wild in Leigh Woods. It is planted on Brandon hill, and present in Barn Wood in Stoke Park with a girth of 150cm.</text>
+        <girth>150</girth>
+        <grid>ST6183 7727</grid>
+        <easting>361830</easting>
+        <northing>177270</northing>
+        <latitude>51.493077</latitude>
+        <longitude>-2.551193</longitude>
+    </tree>
+    <tree>
+        <id>RB-165</id>
+        <name>Scholar's Tree</name>
+        <latin>Sophora japonica</latin>
+        <tag>Champion</tag>
+        <text>An uncommon tree that flowers in August. A fine one in Canynge Square in Clifton has a girth of 200cm.</text>
+        <girth>200</girth>
+        <grid>ST5686 7356</grid>
+        <easting>356860</easting>
+        <northing>173560</northing>
+        <latitude>51.459362</latitude>
+        <longitude>-2.622323</longitude>
+    </tree>
+    <tree>
+        <id>RB-166</id>
+        <name>Strawberry Tree</name>
+        <latin>Arbutus unedo</latin>
+        <tag>Champion</tag>
+        <text>Native in Ireland but usually planted here, it is an evergreen that fruits and flowers in November. The largest is in Castle Park with a girth of 150cm. The most well-known self-sown tree grows out of the cliff face close to the Folly at Blaise at ST5588 7833.</text>
+        <girth>150</girth>
+        <grid>ST5928 7318</grid>
+        <easting>359280</easting>
+        <northing>173180</northing>
+        <latitude>51.456125</latitude>
+        <longitude>-2.587449</longitude>
+    </tree>
+    <tree>
+        <id>RB-167</id>
+        <name>Sweetgum</name>
+        <latin>Liquidambar styraciflua</latin>
+        <tag>Champion</tag>
+        <text>This has magnificent autumn colouring and leaves rather like a Maple. Rare, but increasingly planted. The largest is in the Zoo with a girth of 190cm.</text>
+        <girth>190</girth>
+        <grid>ST5691 7402</grid>
+        <easting>356910</easting>
+        <northing>174020</northing>
+        <latitude>51.463502</latitude>
+        <longitude>-2.621659</longitude>
+    </tree>
+    <tree>
+        <id>RB-168</id>
+        <name>Sycamore</name>
+        <latin>Acer pseudoplatanus</latin>
+        <tag>Champion</tag>
+        <text>One of the commonest trees in the city, almost all self-sown, though variegated forms are planted and a rare form with a purple underside to the leaf is occasional. The finest is on the mound at Oldbury Court created as a feature by Humphrey Repton, the first landscape designer. The Mound has about ten Sycamores on it, the largest with a girth of 400cm.</text>
+        <girth>400</girth>
+        <grid>ST6352 7675</grid>
+        <easting>363520</easting>
+        <northing>176750</northing>
+        <latitude>51.488513</latitude>
+        <longitude>-2.526798</longitude>
+    </tree>
+    <tree>
+        <id>RB-169</id>
+        <name>Tree of Heaven</name>
+        <latin>Ailanthus altissima</latin>
+        <tag>Champion</tag>
+        <text>A Chinese tree, often planted, that suckers very readily, and flowers in late July, and has crimson winged fruit. Otherwise it can be mistaken for an ash. Two very fine trees in Clifton have collapsed in the past two years, and the largest is now in St Andrews Park with a girth of 300cm.</text>
+        <girth>300</girth>
+        <grid>ST5739 7297</grid>
+        <easting>357390</easting>
+        <northing>172970</northing>
+        <latitude>51.454097</latitude>
+        <longitude>-2.614623</longitude>
+    </tree>
+    <tree>
+        <id>RB-170</id>
+        <name>Tulip Tree</name>
+        <latin>Liriodendron tulipifera</latin>
+        <tag>Champion</tag>
+        <text>Named after its Tulip shaped greenish flowers and recognisable by its leaves that appear to have had the tips bitten out of them, it is a handsome and fast growing tree, widely planted for many years. The oldest is in a grove at Canford Lane with a girth of 470cm.</text>
+        <girth>470</girth>
+        <grid>ST5559 7749</grid>
+        <easting>355590</easting>
+        <northing>177490</northing>
+        <latitude>51.494598</latitude>
+        <longitude>-2.641097</longitude>
+    </tree>
+    <tree>
+        <id>RB-171</id>
+        <name>Turkish Hazel</name>
+        <latin>Corylus colurna</latin>
+        <tag>Champion</tag>
+        <text>Its leaf and fruit are similar to the Hazel bush, but it makes a stout tree with very dark rough bark. The largest is in the Zoo with a girth of 250cm.</text>
+        <girth>250</girth>
+        <grid>ST5679 7400</grid>
+        <easting>356790</easting>
+        <northing>174000</northing>
+        <latitude>51.463313</latitude>
+        <longitude>-2.623384</longitude>
+    </tree>
+    <tree>
+        <id>RB-172</id>
+        <name>Walnut, Black</name>
+        <latin>Juglans nigra</latin>
+        <tag>Champion</tag>
+        <text>A North American species which looks superficially like an Ash. The fruit are inedible. There are three on the Downs the largest with a girth of 250cm.</text>
+        <girth>250</girth>
+        <grid>ST5665 7504</grid>
+        <easting>356650</easting>
+        <northing>175040</northing>
+        <latitude>51.472653</latitude>
+        <longitude>-2.625527</longitude>
+    </tree>
+    <tree>
+        <id>RB-173</id>
+        <name>Walnut, Common</name>
+        <latin>Juglans regia</latin>
+        <tag>Champion</tag>
+        <text>Not often planted, but often self-sown by squirrels. The largest is at Stoke Lodge with a girth of 370cm. suggesting it is around 160 years old.</text>
+        <girth>370</girth>
+        <grid>ST5595 7646</grid>
+        <easting>355950</easting>
+        <northing>176460</northing>
+        <latitude>51.485365</latitude>
+        <longitude>-2.635782</longitude>
+    </tree>
+    <tree>
+        <id>RB-174</id>
+        <name>Western Red Cedar</name>
+        <latin>Thuja plicata</latin>
+        <tag>Champion</tag>
+        <text>A handsome common conifer with a distinctive egg shaped fruit, it often has branches coming horizontally from the base of its trunk. One at Canford Cemetery has a girth of 300cm.</text>
+        <girth>300</girth>
+        <grid>ST5645 7724</grid>
+        <easting>356450</easting>
+        <northing>177240</northing>
+        <latitude>51.492417</latitude>
+        <longitude>-2.628679</longitude>
+    </tree>
+    <tree>
+        <id>RB-175</id>
+        <name>Willow, Crack</name>
+        <latin>Salix fragilis</latin>
+        <tag>Champion</tag>
+        <text>Distinguished by the fact that branchlets snap off, it is a very common native tree, but rare in parks. Two very large on the bank of the Avon, Sparke Evans park.</text>
+        <grid>ST6081 7190</grid>
+        <easting>360810</easting>
+        <northing>171900</northing>
+        <latitude>51.444725</latitude>
+        <longitude>-2.565287</longitude>
+    </tree>
+    <tree>
+        <id>RB-176</id>
+        <name>Willow, White</name>
+        <latin>Salix alba</latin>
+        <tag>Champion</tag>
+        <text>Distinguished by the pale under-surface of the leaves, this has a variety of attractive forms. An ancient bole on the bank of the Frome in Eastville Park measures 390cm.</text>
+        <grid>ST6184 7576</grid>
+        <easting>361840</easting>
+        <northing>175760</northing>
+        <latitude>51.479501</latitude>
+        <longitude>-2.550886</longitude>
+    </tree>
+    <tree>
+        <id>RB-177</id>
+        <name>Willow, Weeping Golden</name>
+        <latin>Salix x sepulcralis 'Chrysocoma''</latin>
+        <tag>Champion</tag>
+        <text>A familiar form that grows very rapidly. The largest is in Canford Cemetery with a girth of 250cm.</text>
+        <girth>250</girth>
+        <grid>ST5634 7744</grid>
+        <easting>356340</easting>
+        <northing>177440</northing>
+        <latitude>51.494207</latitude>
+        <longitude>-2.630288</longitude>
+    </tree>
+    <tree>
+        <id>RB-178</id>
+        <name>Wingnut, Caucasian</name>
+        <latin>Pterocarya fraxinifolia</latin>
+        <tag>Champion</tag>
+        <text>Rarely planted for the good reason that is suckers very vigorously. There is a grove in Blaise woods by the bottom lake which has recently been cut back to reveal a twin trunk and a single trunk tree, with a girth of 250cm.</text>
+        <girth>250</girth>
+        <grid>ST5570 7777</grid>
+        <easting>355700</easting>
+        <northing>177770</northing>
+        <latitude>51.497124</latitude>
+        <longitude>-2.639547</longitude>
+    </tree>
+    <tree>
+        <id>RB-179</id>
+        <name>Wingnut, Caucasian</name>
+        <latin>Pterocarya fraxinifolia</latin>
+        <tag>Champion</tag>
+        <text>Rarely planted for the good reason that is suckers very vigorously. The largest is a twin trunked tree in private land off Church Road, Stoke Bishop, readily visible with a girth of 460cm.</text>
+        <girth>460</girth>
+        <grid>ST5570 7528</grid>
+        <easting>355700</easting>
+        <northing>175280</northing>
+        <latitude>51.474737</latitude>
+        <longitude>-2.639234</longitude>
+    </tree>
+    <tree>
+        <id>RB-180</id>
+        <name>Whitebeam, Common</name>
+        <latin>Sorbus aria</latin>
+        <tag>Champion</tag>
+        <text>Many specimens on the face of the Avon Gorge, and a total of 19 micro-species have also been proved to be present there. A wide variety of species and variants are planted.</text>
+    </tree>
+    <tree>
+        <id>RB-181</id>
+        <name>Whitebeam, Swedish</name>
+        <latin>Sorbus intermedia</latin>
+        <tag>Champion</tag>
+        <text>Widely planted often as a street tree but it tends to be short-lived. The best is on Brandon Hill with a girth of 130cm.</text>
+        <girth>130</girth>
+        <grid>ST5803 7257</grid>
+        <easting>358030</easting>
+        <northing>172570</northing>
+        <latitude>51.450549</latitude>
+        <longitude>-2.605366</longitude>
+    </tree>
+    <tree>
+        <id>RB-182</id>
+        <name>Yew</name>
+        <latin>Taxus baccata</latin>
+        <tag>Champion</tag>
+        <text>A very common native tree, and the Irish form whose branches grow vertically is the commonest planted especially in cemeteries. The champion tree is on the Downs with a girth of 480cm.</text>
+        <girth>480</girth>
+        <grid>ST 5638 7448</grid>
+        <easting>356380</easting>
+        <northing>174480</northing>
+        <latitude>51.467597</latitude>
+        <longitude>-2.629345</longitude>
+    </tree>
+    <tree>
+        <id>RB-183</id>
+        <name>Cedar of Lebanon</name>
+        <latin>Cedrus libani</latin>
+        <tag>Remarkable</tag>
+        <text>In the Zoo. This was an original planting in 1840, and before it was felled had a girth of 570cm. The massive stump was brilliantly sculpted in the form of an elephant with a series of animals on its back, diminishing in size upwards. Tree sculptures do not last for ever but are an effective and imaginative solution which is expensive but should be tried more often.</text>
+        <girth>570</girth>
+        <grid>ST5686 7399</grid>
+        <easting>356860</easting>
+        <northing>173990</northing>
+        <latitude>51.463228</latitude>
+        <longitude>-2.622375</longitude>
+    </tree>
+    <tree>
+        <id>RB-184</id>
+        <name>Chestnut, Horse</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Remarkable</tag>
+        <text>Badocks Wood in Westbury on Trym. This is a remarkable tree, close to the path up the stream, which has five separate trunks, and a total girth of 550cm.</text>
+        <girth>550</girth>
+        <grid>ST5811 7779</grid>
+        <easting>358110</easting>
+        <northing>177790</northing>
+        <latitude>51.497488</latitude>
+        <longitude>-2.604835</longitude>
+    </tree>
+    <tree>
+        <id>RB-185</id>
+        <name>Chestnut, Horse</name>
+        <latin>Aesculus hippocastanum</latin>
+        <tag>Remarkable</tag>
+        <text>This is an unusual tree, hanging over the river Frome in Snuff Mills Park, whose branches are weeping. Its girth is 290cm. and I suspect the branches grow towards the light reflected from the river, as they are shaded by other trees higher up the cliff face.</text>
+        <girth>290</girth>
+        <grid>ST5606 7874</grid>
+        <easting>356060</easting>
+        <northing>178740</northing>
+        <latitude>51.505873</latitude>
+        <longitude>-2.634483</longitude>
+    </tree>
+    <tree>
+        <id>RB-186</id>
+        <name>Chestnut, Sweet</name>
+        <latin>Castanea sativa</latin>
+        <tag>Remarkable</tag>
+        <text>Along one edge of Cavendish Gardens in Stoke Bishop. There is a line of seven Sweet Chestnuts all with similar girths of about 350cm. One however, perhaps because it lost its top in a storm, has been sculpted into the form of a Barn Owl, and it has been varnished to protect it.</text>
+        <girth>350</girth>
+        <grid>ST5521 7559</grid>
+        <easting>355210</easting>
+        <northing>175590</northing>
+        <latitude>51.477485</latitude>
+        <longitude>-2.646328</longitude>
+    </tree>
+    <tree>
+        <id>RB-187</id>
+        <name>Deodar</name>
+        <latin>Cedrus deodara</latin>
+        <tag>Remarkable</tag>
+        <text>The tree beside Kings Weston House has a girth of 430cm. It is most notable for a huge branch coming off the trunk very close to the ground, which all children love to climb.</text>
+        <girth>430</girth>
+        <grid>ST5423 7741</grid>
+        <easting>354230</easting>
+        <northing>177410</northing>
+        <latitude>51.49377</latitude>
+        <longitude>-2.660675</longitude>
+    </tree>
+    <tree>
+        <id>RB-188</id>
+        <name>Fig</name>
+        <latin>Ficus carica</latin>
+        <tag>Remarkable</tag>
+        <text>A huge fig tree grows in the vertical wall of Bristol Docks just east of Bristol Bridge. This wall, thirty feet high, was part of the defences of the ancient castle. How the Fig managed to establish itself, and how long ago is a mystery. Every so often it is heavily reduced so that it does not create problems for the river traffic.</text>
+        <grid>ST5910 7303</grid>
+        <easting>359100</easting>
+        <northing>173030</northing>
+        <latitude>51.454763</latitude>
+        <longitude>-2.590022</longitude>
+    </tree>
+    <tree>
+        <id>RB-189</id>
+        <name>Fig</name>
+        <latin>Ficus carica</latin>
+        <tag>Remarkable</tag>
+        <text>Another sprawling fig that sprawls along the bank of the new cut, close by the Bath Bridge roundabout.</text>
+        <grid>ST5961 7215</grid>
+        <easting>359610</easting>
+        <northing>172150</northing>
+        <latitude>51.446888</latitude>
+        <longitude>-2.582582</longitude>
+    </tree>
+    <tree>
+        <id>RB-190</id>
+        <name>Maidenhair Tree</name>
+        <latin>Ginkgo biloba</latin>
+        <tag>Remarkable</tag>
+        <text>A Ginkgo at The Grove, Stoke Bishop has three trunks, though its girth is only 150cm.</text>
+        <girth>150</girth>
+        <grid>ST5614 7627</grid>
+        <easting>356140</easting>
+        <northing>176270</northing>
+        <latitude>51.483672</latitude>
+        <longitude>-2.633023</longitude>
+    </tree>
+    <tree>
+        <id>RB-191</id>
+        <name>Lime, Common</name>
+        <latin>Tilia x europaea</latin>
+        <tag>Remarkable</tag>
+        <text>In the meadow at Blaise, off Henbury Lane is a huge rotting stump surrounded by a mass of thin tall trunks, an example of how easily Limes coppice.</text>
+    </tree>
+    <tree>
+        <id>RB-192</id>
+        <name>Lime, Small leaf</name>
+        <latin>Tilia cordata</latin>
+        <tag>Remarkable</tag>
+        <text>This tree is on the banks of the Frome in Snuff Mills Park and its branches weep down towards the light reflected from the river.</text>
+        <grid>ST6316 7675</grid>
+        <easting>363160</easting>
+        <northing>176750</northing>
+        <latitude>51.48849</latitude>
+        <longitude>-2.531982</longitude>
+    </tree>
+    <tree>
+        <id>RB-193</id>
+        <name>Oak, Common</name>
+        <latin>Quercus robur</latin>
+        <tag>Remarkable</tag>
+        <text>This tree defies gravity, as it grows immediately above a vertical former quarry cliff on the edge of Snuff Mills park. It is a very ancient, squat tree, on the very edge of the path and in winter visible from the lower path.</text>
+        <grid>ST6261 7657</grid>
+        <easting>362610</easting>
+        <northing>176570</northing>
+        <latitude>51.486835</latitude>
+        <longitude>-2.539884</longitude>
+    </tree>
+    <tree>
+        <id>RB-194</id>
+        <name>Oak, Holm</name>
+        <latin>Quercus ilex</latin>
+        <tag>Remarkable</tag>
+        <text>Holm Oaks are common in Clifton, and a tree on the edge of a garden in Pembroke Road has caused the owners to take the wall down and revealed a marvellously gnarled and convoluted trunk.</text>
+        <grid>ST5728 7377</grid>
+        <easting>357280</easting>
+        <northing>173770</northing>
+        <latitude>51.461282</latitude>
+        <longitude>-2.616303</longitude>
+    </tree>
+    <tree>
+        <id>RB-195</id>
+        <name>Oak, Sessile</name>
+        <latin>Quercus petraea</latin>
+        <tag>Remarkable</tag>
+        <text>This tree is at least a century old, but, is it grows on the lip of the Gorge on the path around Fairyland it can't be measured. It stands out boldly when seen from the path down Bridge Valley Road.</text>
+        <grid>ST5636 7389</grid>
+        <easting>356360</easting>
+        <northing>173890</northing>
+        <latitude>51.462291</latitude>
+        <longitude>-2.62956</longitude>
+    </tree>
+    <tree>
+        <id>RB-196</id>
+        <name>Pine, Black</name>
+        <latin>Pinus nigra</latin>
+        <tag>Remarkable</tag>
+        <text>This is a tiny tree growing out of a small fissure in the vertical cliff at the bottom of the Gully. It is a natural Bonsai, and could be any Age.</text>
+        <grid>ST5621 7444</grid>
+        <easting>356210</easting>
+        <northing>174440</northing>
+        <latitude>51.467224</latitude>
+        <longitude>-2.631787</longitude>
+    </tree>
+    <tree>
+        <id>RB-197</id>
+        <name>Pine, Black</name>
+        <latin>Pinus nigra</latin>
+        <tag>Remarkable</tag>
+        <text>A towering pine in the Kings Weston estate has a girth of 320cm. but most unusually splits into two main trunks, both growing vertically at about 20 metres up. It may have suffered a lightning strike.</text>
+        <girth>320</girth>
+        <grid>ST5440 7224</grid>
+        <easting>354400</easting>
+        <northing>172240</northing>
+        <latitude>51.447301</latitude>
+        <longitude>-2.657558</longitude>
+    </tree>
+    <tree>
+        <id>RB-198</id>
+        <name>Sycamore</name>
+        <latin>Acer pseudoplatanus</latin>
+        <tag>Remarkable</tag>
+        <text>This tree on the Northern Slopes has no fewer than eight trunks emerging from its base, each 80cm in girth.</text>
+        <grid>ST5953 7064</grid>
+        <easting>359530</easting>
+        <northing>170640</northing>
+        <latitude>51.433306</latitude>
+        <longitude>-2.58356</longitude>
+    </tree>
+    <tree>
+        <id>RB-199</id>
+        <name>Sycamore</name>
+        <latin>Acer pseudoplatanus</latin>
+        <tag>Remarkable</tag>
+        <text>This tree in the Blaise meadows off Henbury Lane has five trunks, each with a girth of 280cm. and the whole is 700cm in circumference.</text>
+        <girth>280</girth>
+        <grid>ST5635 7855</grid>
+        <easting>356350</easting>
+        <northing>178550</northing>
+        <latitude>51.504188</latitude>
+        <longitude>-2.630281</longitude>
+    </tree>
+    <tree>
+        <id>RB-200</id>
+        <name>Sycamore</name>
+        <latin>Acer pseudoplatanus</latin>
+        <tag>Remarkable</tag>
+        <text>A twin trunked tree with a total girth at the base of 600cm. each trunk 350cm. It looks as if these are two trees growing from two original conjoined seeds. It is at the top of Bridge Valley Road and totally dominates the road.</text>
+        <girth>600</girth>
+        <grid>ST5655 7391</grid>
+        <easting>356550</easting>
+        <northing>173910</northing>
+        <latitude>51.462485</latitude>
+        <longitude>-2.626828</longitude>
+    </tree>
+    <tree>
+        <id>RB-201</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Remarkable</tag>
+        <text>This small tree grows on the slope of Brandon Hill. It was planted in 1973 as part of plant a tree year, and already has a girth of 300cm. a growth rate of almost 8 cm a year, three times that of most trees. It shows what the huge trees that dominate Bristol's skyline today would have looked like in around 1900 to their proud owners.</text>
+        <girth>300</girth>
+        <grid>ST5787 7286</grid>
+        <easting>357870</easting>
+        <northing>172860</northing>
+        <latitude>51.453145</latitude>
+        <longitude>-2.607703</longitude>
+    </tree>
+    <tree>
+        <id>RB-202</id>
+        <name>Wellingtonia</name>
+        <latin>Sequoiadendron giganteum</latin>
+        <tag>Remarkable</tag>
+        <text>This tree grows in Greville Smythe Park and has a girth of 400cm. so was probably planted around 1950. At about 20metres it, most unusually splits into three separate trunks.</text>
+        <girth>400</girth>
+        <grid>ST5709 7169</grid>
+        <easting>357090</easting>
+        <northing>171690</northing>
+        <latitude>51.442566</latitude>
+        <longitude>-2.618785</longitude>
+    </tree>
+</trees>
