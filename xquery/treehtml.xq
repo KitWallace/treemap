@@ -40,14 +40,14 @@ declare function local:about() {
      <div>The data on trees mapped here has been collected by Richard Bland. </div>
      <div>The original semi-structured text has been converted to a <a href="data/trees.xml"> structured xml document</a>.
      </div><div>The location of all trees can be <a href="treekml.xq">extracted as kml</a>. Save the page as e.g. trees.kml and then view in Google Earth </div>
-     <div>This site is under development by <a class="external" target="_blank" href="http://kitwallace.co.uk">Chris Wallace</a> and Mark Ashdown.  Current issues are on <a class="external" target="_blank" href="https://github.com/KitWallace/treemap/issues">Github</a>.
+     <div>This site is under development by <a class="external" target="_blank" href="http://kitwallace.co.uk">Chris Wallace</a> and Mark Ashdown.  Code, data and current issues are on <a class="external" target="_blank" href="https://github.com/KitWallace/treemap">Github</a>.
      </div>  
    </div>
 };
 
 
 let $taglist := ("Veteran","Champion","Remarkable")
-let $key := "yourprivatekey"
+let $key := "AIzaSyB-sB9Nwqkh-imfUd1-w3_lz4KFhL-_VqU"
 let $trees := doc("/db/apps/trees/data/trees.xml")/trees 
 let $id := request:get-parameter("id",())
 let $common := request:get-parameter("common",())
@@ -72,22 +72,19 @@ return
             href="https://fonts.googleapis.com/css?family=Merriweather Sans"/>
     <link rel="stylesheet" type="text/css"
             href="https://fonts.googleapis.com/css?family=Gentium Book Basic"/>
-    <script type="text/javascript" src="../js/sorttable.js"></script> 
+    <script type="text/javascript" src="assets/sorttable.js"></script> 
     <script src="https://maps.googleapis.com/maps/api/js?key={$key}"></script> 
     <script type="text/javascript">
 
-var map;
-var bounds = new google.maps.LatLngBounds();
-var position;
-var infowindow = null;
-var marker;
-var trees = [
+var markers = [
    { string-join(
        for $tree in $strees
-       let $title :=  concat($tree/id," : ",replace($tree/name,"'","\\'")) 
        let $text := replace($tree/text,"'","\\'")
+       let $name := replace($tree/name,"'","\\'")
+       let $title :=  concat($tree/id," : ",$name) 
+
        let $description :=  util:serialize(
-         <div><h1><a href="?id={$tree/id}">{$tree/name/string()}</a></h1><div>{$text}</div></div>,
+         <div><h1><a href="?id={$tree/id}">{$name}</a></h1><div>{$text}</div></div>,
           "method=xhtml media-type=text/html indent=no") 
 
 
@@ -100,60 +97,11 @@ var trees = [
      }
      ];
 
-function htmlDecode(input){{
-  var e = document.createElement('div');
-  e.innerHTML = input;
-  return e.childNodes[0].nodeValue;
-}}
+var centre =  new google.maps.LatLng(51.467425,-2.575213);
 
-function initialize() {{
-  div = document.getElementById("map_canvas");
-  map = new google.maps.Map(div,{{
-      zoom:  {if (count($strees) = 1 ) then 16 else 10},
-      center: new google.maps.LatLng(51.467425,-2.575213),
-      mapTypeId: 'satellite'
-      }}); 
-   addMarkers();
-   infowindow =  new google.maps.InfoWindow( {{
-          content: "loading ... "
-       }});         
-   if (trees.length == 1) {{
-        google.maps.event.addListenerOnce(map, 'zoom_changed', function() {{
-             map.setZoom(15); 
-        }});
-        map.fitBounds(bounds);
-       }}
-   else if (trees.length == 0) {{
-      map.position(new google.maps.LatLng(51.467425,-2.575213));
-      map.setZoom(12);
-      }}
-   else map.fitBounds(bounds);
-
-}}   
-
-function addMarkers() {{
-   for (i in trees){{
-       var m = trees[i];
-       var text = htmlDecode(m[3]);        
-       position = new google.maps.LatLng(m[1],m[2]);
-       bounds.extend(position);
-       marker = new google.maps.Marker({{
-          position: position,
-          title: m[0],
-          map: map,
-          icon: "http://maps.google.com/mapfiles/kml/pal2/icon12.png",
-          html: text
-       }});
-
-
-       google.maps.event.addListener(marker,'click', function() {{
-            infowindow.setContent(this.html);
-            infowindow.open(map, this);
-        }});
-   }}
- }}
- 
 </script> 
+    <script type="text/javascript" src="assets/map.js"></script> 
+ 
     <link rel="stylesheet" type="text/css" href="assets/base.css" media="screen" ></link>
     </head>
     <body onload="initialize()">
@@ -233,9 +181,19 @@ function addMarkers() {{
   else if (count($strees)=1)
   then 
     let $tree := $strees[1]
+    let $photos := doc("/db/apps/trees/data/treephotos.xml")//photo[treeid=$tree/id]
     return
      <div id="map_text">
      {local:tree-to-table($tree)}
+     {for $photo in $photos
+      return
+         <div> 
+           <a href="images/{$photo/photoid}"> <img src="images/{$photo/photoid}" width="400"></img> </a>
+            <br/>
+            <h3>{$photo/caption/string()}</h3>
+         </div>
+     }
+     
     </div>
    else 
     <div>empty</div>
