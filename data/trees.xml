@@ -1181,10 +1181,15 @@
     </tree>
     <tree>
         <id>RB-95</id>
-        <name>Elm</name>
-        <latin>Resistant</latin>
+        <name>Elm, Resistant</name>
+        <latin>Ulmus sapporo Autumn Gold</latin>
         <tag>Champion</tag>
-        <text>Ulmus sapporo Autumn Gold. ST5682 7329. As an experiment after the disease a species believed to be resistant to DED was planted on Clifton Green. Of the five trees planted only one has grown into the canopy, the others all having collapsed in storms.</text>
+        <text>As an experiment after the disease a species believed to be resistant to DED was planted on Clifton Green. Of the five trees planted only one has grown into the canopy, the others all having collapsed in storms.</text>
+        <grid>ST5682 7329</grid>
+        <easting>356820</easting>
+        <northing>173290</northing>
+        <latitude>51.456931</latitude>
+        <longitude>-2.622865</longitude>
     </tree>
     <tree>
         <id>RB-96</id>
@@ -2029,11 +2034,11 @@
         <text>Distinguished by its thick red bark and yew-like leaves, it does not grow as well as the Wellingtonia. It will coppice, which is very unusual for a conifer. The largest is in the Bishops Knoll Wood, Bramble Lane, Stoke Bishop with a girth of 400cm. It is aged 150 years old at most.</text>
         <girth>400</girth>
         <age>150</age>
-        <grid>ST5774 7333</grid>
-        <easting>357740</easting>
-        <northing>173330</northing>
-        <latitude>51.457361</latitude>
-        <longitude>-2.60963</longitude>
+        <grid>ST5526 7520</grid>
+        <easting>355260</easting>
+        <northing>175200</northing>
+        <latitude>51.473983</latitude>
+        <longitude>-2.645559</longitude>
     </tree>
     <tree>
         <id>RB-161</id>
