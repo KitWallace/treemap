@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <entity name="species">
+        <attribute name="latin" size="60"/>
+        <attribute name="synomym" size="60"/>
+        <attribute name="common" size="60"/>
+        <attribute name="altname" size="30" max="6" separator=","/>
+        <attribute name="parent" size="30" max="2" separator=","/>
+        <attribute name="description" form-type="text" size="10*100"/>
+    </entity>
+    <entity name="tree">
+        <attribute name="id" size="12"/>
+        <attribute name="latin" size="30"/>
+        <attribute name="name" size="30"/>
+        <attribute name="location" size="50"/>
+        <attribute name="latitude" size="12"/>
+        <attribute name="longitude" size="12"/>
+        <attribute name="girth" size="5"/>
+        <attribute name="height" size="5"/>
+        <attribute name="width" size="5"/>
+        <attribute name="tag" size="20" max="3" separator=","/>
+        <attribute name="age" size="5"/>
+        <attribute name="survey-date" size="12"/>
+        <attribute name="state" size="20"/>
+        <attribute name="text" form-type="text" size="10*100"/>
+    </entity>
+    <entity name="tree_filter">
+        <attribute name="id" size="12"/>
+        <attribute name="latin" size="30"/>
+        <attribute name="common" size="30"/>
+        <attribute name="range" size="50"/>
+        <attribute name="latitude" size="12"/>
+        <attribute name="longitude" size="12"/>
+        <attribute name="tag" size="20" max="N" separator=","/>
+        <attribute name="text" form-type="text" size="10*100"/>
+    </entity>
+</model>
