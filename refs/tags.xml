@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tags>
+    <tag>
+        <name>Richard Bland's Collection</name>
+        <source title="Bristol Tree Forum">https://bristoltreeforum.org/</source>
+        <contains>
+            <tag>Veteran</tag>
+            <tag>Champion</tag>
+            <tag>Remarkable</tag>
+        </contains>
+        <title>divided into three sections: Veteran,Champion and Remarkable.</title>
+    </tag>
+    <tag>
+        <name>Veteran</name>
+        <title>Veteran trees with a girth greater than 5 metres.</title>
+        <source title="Bristol Tree Forum">https://bristoltreeforum.org/</source>
+    </tag>
+    <tag>
+        <name>Champion</name>
+        <title>Largest and hence oldest trees in the public realm.</title>
+        <source title="Bristol Tree Forum">https://bristoltreeforum.org/</source>
+    </tag>
+    <tag>
+        <name>Remarkable</name>
+        <title>Unusual and interesting specimens.</title>
+        <source title="Bristol Tree Forum">https://bristoltreeforum.org/</source>
+    </tag>
+    <tag>
+        <name>St Andrews Park</name>
+        <title>Trees in St. Andrews Park.</title>
+        <source title="Friends of St. Andrews Park">http://friendsofstandrewspark.ning.com/</source>
+        <description>Perhaps the tree species that most distinguish St Andrews Park, their pollarded trunks giving rise to sweeping arches of branches forming a curving, green canopied avenue running north and south from the central cafe area.</description>
+    </tag>
+    <tag>
+        <name>Morley Sq</name>
+        <title>Trees in Morley Square</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Downs</name>
+        <title>Trees on Clifton Downs</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Gloucester Road</name>
+        <title>Trees in Gloucester Road</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Ashton Court</name>
+        <title>Trees in Ashton Court</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Brandon Hill</name>
+        <title>Trees on Brandon Hill</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Castle Park</name>
+        <title>Trees on Castle Park</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Horfield Common</name>
+        <title>Trees on Horfield Common</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    <tag>
+        <name>Stump Survey</name>
+        <title>Tree Stump Survey</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+        <description>BBC data augmented with new survey data</description>
+    </tag><!-- <tag>
+        <name>STANPA</name>
+        <title>BCC Trees in St. Andrews Park.</title>
+        <source title="Bristol City Council">https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb</source>
+    </tag>
+    -->
+</tags>
