@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <h2>Links</h2>
+    <ul>
+        <li>
+            <a class="external" target="_blank" href="https://bristoltreeforum.org/">Bristol Tree Forum</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://friendsofstandrewspark.ning.com">Friends of St Andrews Park</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://maps.bristol.gov.uk/pinpoint">Bristol Pinpoint</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://www.forestry.gov.uk/pdf/fcfc129.pdf/%24FILE/fcfc129.pdf">Forestry Commission - The right tree in the right place</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://www.ancient-tree-hunt.org.uk/">Ancient Tree Hunt</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://opendata.bristol.gov.uk">Opendata Bristol</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="https://opendata.bristol.gov.uk/Environment/Trees-arcgis_rest_services_ext_socrata_MapServer_6/t6a2-ntgb">BCC tree data set</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://www.treeregister.org/measuringtrees.shtml">How to measure trees</a>
+        </li>
+        <li>
+            <a class="external" target="_blank" href="http://www.movable-type.co.uk/scripts/latlong-os-gridref.html">Convert Coordinates</a>
+        </li>
+     
+    </ul>
+    <div>
+            This website is built using the open source XML database <a href="exist-db.org">eXist</a> and programming in XQuery and JQuery. Mapping uses the Google Javascript API. For code and data see <a class="external" target="_blank" href="https://github.com/KitWallace/treemap">Github</a>
+    </div>
+</div>
