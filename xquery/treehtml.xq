@@ -1,90 +1,52 @@
-declare option exist:serialize "method=xhtml media-type=text-html";
-declare function local:tree-to-table($tree) {
-   let $gs := string-join(subsequence(tokenize($tree/latin," "),1,if (contains($tree/latin," x ")) then 3 else 2)," ")
-   let $now := 2016
-   let $namep := tokenize($tree/name,"\s*,\s*")
-   let $common := if (count($namep) > 1) then concat($namep[2]," ",$namep[1]) else $tree/name/string()
-   return
-<div>
-       <br/>
-       <h2>{$common}</h2>
-       <br/>
-       <table>
-       <tr><th width="20%">ID</th><td>{$tree/id/string()}</td></tr>
-       <tr><th>Common name</th><td><a href="?common={$tree/name}">{$tree/name/string()}</a></td></tr>
-       {if (exists($tree/altname)) then 
-          <tr><th>Other names</th><td>{$tree/altname/string()}</td></tr> else () 
-       }
-       <tr><th>Latin name</th><td>{$tree/latin}&#160;<a target="_blank" class="external" href="https://en.wikipedia.org/wiki/{$gs}">Wikipedia</a> </td></tr>
- <!--      <tr><th>Lat/Long</th><td><a href="http://www.google.com/maps/place/{$tree/latitude},{$tree/longitude}/@{$tree/latitude},{$tree/longitude},18z/data=!3m1!1e3">{$tree/latitude/string()},{$tree/longitude/string()}</a></td></tr> -->
-       <tr><th>Collection</th><td><a href="?tag={$tree/tag}">{$tree/tag/string()}</a></td></tr>
-       {if($tree/latitude) then 
-          (<tr><th>OS grid</th><td>{$tree/grid/string()}</td></tr>,
-           <tr><th>Lat/Long</th><td>{$tree/latitude/string()},{$tree/longitude/string()}</td></tr>)
-       else ()
-       }
-      {if ($tree/girth) then <tr><th>Girth</th><td>{$tree/girth/string()}&#160;cm</td></tr> else ()}
-      {if ($tree/age) then  <tr><th>Age</th><td>{$tree/age/string()}&#160;years  [about {$now - number($tree/age)}]</td></tr>  else ()}  
-       <tr><th>Description</th><td>{$tree/text/string()}</td></tr>
-       </table>
- 
- </div>
- };
- 
- 
-declare function local:about() {
-  <div style="font-size:smaller">
-     <h2>About the site</h2>
-     <div>This site has been constructed to support the work of the <a class="external" target="_blank" href="https://bristoltreeforum.org/">Bristol Tree Forum</a> </div>
-    
-     <div>The data on trees mapped here has been collected by Richard Bland. </div>
-     <div>The original semi-structured text has been converted to a <a href="data/trees.xml"> structured xml document</a>.
-     </div><div>The location of all trees can be <a href="treekml.xq">extracted as kml</a>. Save the page as e.g. trees.kml and then view in Google Earth </div>
-     <div>This site is under development by <a class="external" target="_blank" href="http://kitwallace.co.uk">Chris Wallace</a> and Mark Ashdown.  Code, data and current issues are on <a class="external" target="_blank" href="https://github.com/KitWallace/treemap">Github</a>.
-     </div>  
-   </div>
-};
+import module namespace tp = "http://kitwallace.co.uk/lib/tp" at "lib/tp.xqm";
 
-
-let $taglist := ("Veteran","Champion","Remarkable")
-let $key := "AIzaSyB-sB9Nwqkh-imfUd1-w3_lz4KFhL-_VqU"
-let $trees := doc("/db/apps/trees/data/trees.xml")/trees 
-let $id := request:get-parameter("id",())
-let $common := request:get-parameter("common",())
-let $latin := request:get-parameter("latin",())
-let $search := request:get-parameter("contains",())
-let $tag :=request:get-parameter("tag",())
-let $list := request:get-parameter("list",())
-let $home := concat($common,$latin,$id,$search,$tag) = ""  and not( exists($list))
+let $format := request:get-parameter("format","html")
+let $mode  := request:get-parameter("mode","home")
+let $filter := tp:get-filter()            
 let $strees := 
-     if ($id) then $trees/tree[id=$id]
-     else if ($common) then $trees/tree[name=$common]
-     else if ($latin) then $trees/tree[latin=$latin]
-     else if ($search) then $trees/tree[matches(text,$search,"i")]
-     else if ($tag) then if ($tag="All") then $trees/tree else $trees/tree[tag=$tag] 
-     else if ($list) then ()
-     else $trees
+     if (exists($filter/*) and $mode= ("select","view"))
+     then tp:apply-filter($filter)
+     else ()
+let $ntrees := count($strees)    
+let $log := tp:log("treehtml")
 return 
+
+if ($format="html") 
+then
+let $serialize := util:declare-option("exist:serialize","method=xhtml media-type=text-html")
+return 
+
 <html>
   <head>
   <title>Trees of Bristol</title>
+    <meta charset="UTF-8"/>
     <link rel="stylesheet" type="text/css"
             href="https://fonts.googleapis.com/css?family=Merriweather Sans"/>
     <link rel="stylesheet" type="text/css"
             href="https://fonts.googleapis.com/css?family=Gentium Book Basic"/>
     <script type="text/javascript" src="assets/sorttable.js"></script> 
-    <script src="https://maps.googleapis.com/maps/api/js?key={$key}"></script> 
+    <script src="https://maps.googleapis.com/maps/api/js?key={$tp:googlekey}"></script> 
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link href="http://kitwallace.co.uk/trees/assets/BTF.png" rel="icon" sizes="128x128" />
+    <link rel="shortcut icon" type="image/png" href="http://kitwallace.co.uk/trees/assets/BTF.png"/>
+    <link rel="stylesheet" type="text/css" href="assets/base.css" media="screen" ></link>
+    {if ($ntrees > 3000)
+    then()
+    else
     <script type="text/javascript">
-
 var markers = [
    { string-join(
        for $tree in $strees
        let $text := replace($tree/text,"'","\\'")
        let $name := replace($tree/name,"'","\\'")
        let $title :=  concat($tree/id," : ",$name) 
-
+       let $icon := if (matches($tree/state,"stump","i"))
+                    then "http://maps.google.com/mapfiles/kml/pal4/icon25.png" 
+                    else if (matches($tree/state,"group","i") )
+                    then "http://maps.google.com/mapfiles/kml/pal2/icon4.png"
+                    else "http://maps.google.com/mapfiles/kml/pal2/icon12.png"
        let $description :=  util:serialize(
-         <div><h1><a href="?id={$tree/id}">{$name}</a></h1><div>{$text}</div></div>,
+         <div><h1><a href="?mode=view&amp;id={$tree/id}">{if ($tree/name) then $name else $tree/id/string()}</a>{if ($tree/altname) then concat(" or ", replace($tree/altname,"'","\\'")) else() }</h1><div><em>{replace($tree/latin/string(),"'","\\'")}</em>&#160;{$text}</div></div>,
           "method=xhtml media-type=text/html indent=no") 
 
 
@@ -92,7 +54,7 @@ var markers = [
        return
           concat("['",$title,"',",
                   $tree/latitude/string(),",",$tree/longitude/string(),
-                  ",'",$description,"']")
+                  ",'",$description,"','",$icon,"']")
        ,",&#10;")
      }
      ];
@@ -100,111 +62,82 @@ var markers = [
 var centre =  new google.maps.LatLng(51.467425,-2.575213);
 
 </script> 
+   }
     <script type="text/javascript" src="assets/map.js"></script> 
  
-    <link rel="stylesheet" type="text/css" href="assets/base.css" media="screen" ></link>
-    </head>
+     </head>
     <body onload="initialize()">
 
-   <h1>Trees of Bristol   
+   <h1><a href="?">Trees of Bristol</a>  
        <span style="font-size: smaller">
-           &#160; <a href="?">Home</a>
-           &#160; <a href="?list=common">Common Names</a>  
-           &#160; <a href="?list=latin">Latin Names</a>         
-           &#160; <a href="?list=about">About</a>         
+           &#160; <a href="?mode=collections">Collections</a>         
+           &#160; <a href="?mode=species-list">Species</a>         
+           &#160; <a href="?mode=search">Search</a>         
+           &#160; <a href="?mode=links">Links</a>           
        </span>    
   </h1>
   <hr/>
-  {if ($home) then 
+
+  {if ($mode="home") then 
+   <div>
+     {tp:doc("about")}   
+   </div>
+  else if ($mode="links")
+  then <div>    
+     {tp:doc("links")}
+   </div>
+ else if ($mode="collections")
+  then <div>
+    
+     {tp:collections($tp:taglist)}
+   </div>
+  else if ($mode = "search")
+  then 
+  <div>
+  <b>{$ntrees} match{if ($ntrees = 1) then "" else  "es" }</b>
+  {tp:filter-form($filter)}
+  </div>
+  else 
+  if ($mode = "species-list")
+  then tp:species-list()
+  else 
+  if ($mode = "species")
+  then tp:species-page($filter/latin)
+  else 
+  if ($mode="select" and $ntrees > 0)
+  then 
+     <div id="map_text">
+        <div><a href="?mode=search&amp;{tp:filter-to-params($filter)}">Filter: </a> {tp:show-filter($filter)}</div>
+        <hr/>
  
-    <div>
-    <h2>Collections</h2>
-    <div> 
-        <ul>
-            <li><a href="?tag=All">All</a></li>
-            {for $tag in $taglist
-             return
-               <li><a href="?tag={$tag}">{$tag}</a></li>
-            }
-       </ul>
+        {tp:trees-to-table($strees)}
      </div>
-     <h2>Search</h2>
-     <div>
-        <form action="?" method="get">
-           Search the descriptions for  <input type="text" size="30" name="contains"/>
-           <input type="submit"  value="Search"></input>
-        </form>
-     </div>    
-   </div>
-   else
-  if ($list = "common")
+  else if ($mode="view" and $ntrees=1)
   then
-   <div>
-     <h2>Common names</h2>
-     <ul>
-     {for $name in distinct-values($trees/tree/name)
-      order by $name
-      return <li><a href="?common={$name}">{$name}</a></li>
-     }
-     </ul>
-   </div>
-  else 
-  if ($list = "latin")
-  then
-   <div>
-     <h2>Latin names</h2>
-     <ul>
-     {for $name in distinct-values($trees/tree/latin)
-      order by $name
-      return <li><a href="?latin={$name}">{$name}</a></li>
-     }
-     </ul>
-   </div>
-  else 
-  if ($list = "about") 
-  then local:about()
-  else
-  if (count($strees) > 1)
-  then 
-     <div id="map_text">
-     <h2>{($tag,$common,$latin,$id,concat("Matching '",$search,"'"))[1]}</h2>
-     <table class="sortable"> 
-      <tr><th>Id</th><th>Name</th><th>Girth cm</th><th>Description</th></tr>
-      {for $tree in $strees
-       return
-        <tr>
-         <td><a href="?id={$tree/id}">{$tree/id/string()}</a></td><td>{$tree/name/string()}</td><td>{$tree/girth/string()}</td><td> {substring($tree/text,1,40)} ...</td>
-        </tr>
-      }  
-      </table>
-     </div>
-  else if (count($strees)=1)
-  then 
-    let $tree := $strees[1]
-    let $photos := doc("/db/apps/trees/data/treephotos.xml")//photo[treeid=$tree/id]
-    return
-     <div id="map_text">
-     {local:tree-to-table($tree)}
-     {for $photo in $photos
-      return
-         <div> 
-           <a href="images/{$photo/photoid}"> <img src="images/{$photo/photoid}" width="400"></img> </a>
-            <br/>
-            <h3>{$photo/caption/string()}</h3>
-         </div>
-     }
-     
+    <div id="map-text">
+      <div><a href="?mode=search&amp;{tp:filter-to-params($filter)}">Filter: </a> {tp:show-filter($filter)}</div>
+      <hr/>
+      {tp:tree-to-html($strees[1])}
     </div>
-   else 
-    <div>empty</div>
+  else 
+    <div><b>No matches</b>
+      {tp:filter-form($filter)}
+    </div>
   }
-     {if ($strees)
-     then <div id="map_canvas" >
+  {if ($ntrees> 0 and $ntrees <3000)
+  then <div id="map_canvas" >
        </div>
-      else()
-      }
+   else()
+  }
   </body>
 
 </html>
-
+else if ($format="xml" and count($strees) >0)
+then element result {$strees}
+else if ($format ="kml" and count($strees) >0)
+then tp:trees-to-kml($strees)
+else if ($format = "csv" and count($strees) > 0)
+then let $serialize := util:declare-option("exist:serialize","method=text media-type=text/plain")
+     return  tp:trees-to-csv($strees)
+else ()
   
