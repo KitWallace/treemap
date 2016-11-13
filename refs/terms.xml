@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terms>
+    <refs>
+        <ref id="1">
+            <title>Plant Names Simplified; Their Pronunciation Derivation &amp;campestre Meaning by
+                Johnson and Smith </title>
+        </ref>
+        <ref id="2">
+            <title>Virginia Tech Dendrology Features</title>
+            <href>http://dendro.cnre.vt.edu/dendrology/syllabus/meanings.cfm</href>
+        </ref>
+        <ref id="3">
+            <title>Missouri Botanical Garden Plant Finder</title>
+            <href>http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx</href>
+        </ref>
+        <ref id="4">
+            <title>The Seed Site</title>
+            <href>http://theseedsite.co.uk/latin.html</href>
+        </ref>
+        <ref id="5">
+            <title>Wikipedia</title>
+            <href>https://en.wikipedia.org/wiki/Main_Page</href>
+        </ref>
+    </refs>
+    <genus>
+        <name>Abies</name>
+        <pronunciation>A-beesZ</pronunciation>
+        <meaning>ancient L. name, possibly from L. abeo depart, i.e. from the ground, referring to
+            the great height attained by some species.</meaning>
+        <species>
+            <name>grandis</name>
+            <pronunciation>GRAN-dis</pronunciation>
+            <meaning>of great size</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Acer</name>
+        <pronunciation>A-ser</pronunciation>
+        <meaning>Classical L. name, possibly from L. acer, hard or sharp, the wood once having been
+            used for writing tablets.</meaning>
+        <species>
+            <name>platanoides</name>
+            <pronunciation>plat-an-OY-des</pronunciation>
+            <meaning>like a plane tree</meaning>
+        </species>
+        <species>
+            <name>campestre</name>
+            <pronunciation>kam-PES-tre</pronunciation>
+            <meaning>growing in fields</meaning>
+        </species>
+        <species>
+            <name>cappadocicum</name>
+            <pronunciation/>
+            <meaning>from Cappadocia in Central Turkey</meaning>
+        </species>
+        <species>
+            <name>negundo</name>
+            <pronunciation/>
+            <meaning>from the Sanskrit and Bengali word nirgundi, which was used as negundo in the
+                naming of Vitex negundo and later for Acer negundo that has a leaf similar to that
+                of Vitex negundo.</meaning>
+        </species>
+        <species>
+            <name>opalus</name>
+            <pronunciation/>
+            <meaning>L. opal</meaning>
+        </species>
+        <species>
+            <name>palmatum</name>
+            <pronunciation>pal-MA-tum</pronunciation>
+            <meaning>leaves palmate, like a hand</meaning>
+        </species>
+        <species>
+            <name>pseudoplatanus</name>
+            <pronunciation>sued-o-plat-A-nus</pronunciation>
+            <meaning>false Plane tree</meaning>
+            <cultivar>
+                <name>Purpureum</name>
+                <meaning>purple</meaning>
+            </cultivar>
+            <form>
+                <name>variegatum</name>
+                <meaning>variegated</meaning>
+            </form>
+        </species>
+        <species>
+            <name>rubrum</name>
+            <pronunciation>roo-BRUM</pronunciation>
+            <meaning>red (after leaves in autumn)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Aesculus</name>
+        <pronunciation>ES-ku-lus</pronunciation>
+        <meaning>ancient L. name of an oak or mast-bearing tree</meaning>
+        <species>
+            <name>hippocastanum</name>
+            <pronunciation>hip-po-KAS-ta-num</pronunciation>
+            <meaning>Gr. hippo, a horse and L. castanea, the Chestnut tree of Virgil</meaning>
+        </species>
+        <species>
+            <name>flava</name>
+            <pronunciation/>
+            <meaning>L yellow refering to the flowers</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ailanthus</name>
+        <pronunciation>a-LAN-thus</pronunciation>
+        <meaning>from the native Moluccan name, ailanto signifying tall enough to reach the
+            sky</meaning>
+        <species>
+            <name>altissima</name>
+            <meaning>L. highest</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Alnus</name>
+        <pronunciation>AL-nus</pronunciation>
+        <meaning>L. name for alder</meaning>
+        <species>
+            <name>cordata</name>
+            <pronunciation>kor-DA-ta</pronunciation>
+            <meaning>L. cordata,heart-shaped - of leaves</meaning>
+        </species>
+        <species>
+            <name>glutinosa</name>
+            <pronunciation>glu-tin-O-sa</pronunciation>
+            <meaning>sticky - the foliage gummy</meaning>
+            <sub>
+                <name>Laciniata</name>
+                <meaning>fringed, cut into deep,narrow irregular lobes</meaning>
+            </sub>
+        </species>
+        <species>
+            <name>incana</name>
+            <pronunciation>in-KA-na</pronunciation>
+            <meaning>grey or hoary-leaved</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Arbutus</name>
+        <pronunciation>AR-but-us</pronunciation>
+        <meaning>L. name, for A.unedo, perhaps derived from Celtic arboise, rough-fruited</meaning>
+        <species>
+            <name>unedo</name>
+            <pronunciation>u-NED-o or u-NE-do</pronunciation>
+            <meaning>Pliny derives name from unus, one and edo to eat i.e. to eat only one since
+                taste is exceedingly bland</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Betula</name>
+        <pronunciation>BET-u-la</pronunciation>
+        <meaning>The Latin name for birch - Anglo-Saxon birce</meaning>
+        <species>
+            <name>pendula</name>
+            <pronunciation>PEN-du-la</pronunciation>
+            <meaning>pendulous or weeping</meaning>
+        </species>
+        <species>
+            <name>ermanii</name>
+            <pronunciation/>
+            <meaning>after the German amateur-botanist Georg Adolf Erman presumably found in his
+                early travels before he became a distinguished physicist contributing to the theory
+                of magnetism. </meaning>
+        </species>
+        <species>
+            <name>opalus</name>
+            <pronunciation/>
+            <meaning>L. opal</meaning>
+        </species>
+        <species>
+            <name>utilis</name>
+            <meaning>L. useful</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Buddleja</name>
+        <pronunciation>BUD-le-a</pronunciation>
+        <meaning>named by Linnaeus after Rev. Adam Buddle,one-time vicar of
+            Farnbridge,Essex</meaning>
+        <species>
+            <name>davidii</name>
+            <meaning>after the Basque missionary and explorer in China, Father Armand David, who
+                first noticed the shrub.</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Calocedrus</name>
+        <meaning>Gr. kalos, beautiful and kedrus, Cedar</meaning>
+        <species>
+            <name>decurrens</name>
+            <meaning>decurrensis L. with leaf margins running gradually into the stems</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Carpinus</name>
+        <pronunciation>kar-PINE-us</pronunciation>
+        <meaning>ancient L. name for hornbeam</meaning>
+        <species>
+            <name>betulus</name>
+            <pronunciation>BET-u-lus</pronunciation>
+            <meaning>generic name for Birch which it resembles</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Castanea</name>
+        <pronunciation>kas-TA-nea-a</pronunciation>
+        <meaning>from Gr kastanun, a chestnut, said to be after Kastana, a district in
+            Thessaly</meaning>
+        <species>
+            <name>sativa</name>
+            <pronunciation>SAT-i-va</pronunciation>
+            <meaning>cultivated i.e. for crops</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Catalpa</name>
+        <pronunciation>kat-Al-pa</pronunciation>
+        <meaning>corruption of 'Catawba', the name of the North American Indian tribe that formerly
+            ocupied Georgia and the Carolinas</meaning>
+        <species>
+            <name>bignonioides</name>
+            <pronunciation>big-no-ne-OY-des</pronunciation>
+            <meaning>Bignonia-like</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cedrus</name>
+        <meaning>from Gr. Kedros, the Cedar of Pliny. alluding to the fragrance</meaning>
+        <pronunciation>SE-drus</pronunciation>
+        <species>
+            <name>deodara</name>
+            <pronunciation>de-o-DAR-a</pronunciation>
+            <meaning>from the Indian state Deodar</meaning>
+        </species>
+        <species>
+            <name>libani</name>
+            <pronunciation>LIB-an-i</pronunciation>
+            <meaning>of Mount Lebanon</meaning>
+        </species>
+        <species>
+            <name>atlantica</name>
+            <pronunciation>at-LAN-ti-ka</pronunciation>
+            <meaning>of the Atlas mountains</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Celtis</name>
+        <meaning>L. Pliny applied to an urelated species</meaning>
+    </genus>
+    <genus>
+        <name>Cercidiphyllum</name>
+        <meaning>from Gr. kerkis meaning redbud or Judas teeee, and pyllon, a leaf for its
+            similarity to redbud</meaning>
+        <species>
+            <name>japonicum</name>
+            <meaning>from Japan</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cercis</name>
+        <pronunciation>SER-sis</pronunciation>
+        <meaning>an ancient name given to the Judas Tree by the Greek philosopher
+            Theophrastus.</meaning>
+        <species>
+            <name>siliquastrum</name>
+            <pronunciation>sil-e-KWAS-trum</pronunciation>
+            <meaning>from siliqua, a botantic name for pods having a partition between the
+                seeds</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Chamaecyparis</name>
+        <meaning>from Gr. chamai, dwarf or to the ground and kyparissos, cypress tree</meaning>
+        <species>
+            <name>lawsoniana</name>
+            <meaning>after Lawson amd Son nursery in Edinburgh who intoduced the tree into
+                cultivation in 1854</meaning>
+        </species>
+        <species>
+            <name>nootkatensis</name>
+            <meaning/>
+        </species>
+    </genus>
+    <genus>
+        <name>Cordyline</name>
+        <meaning>from Gr. kordyle meaning club</meaning>
+        <species>
+            <name>australis</name>
+            <meaning>southern</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cornus</name>
+        <pronunciation>KOR-nus</pronunciation>
+        <meaning>from the L. a horn, from the hard nature of the wood</meaning>
+        <species>
+            <name>controversa</name>
+            <cultivar>
+                <name>Variegata</name>
+                <meaning>green leaves with white margins</meaning>
+            </cultivar>
+        </species>
+        <species>
+            <name>kousa</name>
+            <meaning>from the Japanese name for the species</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Corylus</name>
+        <pronunciation>kor-IL-us</pronunciation>
+        <meaning>possible from Gr. korys a hood or helmet ie. the calyx covering the nut, or from
+            Gr. karyon a hazel nut </meaning>
+        <species>
+            <name>avellana</name>
+            <pronunciation>av-el-LA-na</pronunciation>
+            <meaning>after Avella, a town in Campania where the hazel nut is largely grown for its
+                nuts</meaning>
+        </species>
+        <species>
+            <name>maxima</name>
+            <pronunciation>MAX-im-a</pronunciation>
+            <meaning>largest</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cotoneaster</name>
+        <pronunciation>ko-to-ne-AS-ter</pronunciation>
+        <meaning>from old L. name cotoneus, a quince and aster, probably a corruption of as instar
+            meaning a likeness i.e. Quince-like</meaning>
+        <species>
+            <name>frigidus</name>
+            <pronunciation>FRIJ-id-us</pronunciation>
+            <meaning>cold, frosty of native habitat</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Crataegus</name>
+        <pronunciation>kra-TE-gus</pronunciation>
+        <meaning>Gr. krataigos, believed to be derived from kratos, strength, alluding to the
+            hardness of the wood</meaning>
+        <species>
+            <name>monogyna</name>
+            <pronunciation>mon-o-JIN-a</pronunciation>
+            <meaning>having a single pistil</meaning>
+        </species>
+        <species>
+            <name>mexicana</name>
+            <pronunciation>mon-o-JIN-a</pronunciation>
+            <meaning>from Mexico</meaning>
+        </species>
+        <species>
+            <name>laevigata</name>
+            <meaning>smooth</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cryptomeria</name>
+        <pronunciation>krip-to-MEER-e-a</pronunciation>
+        <meaning>from Gr. kryptos, hidden and meros a part, alluding to latent
+            characteristics</meaning>
+        <species>
+            <name>japonica</name>
+            <pronunciation>jap-ON-ik-a</pronunciation>
+            <meaning>of Japan</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cupressus</name>
+        <pronunciation>ku-PRES-sus</pronunciation>
+        <meaning>classical name, said to be from Gr. kuo, to produce, parisos, equal, alluding to
+            the symmetrical form of the Italian Cypress</meaning>
+        <species>
+            <name>macrocarpa</name>
+            <pronunciation>mak-ro-KAR-pa</pronunciation>
+            <meaning>large fruited</meaning>
+        </species>
+        <species>
+            <name>sempervirens</name>
+            <pronunciation>sem-per-VEER-enz</pronunciation>
+            <meaning>always green</meaning>
+        </species>
+        <species>
+            <name>nootkatensis</name>
+            <pronunciation>noot-ka-TEN-sis</pronunciation>
+            <meaning>of Nootka, British Columbia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Davidia</name>
+        <pronunciation>da-VID-e-a</pronunciation>
+        <meaning>after Armand David, French missionary who botanised in China</meaning>
+        <species>
+            <name>involucrata</name>
+            <pronunciation>in-vol-u-KRA-ta</pronunciation>
+            <meaning>involucred i.e. having an involucre as umbrels,heads</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ehretia</name>
+    </genus>
+    <genus>
+        <name>Eucalyptus </name>
+        <pronunciation>u-kal-IP-tus</pronunciation>
+        <meaning>Gr. eu, good or well and calypha, covered in allusion to the calyx which covers the
+            flower like a lid</meaning>
+        <species>
+            <name>gunnii</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Fagus</name>
+        <pronunciation>FA-gus</pronunciation>
+        <meaning>the L. name for a Beech tree, some authorities deriving the word from Gr. phago to
+            eat, the seeds being edible</meaning>
+        <species>
+            <name>sylvatica</name>
+            <pronunciation>sil-VAT-ik-a</pronunciation>
+            <meaning>inhabiting woods</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ficus</name>
+        <pronunciation>FI-kus</pronunciation>
+        <meaning>the L. name for a Fig tree and one common in many European languages. Believed to
+            be derived from the Hebrew name fag</meaning>
+        <species>
+            <name>carica</name>
+            <pronunciation>KAR-ik-a</pronunciation>
+            <meaning>of Caria, Asia Minor</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Fraxinus</name>
+        <pronunciation>FRAKS-in-us</pronunciation>
+        <meaning>L. name for an Ash tree, probably from Gr. phrasso, to fence, the wood being useful
+            for fence-making</meaning>
+        <species>
+            <name>excelsior</name>
+            <pronunciation>ek-SEL-se-or</pronunciation>
+            <meaning>L. taller</meaning>
+        </species>
+        <species>
+            <name>angustifolia</name>
+            <pronunciation/>
+            <meaning>L. narrow-leaved</meaning>
+        </species>
+        <species>
+            <name>ornus</name>
+            <pronunciation>OR-nus</pronunciation>
+            <meaning>old L. name for Ash</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ginkgo</name>
+        <pronunciation>GINK-go</pronunciation>
+        <meaning>is a misrendering of the Japanese gin meaning silver and kyo meaning apricot used
+            in Japan in the 17th century</meaning>
+        <species>
+            <name>biloba</name>
+            <pronunciation>bil-O-ba</pronunciation>
+            <meaning>two-lobed, the foliage</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Gleditsia</name>
+        <pronunciation>gled-its-ia</pronunciation>
+        <meaning>named after Johann Gottlieb Gleditsch (1714-1786), director of the Botanical
+            Garden, Berlin.</meaning>
+        <species>
+            <name>triacanthos</name>
+            <meaning>from Gr. tri, three and Gr. acantha, thorn</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Gymnocladus</name>
+        <pronunciation>gim-no-KLA-dus</pronunciation>
+        <meaning>from Gr. gymnos, naked and klados, a branch, presumably in allusion to the buds
+            being almost invisible on the winter branches </meaning>
+        <species>
+            <name>dioicus</name>
+            <meaning>meaning dioecious, having separate male and female plants</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ilex</name>
+        <pronunciation>I-lex</pronunciation>
+        <meaning>from the old l. name ilex, an evergreen oak, to which the Holly is supposed to bear
+            some resemblance</meaning>
+        <species>
+            <name>aquifolium</name>
+            <pronunciation>ak-we-FO-le-um</pronunciation>
+            <meaning>pointed leaves</meaning>
+        </species>
+        <cultivar>
+            <name>Albomarginata</name>
+            <meaning>White margined</meaning>
+        </cultivar>
+        <cultivar>
+            <name>Aureomarginata</name>
+            <meaning>Gold margined</meaning>
+        </cultivar>
+        <cultivar>
+            <name>Argentea Marginata</name>
+            <meaning>Silver margined</meaning>
+        </cultivar>
+    </genus>
+    <genus>
+        <name>Juniperus</name>
+        <pronunciation>ju-NIP-er-us</pronunciation>
+        <meaning>old L. name</meaning>
+        <species>
+            <name>communis</name>
+            <pronunciation>kom-MU-nis</pronunciation>
+            <meaning>common</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Juglans</name>
+        <pronunciation>JUG-lans</pronunciation>
+        <meaning>old L. name for the walnut tree, possibly from Jovis glans, the nut of Jupiter in
+            mythology</meaning>
+        <species>
+            <name>regia</name>
+            <pronunciation>RE-je-a</pronunciation>
+            <meaning>royal</meaning>
+        </species>
+        <species>
+            <name>nigra</name>
+            <pronunciation>NEE-gra</pronunciation>
+            <meaning>black</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Koelreuteria</name>
+        <pronunciation>kol-roy-TEER-e-a</pronunciation>
+        <meaning>after Joseph Gottlieb Kölreuter, a German botanist</meaning>
+        <species>
+            <name>paniculata</name>
+            <pronunciation>pan-ik-ul-A-ta</pronunciation>
+            <meaning>flowers in panticles, a much-branched inflorescence</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Laburnum</name>
+        <pronunciation>la-BUR-num</pronunciation>
+        <meaning>old L. name</meaning>
+        <species>
+            <name>anagyroides</name>
+            <meaning>resembling the genus Anagyris, almost extinct flowering plants </meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Larix</name>
+        <pronunciation>LAR-iks</pronunciation>
+        <meaning>old L. name for the Larch</meaning>
+        <species>
+            <name>decidua</name>
+            <meaning>deciduous</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Laurus</name>
+        <meaning> Old L. name for a Bay tree, the true 'Laurel' of the ancients, perhaps derived
+            from Celtic laur, green</meaning>
+        <pronunciation>LAW-rus</pronunciation>
+        <species>
+            <name>nobilis</name>
+            <pronunciation>NO-bil-is</pronunciation>
+            <meaning>noble</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ligustrum</name>
+        <pronunciation>li-GUS-trum</pronunciation>
+        <meaning>L. name for privet, possibly from L. ligo to bind, the twigs having been used for
+            tying</meaning>
+        <species>
+            <name>lucidum</name>
+            <meaning>bright or shining</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Liquidambar</name>
+        <pronunciation>li-kwid am-BAR</pronunciation>
+        <meaning>from L. liquidus, liquid and ambar, Arabic amber from the fragrant resin</meaning>
+        <species>
+            <name>styraciflua</name>
+            <meaning>flowing with styrax (a plant resin)</meaning>
+            <pronunciation>sty-RAS-i-FLU-a</pronunciation>
+        </species>
+    </genus>
+    <genus>
+        <name>Malus</name>
+        <meaning>from Gr malon, apple</meaning>
+        <species>
+            <name>sylvestris</name>
+            <meaning>of woods</meaning>
+        </species>
+        <species>
+            <name>floribunda</name>
+            <meaning>abundant flowers</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Morus</name>
+        <pronunciation>MOR-us</pronunciation>
+        <meaning>ancient L. name for mulberry</meaning>
+    </genus>
+    <genus>
+        <name>Parrotia</name>
+        <pronunciation>per-ROT-i-a</pronunciation>
+        <meaning>after the German botanist Friedrich Parrot</meaning>
+        <species>
+            <name>persica</name>
+            <meaning>from Persia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Paulownia</name>
+        <pronunciation>paw-LO-ne-a</pronunciation>
+        <meaning>named by a Dutch botanist named Siebold after Anna Paulowna, daughter of Tsar Paul
+            I of Russia and queen consort of King William II of the Netherlands</meaning>
+    </genus>
+    <genus>
+        <name>Picea</name>
+        <pronunciation>PIS-e-a</pronunciation>
+        <meaning>ancient L. name for Spruce, perhaps derived from the L. pix meaning pitch</meaning>
+        <species>
+            <name>abies</name>
+            <meaning>like the fir</meaning>
+        </species>
+        <species>
+            <name>breweriana</name>
+            <meaning>after William Henry Brewer (1828-1910), professor of agriculture at Yale
+                University</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Platanus</name>
+        <pronunciation>PLAT-an-us</pronunciation>
+        <meaning>the old Gr. name for the Plane tree, from platus in reference to the palmate leaves
+            or the broad spread of the tree</meaning>
+        <species>
+            <name>acerifolia</name>
+            <pronunciation>a-ser-if-O-le-a</pronunciation>
+            <meaning>acer-leaved</meaning>
+        </species>
+        <species>
+            <name>orientalis</name>
+            <meaning>of the east</meaning>
+        </species>
+        <species>
+            <name>occidentalis</name>
+            <meaning>of the west</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pinus</name>
+        <pronunciation>PY-nus</pronunciation>
+        <meaning>ancient classical name for a pine tree</meaning>
+        <species>
+            <name>sylvestris</name>
+            <pronunciation>sil-VES-tris</pronunciation>
+            <meaning>of woods</meaning>
+        </species>
+        <species>
+            <name>mugo</name>
+            <meaning>an ancient Tyrolean name</meaning>
+        </species>
+        <species>
+            <name>pinaster</name>
+            <meaning>old name for the Maritime Pine</meaning>
+        </species>
+        <species>
+            <name>wallichiana</name>
+            <meaning>after Nathaniel Wallich (1786-1854), Danish botanist and superintendent of the
+                Calcutta Botantic Garden</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Populus</name>
+        <pronunciation>POP-u-lus</pronunciation>
+        <meaning>the arbor-populus, the tree of the people of the Romans, the Italian Popular being
+            much planted in their cities.</meaning>
+        <species>
+            <name>alba</name>
+            <meaning>white</meaning>
+        </species>
+        <species>
+            <name>trichocarpa</name>
+            <pronunciation>trik-o-KAR-pa</pronunciation>
+            <meaning>hairy-fruited</meaning>
+        </species>
+        <species>
+            <name>deltoides</name>
+            <pronunciation>DEL-toi-des</pronunciation>
+            <meaning>triangular or deltoid shape of the leaves</meaning>
+        </species>
+        <species>
+            <name>tremula</name>
+            <pronunciation>TREM-ul-a</pronunciation>
+            <meaning>trembling, the quivering of the leaves</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Prunus</name>
+        <pronunciation>PROO-nus</pronunciation>
+        <meaning>classical name for the Plum</meaning>
+        <species>
+            <name>padus</name>
+            <pronunciation>PA-dus</pronunciation>
+            <meaning>Gr. name for Bird Cherry</meaning>
+        </species>
+        <species>
+            <name>avium</name>
+            <pronunciation>AV-e-um</pronunciation>
+            <meaning>L. avis, a bird</meaning>
+        </species>
+        <species>
+            <name>cerasifera</name>
+            <pronunciation>ser-as-IF-er-a</pronunciation>
+            <meaning>cherry-bearing</meaning>
+        </species>
+        <species>
+            <name>laurocerasus</name>
+            <pronunciation>LAW-ro-ser-A-sus</pronunciation>
+            <meaning>laurel cherry</meaning>
+        </species>
+        <species>
+            <name>lusitanica</name>
+            <pronunciation>loo-sit-A-nik-a</pronunciation>
+            <meaning>Portuguese</meaning>
+        </species>
+        <species>
+            <name>serrulata</name>
+            <pronunciation>ser-rul-A-ta</pronunciation>
+            <meaning>finely-toothed - the leaves</meaning>
+        </species>
+        <species>
+            <name>sargentii</name>
+            <meaning>named after Charles S. Sargent (1841-1927) first director of the Arnold
+                Arboretum</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pseudotsuga</name>
+        <pronunciation>SUE-do-SU-ga</pronunciation>
+        <meaning>false Tsuga, the genus of the Hemlock firs</meaning>
+        <species>
+            <name>menziesii</name>
+            <meaning>after Archibald Menzies, a Scottish physician and naturalist</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pterocarya</name>
+        <meaning>ptero, winged and carya, hickory</meaning>
+        <species>
+            <name>fraxinifolia</name>
+            <meaning>leaves similar to ash</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pyrus</name>
+        <pronunciation>PY-rus</pronunciation>
+        <meaning>classical name for a Pear tree</meaning>
+        <species>
+            <name>calleryana</name>
+            <meaning>named after Joseph-Marie Callery (1810-1862)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Quercus</name>
+        <pronunciation>KWER-kus</pronunciation>
+        <meaning>Latin name for an oak tree; some aithorities derive word form Celtic quer, fine and
+            cuez, a tree</meaning>
+        <species>
+            <name>alba</name>
+            <meaning>L. white refers to the light ash-grey bark</meaning>
+        </species>
+        <species>
+            <name>borealis</name>
+            <meaning>L. north</meaning>
+        </species>
+        <species>
+            <name>castaneifolia</name>
+            <meaning>Chestnut leaved</meaning>
+        </species>
+        <species>
+            <name>cerris</name>
+            <pronunciation>SER-ris</pronunciation>
+            <meaning>The old L. name for the Turkey Oak</meaning>
+        </species>
+        <species>
+            <name>coccinea</name>
+            <pronunciation>kok-SIN-e-a</pronunciation>
+            <meaning>L. Scarlet, refering to the autumnal colour of the leaves</meaning>
+        </species>
+        <species>
+            <name>ilex</name>
+            <pronunciation>I-leks</pronunciation>
+            <meaning>ancient L. name for the Holm Oak, now generic name for the hollies which some
+                evergreen oaks resemble</meaning>
+        </species>
+        <species>
+            <name>libani</name>
+            <pronunciation>LIB-an-e</pronunciation>
+            <meaning>of Lebanon</meaning>
+        </species>
+        <species>
+            <name>petraea</name>
+        </species>
+        <species>
+            <name>robur</name>
+            <meaning>L. robust referring to its strength and durability</meaning>
+        </species>
+        <species>
+            <name>pedunculata</name>
+            <pronunciation>ped-unhk-ul-A-ta</pronunciation>
+            <meaning>long-stalked, the inflorescenes and fruits</meaning>
+        </species>
+        <species>
+            <name>rubra</name>
+            <pronunciation>ROO-bra</pronunciation>
+            <meaning>L. red after the autumnal leaves</meaning>
+        </species>
+        <species>
+            <name>suber</name>
+            <pronunciation>SU-ber</pronunciation>
+            <meaning>cork - old L. name for the Cork Oak</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Robinia</name>
+        <pronunciation>rob-IN-e-a</pronunciation>
+        <meaning>named after Jean Robin, a French botanist and herbalist to Henry IV of
+            France</meaning>
+        <species>
+            <name>pseudoacacia</name>
+            <meaning>false acacia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Salix</name>
+        <pronunciation>sa-LIKS</pronunciation>
+        <meaning>L. name for willow, possibly form celtic sal, near and lis, water</meaning>
+        <species>
+            <name>caprea</name>
+            <pronunciation>KAP-re-a</pronunciation>
+            <meaning>from L. goat</meaning>
+        </species>
+        <species>
+            <name>cinerea</name>
+            <pronunciation>cin-er-E-a</pronunciation>
+            <meaning>ash-coloured</meaning>
+        </species>
+        <species>
+            <name>fragilis</name>
+            <pronunciation>FRAJ-il-is</pronunciation>
+            <meaning>brittle</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sambucus</name>
+        <pronunciation>sam-BU-kus</pronunciation>
+        <meaning>ancient L. name for Elder</meaning>
+        <species>
+            <name>platyphyllos</name>
+            <meaning>Gr. playts, broad and phyllon, leaf in reference to the large leaves.</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sequoia</name>
+        <pronunciation>se-KWOY-a</pronunciation>
+        <meaning>after Sequoyah (1767-1843), the inventor of the Cherokee alphabet</meaning>
+    </genus>
+    <genus>
+        <name>Sequoiadendron</name>
+        <meaning>Sequioa </meaning>
+        <species>
+            <name>giganteum</name>
+            <meaning>gigantic</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sophora</name>
+        <pronunciation>SOF-or-a</pronunciation>
+        <meaning>from an Arabic nae for a tree with pea-shaped flowers</meaning>
+    </genus>
+    <genus>
+        <name>Sorbus</name>
+        <meaning>from L. service tree</meaning>
+        <species>
+            <name>hupehensis</name>
+            <meaning>from Hupeh a province of China</meaning>
+        </species>
+        <species>
+            <name>aucuparia</name>
+            <meaning>from L avis, bird and capere, catching in reference to the use of the fruit of
+                S. aucuparia as bait for fowling.</meaning>
+        </species>
+        <species>
+            <name>bristoliensis</name>
+            <meaning>from Bristol</meaning>
+        </species>
+        <species>
+            <name>torminalis</name>
+            <meaning>from the l. tormina, meaning gripe in reference to the use ofthe fruites as a
+                herbal treatment for colic</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Tetradium</name>
+        <species>
+            <name>daniellii</name>
+            <meaning>name honours William Freeman Daniell(1818-1865), British army surgeon and botanist</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Taxus</name>
+        <pronunciation>TAKS-us</pronunciation>
+        <meaning>L. name for yew perhaps from taxon a bow,the wood having once been used in their
+            making</meaning>
+        <species>
+            <name>baccata</name>
+            <pronunciation>bak-KA-ta</pronunciation>
+            <meaning>berried</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Thuja</name>
+        <meaning>classical name, possibly from Gr. thuia,ancient name for someresin-beraing tree, or
+            from Gr, thuon, a sacrifice at which the resin would be burnt</meaning>
+        <species>
+            <name>plicata</name>
+            <pronunciation>pli-KA-ta</pronunciation>
+            <meaning>L. folded</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Tilia</name>
+        <pronunciation>TIL-e-a</pronunciation>
+        <meaning>old L. name for Lime tree</meaning>
+        <species>
+            <name>cordata</name>
+            <pronunciation>kor-DAT-a</pronunciation>
+            <meaning>heart-shaped - the leaves</meaning>
+        </species>
+        <species>
+            <name>platyphyllus</name>
+            <pronunciation>plat-e-FIL-lus</pronunciation>
+            <meaning>broad-leaved</meaning>
+        </species>
+        <species>
+            <name>tomentosa</name>
+            <pronunciation>to-men-TO-sa</pronunciation>
+            <meaning>felted, the leaf underparts</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ulmus</name>
+        <pronunciation>UL-mus</pronunciation>
+        <meaning>old L. name for Elm</meaning>
+        <species>
+            <name>glabra</name>
+            <meaning>L. smooth, in probable reference to the bark</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Zelkova</name>
+        <pronunciation>zel-KO-va</pronunciation>
+        <meaning>from the vernacular name in the Caucasus</meaning>
+        <species>
+            <name>serrata</name>
+            <meaning>serrated, refering to leaf margins</meaning>
+        </species>
+    </genus>
+</terms>
