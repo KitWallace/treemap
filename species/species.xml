@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<species-list>
+    <species>
+        <latin>Abies grandis</latin>
+        <common>Grand Fir</common>
+        <description>This is the finest and commonest of the firs but is rare in Bristol. A fir native to the Pacific Northwest and Northern California of North America, occurring at altitudes of sea level to 1,800 m. It is a major constituent of the Grand Fir/Douglas Fir Eco region of the Cascade Range.</description>
+    </species>
+    <species>
+        <latin>Acer</latin>
+        <common>Maple</common>
+        <description>A genus of trees or shrubs commonly known as maple. There are approximately 128
+            species, most of which are native to Asia,with a number also appearing in Europe,
+            northern Africa, and North America. Only one species,Acer laurinum, extends to the
+            Southern Hemisphere.The type species of the genus is the sycamore maple,Acer
+            pseudoplatanus, the most common maple species in Europe.</description>
+    </species>
+    <species>
+        <latin>Acer negundo</latin>
+        <common>Box Elder Maple</common>
+        <altname>Ash Leaf Maple</altname>
+        <altname>Maple Ash</altname>
+        <description>A species of maple native to North America. Box elder, boxelder maple,
+            ash-leaved maple, and maple ash are its most common names in the United States; in
+            Britain and Ireland it is also known as ash leaf maple as its leaves are quite unlike
+            other maples, it has attractive flowers in spring, and pretty shoots when young, but it
+            does not Age well. Commonly planted.</description>
+    </species>
+    <species>
+        <latin>Acer opalus</latin>
+        <common>Italian Maple</common>
+        <description>A rare tree looking almost identical to a Sycamore, but with blunter leaves,
+            that flowers at the end of February. It is native to the hills and mountains of southern
+            and western Europe, from Italy to Spain and north to southern Germany, and also in
+            northwest Africa in Morocco and Algeria.</description>
+    </species>
+    <species>
+        <latin>Acer palmatum</latin>
+        <common>Japanese Maple</common>
+        <altname>Smooth Japanese Maple</altname>
+        <description>A species of woody plant native to Japan, China, Korea, eastern Mongolia, and
+            southeast Russia. A slow growing small tree with amazing autumn colour, that is widely
+            planted in gardens, but rarely in parks.</description>
+    </species>
+    <species>
+        <latin>Acer platanoides</latin>
+        <common>Norway Maple</common>
+        <description>A species of maple native to eastern and central Europe and western Asia, from
+            France east to Russia, north to southern Scandinavia and southeast to northern Iran. It
+            is a member of the soapberry and lychee family. Very commonly planted in recent years,
+            with a wide variety of leaf colours, this species grows very fast, and is distinguished
+            from the Sycamore by pointed tips to its leaves, and a bark that is vertically
+            striated.</description>
+    </species>
+    <species>
+        <latin>Acer platanoides 'Crimson King'</latin>
+        <common>Norway Maple 'Crimson King'</common>
+        <description>Acer can be deciduous trees or large shrubs with paired, often palmately-lobed leaves and small flowers followed by characteristic winged fruits. 'Crimson King' is a vigorous medium-sized deciduous tree. Leaves large, 5-lobed, deep purplish-crimson all summer. Flowers reddish-orange, in clusters on leafless branches.</description>
+    </species>
+    <species>
+        <latin>Acer pseudoplatanus</latin>
+        <common>Sycamore</common>
+        <description>Known as the sycamore in the United Kingdom and the sycamore maple in the
+            United States, is a flowering plant species in the soapberry and lychee family
+            Sapindaceae. It is one of the commonest trees in the city, almost all self-sown, though
+            variegated forms are planted and a rare form with a purple underside to the leaf is
+            occasional.</description>
+    </species>
+    <species>
+        <latin>Acer pseudoplatanus f. variegatum</latin>
+        <common>Variegated Sycamore Maple</common>
+    </species>
+    <species>
+        <latin>Acer rubrum</latin>
+        <common>Red Maple</common>
+        <description>One of the most common and widespread deciduous trees of eastern and central
+            North America. The U.S. Forest service recognizes it as the most commonplace native tree
+            in eastern North America. Distinguished by flowers in March and early start to red
+            autumn colour in September.</description>
+    </species>
+    <species>
+        <latin>Acer saccharinum</latin>
+        <common>Silver Maple</common>
+        <description>A fast growing Maple with pretty leaves that have a pale underside turning
+            silver in the Autumn. It flowers in January and its seeds fall at the end of May. Widely
+            planted in recent years.</description>
+    </species>
+    <species>
+        <latin>Aesculus flava</latin>
+        <common>Yellow Buckeye Chestnut</common>
+        <altname>Common Buckeye</altname>
+        <altname>Sweet Buckeye</altname>
+        <description>A species of deciduous tree. It is native to the Ohio Valley and Appalachian
+            Mountains of the Eastern United States.</description>
+    </species>
+    <species>
+        <latin>Aesculus hippocastanum</latin>
+        <common>Horse Chestnut</common>
+        <description>The tree is not native to this country. It originates from Greece. Some have
+            growths and swellings on their trunks and branches. They are almost certainly caused by
+            a bacterium, Agrobacterium tumefaciens which infects the tree to produce these crown
+            galls. The bacteria live naturally in the soil and gain access to the tree through a
+            wound, often at soil surface level. The bacteria congregate in large colonies causing
+            these substantial growths. Although the galls look as if they could be seriously
+            affecting the health of the tree, they do no real damage as the bacteria are dependent
+            on the host tree remaining healthy in order to complete their development. Agrobacterium
+            tumefaciens is known to use more than 600 other plant species, on all of which it will
+            produce some form of crown gall.</description>
+    </species>
+    <species>
+        <latin>Aesculus turbinata</latin>
+        <common>Japanese Chestnut</common>
+        <altname>Japanese Horse-chestnut</altname>
+        <description>A rare tree with large leaves with seven leaflets on each. It is native to
+            Japan but cultivated elsewhere. It is a tree up to 30 m tall. Flowers are white to pale
+            yellowish with red spots. Capsules are dark brown, obovoid to pyriform.</description>
+    </species>
+    <species>
+        <latin>Aesculus x carnea</latin>
+        <common>Red Horse Chestnut</common>
+        <altname>Red Chestnut</altname>
+        <parent>Aesculus pavia</parent>
+        <parent>Aesculus hippocastanum</parent>
+        <description>An artificial hybrid between A. pavia and A. hippocastanum. The origin of the tree is not known, but it probably first appeared in Germany before 1820.</description>
+    </species>
+    <species>
+        <latin>Ailanthus altissima</latin>
+        <common>Tree of Heaven</common>
+        <description>Commonly known as tree of heaven, ailanthus, or in Standard Chinese as
+            chouchun, is a deciduous tree in the Simaroubaceae family. It is native to both
+            northeast and central China, as well as Taiwan, often planted, that suckers very readily
+            and flowers in late July, and has crimson winged fruit. Otherwise it can be mistaken for
+            an ash.</description>
+    </species>
+    <species>
+        <latin>Alnus cordata</latin>
+        <common>Italian Alder</common>
+        <description>A tree or shrub species belonging to the family of Betulaceae and native to
+            southern Apennine Mountains and north-eastern mountains of Corsica, it has been recently
+            planted in parks and as a street tree. It is fast growing and almost
+            evergreen.</description>
+    </species>
+    <species>
+        <latin>Alnus glutinosa</latin>
+        <common>Common Alder</common>
+        <altname>Black Alder</altname>
+        <altname>European Alder</altname>
+        <altname>Alder</altname>
+        <description>A species of tree in the family Betulaceae, native to most of Europe, southwest
+            Asia and northern Africa. It is common on stream-ways, and some have suffered from a
+            disease in recent years. Occasionally planted on drier sites.</description>
+    </species>
+    <species>
+        <latin>Alnus glutinosa 'Laciniata'</latin>
+        <common>Cut Leaved Alder</common>
+        <description>This is an attractive slow growing variety of the Common Alder.</description>
+    </species>
+    <species>
+        <latin>Alnus incana</latin>
+        <common>Grey Alder</common>
+        <description>A species of alder with a wide range across the cooler parts of the Northern
+            Hemisphere, it is Uncommon in Bristol.</description>
+    </species>
+    <species>
+        <latin>Amelanchier x grandiflora 'Robin Hill'</latin>
+        <description>Amelanchier are small deciduous trees or shrubs with showy white flowers in early spring, red to purple fruits and often good autumn colour. 'Robin Hill' forms a dense, upright small tree, spreading with age. The pale pink flowers open from pink buds then fade to white, and are followed by dark purple berries. The foliage opens bronzy, turns green in summer and produces orange and red shades in autumn.</description>
+    </species>
+    <species>
+        <latin>Araucaria araucana</latin>
+        <common>Monkey Puzzle Tree</common>
+        <description>An evergreen tree growing to 1-1.5 m in diameter and 30-40 m in height. It is
+            native to central and southern Chile and western Argentina. Araucaria araucana is the
+            hardiest species in the conifer genus Araucaria. It is quite often planted in private
+            gardens.</description>
+    </species>
+    <species>
+        <latin>Arbutus unedo</latin>
+        <common>Strawberry Tree</common>
+        <description>An evergreen shrub or small tree in the family Ericaceae, native to the
+            Mediterranean region and western Europe north to western France and Ireland. It fruits
+            and flowers in November.</description>
+    </species>
+    <species>
+        <latin>Azara microphylla</latin>
+        <common>Box-leaf Azara</common>
+        <description>Delightful, evergreen shrubs or small trees with simple leaves, often in
+            unequal pairs, and very small, fragrant yellow flowers with prominent stamens in
+            clusters or spikes from the leaf axils, occasionally followed by white or pale purple
+            berries</description>
+    </species>
+    <species>
+        <latin>Betula albosinensis</latin>
+        <common>Birch</common>
+        <description>A species of birch in the family Betulaceae, native to Western China. It is a
+            deciduous tree growing to 25 metres. A particular feature is the peeling brown
+            bark.</description>
+    </species>
+    <species>
+        <latin>Betula ermanii</latin>
+        <common>Erman's Birch</common>
+        <description>A rugged species of birch tree belonging to the family Betulaceae. It is an
+            extremely variable species and can be found in Northeast China, Korea, Japan, and
+            Russian Far East. It can grow to 20 metres tall.</description>
+    </species>
+    <species>
+        <latin>Betula pendula</latin>
+        <common>Silver Birch</common>
+        <altname>Warty Birch</altname>
+        <description>A species of tree in the family Betulaceae, native to Europe and parts of Asia,
+            though in southern Europe it is only found at higher altitudes. A very common pioneer
+            tree, also widely planted. It rarely lives long, and can't survive shade.</description>
+    </species>
+    <species>
+        <latin>Betula utilis</latin>
+        <common>Himalayan Birch</common>
+        <description>Native to the Himalayas, growing at elevations up to 4,500 m. The specific
+            epithet, utilis, refers to the many uses of the different parts of the tree. This is now
+            a very common species grown for its fine white bark which is sometimes damaged by people
+            pulling it off in strips.</description>
+    </species>
+    <species>
+        <latin>Betula utilis var jacquemontii</latin>
+        <common>West Himalayan Birch</common>
+        <altname>Jaquemont's Birch</altname>
+        <description>It is named after the French botanist, Victor Jaquemont who worked in India. The tree occurs in the wild from Kashmir eastwards to Nepal, but crosses with the Himalayan Birch (Betula edulis) to produce intermeriate forms, where the bark becomes progressively less white as you move eastwards. The bark of Himalayan Birch was used centuries ago in India as paper for writing lengthy scriptures and texts in Sanskrit and other scripts, particularly in historical Kashmir. Its use as paper for books is mentioned by early Sanskrit writers. The bark is still used for writing sacred mantras, which are placed in an amulet and worn around the neck for protection or blessing. The bark is widely used for packaging material (particularly butter), roof construction, umbrella covers, bandages, and more. The wood is also used for bridge construction, and the foliage for fodder. Its most widespread use is for firewood, which has caused large areas of habitat to be eliminated or reduced.</description>
+    </species>
+    <species>
+        <latin>Calocedrus decurrens</latin>
+        <common>Incense Cedar</common>
+        <altname>California Incense-cedar</altname>
+        <description>A species of conifer native to western North America, with the bulk of the
+            range in the United States, from central western Oregon through most of California and
+            the extreme west of Nevada, and also a short distance into northwest Mexico in northern
+            Baja California. It grows at altitudes of 50?2900 m. It is the most widely known species
+            in the genus, and is often simply called 'incense cedar' without the regional
+            qualifier.</description>
+    </species>
+    <species>
+        <latin>Carpinus betulus</latin>
+        <common>HornBeam</common>
+        <description>A hornbeam native to Western Asia and central, eastern, and southern Europe,
+            including southern England. It is a native tree, in appearance similar to a
+            Beech.</description>
+    </species>
+    <species>
+        <latin>Carpinus betulus 'Fastigiata'</latin>
+        <common>European Hornbeam</common>
+        <description>A hornbeam native to Western Asia and central, eastern, and southern Europe,
+            including southern England.</description>
+    </species>
+    <species>
+        <latin>Carpinus betulus 'Frans Fontaine'</latin>
+        <common>Common Hornbeam 'Frans Fontaine'</common>
+        <description>Grows to a height of approximately 10 meters, but only 3 meters wide. Unlike
+            the more ubiquitous 'Fastigiata' form, Frans Fontaine preserves the attractive lateral
+            boughs of the species and retains its columnar habit throughout its life. Slow to
+            moderate growth rate.</description>
+    </species>
+    <species>
+        <latin>Castanea sativa</latin>
+        <common>Sweet Chestnut</common>
+        <description>A species of flowering plant in the family Fagaceae, native to Europe and Asia
+            Minor, and widely cultivated throughout the temperate world.</description>
+    </species>
+    <species>
+        <latin>Catalpa bignonioides</latin>
+        <common>Indian Bean Tree</common>
+        <description>A species of Catalpa that is native to the southeastern United States in
+            Alabama, Florida, Georgia, Louisiana, and Mississippi. Common names include southern
+            catalpa, cigartree, and Indian-bean-tree. An attractive tree with large floppy leaves,
+            fairly fast growth and white flowers in July that give rise to long thin beans. In
+            recent years newly planted ones have tended to develop splits in their
+            branches.</description>
+    </species>
+    <species>
+        <latin>Cedrus atlantica</latin>
+        <common>Atlas Cedar</common>
+        <description>This comes from the Atlas Mountains of North Africa, and a very striking blue
+            form is often grown. Its branches grow upwards, unlike the other two
+            cedars.</description>
+    </species>
+    <species>
+        <latin>Cedrus atlantica 'Glauca'</latin>
+        <common>Blue Atlas Cedar</common>
+        <description>Originates from the Atlas mountains in Algeria and Morocco. This blue form is the most common variety planted in many parks in Britain. It is a fast growing tree, the girth can reach 2.5 metres in just 50 years. It can reach a height of 40 metres in this country.</description>
+    </species>
+    <species>
+        <latin>Cedrus deodara</latin>
+        <common>Deodar Cedar</common>
+        <altname>Deodar</altname>
+        <description>A species of cedar native to the western Himalayas in eastern Afghanistan,
+            northern Pakistan and India, southwesternmost Tibet in and western Nepal, occurring at
+            1,500-3,200 m altitude.</description>
+    </species>
+    <species>
+        <latin>Cedrus libani</latin>
+        <common>Cedar of Lebanon</common>
+        <description>An evergreen coniferous tree growing up to 40m (130ft) tall, with a trunk up to
+            2.5 m (8 ft 2 in) in diameter. The crown is conic when young, becoming broadly tabular
+            with age with fairly level branches.</description>
+    </species>
+    <species>
+        <latin>Celtis occidentalis</latin>
+        <common>Hackberry</common>
+        <altname>Common Hackberry</altname>
+        <description>This is a rare tree. It is a large deciduous tree native to North America. It
+            is also known as the nettletree, sugarberry, beaverwood, northern hackberry, and
+            American hackberry.</description>
+    </species>
+    <species>
+        <latin>Cercidiphyllum japonicum</latin>
+        <common>Katsura</common>
+        <description>Originating from China and introduced into the UK in 1881. In Asia it is one of
+            the largest deciduous trees, growing to 10 - 45 metres tall. It is a very primitive
+            hardwood species, closely related to the Magnolias and is unusual in having some
+            features of a conifer or softwood. Each tree is a separate male or female. The family is
+            a very primitive one and may even predate the Ginkgo. In autumn, when the leaves change
+            colour to a beautiful pale yellow, pinks and reds, they give off a smell of burnt sugar
+            or caramel. Generally, they are smelled before they are seen during this short two-week
+            period. When fully grown this is a fine tree that grows its leaves all down its
+            branches.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis lawsoniana</latin>
+        <common>Lawson's cypress cultivar</common>
+        <altname>Port Orford Cedar</altname>
+        <parent>Cupressus macrocarpa</parent>
+        <parent>Cupressus nootkatensis</parent>
+        <description>Known as Port Orford cedar or Lawson cypress, is a species of conifer in the genus Chamaecyparis, family Cupressaceae. This is the most commonly planted Cypress, in parks gardens and cemeteries everywhere, with a wide variety of forms. They sometimes grow with multiple trunks from close to the ground.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis lawsoniana 'Lutea'</latin>
+        <common>Lawson's cypress 'Lutea'</common>
+        <description>Chamaecyparis are evergreen trees, usually of narrowly ovoid or columnar outline, with much-branched sprays of small scale-like leaves, and small, globose cones; tiny red male cones are conspicuous in a few cultivars. 'Lutea' is a broadly columnar evergreen conifer making a medium-sized tree with drooping sprays of golden-yellow foliage.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis lawsoniana 'Erecta Viridis'</latin>
+        <common>Lawson's cypress 'Erecta Viridis'</common>
+        <description>Chamaecyparis are evergreen trees, usually of narrowly ovoid or columnar
+            outline, with much-branched sprays of small scale-like leaves, and small, globose cones;
+            tiny red male cones are conspicuous in a few cultivars. 'Erecta Viridis' is a columnar
+            tree to 20m, with erect branches bearing flat, upright sprays of rich green
+            foliage.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis lawsoniana 'Fraseri'</latin>
+        <common>Lawson's cypress 'Fraseri'</common>
+        <description>Chamaecyparis are evergreen trees, usually of narrowly ovoid or columnar
+            outline, with much-branched sprays of small scale-like leaves, and small, globose cones;
+            tiny red male cones are conspicuous in a few cultivars.</description>
+    </species>
+    <species>
+        <latin>Cupressus nootkatensis</latin>
+        <synomym>Chamaecyparis nootkatensis</synomym>
+        <common>Nootka cypress</common>
+        <description>A species of trees in the cypress family native to the coastal regions of northwestern North America.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis obtusa</latin>
+        <common>Hinoki Cypress</common>
+        <description>A species of cypress native to central Japan. It is a slow-growing tree which
+            grows to 35 m tall with a trunk up to 1 m in diameter. The bark is dark
+            red-brown.</description>
+    </species>
+    <species>
+        <latin>Chamaecyparis pisifera 'Filifera Aurea'</latin>
+        <common>Sawara Cypress 'Filifera Aurea'</common>
+        <description>A species of false cypress, native to central and southern Japan, on the
+            islands of Honshu and Kyushu. 'Filifera Aurea' is a slow-growing evergreen conifer making
+            a large broadly conical shrub of open habit, with gracefully weeping, cord-like,
+            golden-yellow foliage in short tufts and longer unbranched shoots.</description>
+    </species>
+    <species>
+        <latin>Cordyline australis</latin>
+        <common>Cabbage Palm</common>
+        <altname>Cabbage Tree</altname>
+        <altname>Cabbage Palm</altname>
+        <altname>Ti kouka</altname>
+        <description>A widely branched monocot tree endemic to New Zealand, is is widely planted in
+            gardens. In time this becomes a substantial tree.</description>
+    </species>
+    <species>
+        <latin>Corylus avellana</latin>
+        <common>Common Hazel</common>
+        <description>A species of hazel native to Europe and western Asia, from the British Isles
+            south to Iberia,Greece,Turkey and Cyprus, north to central Scandinavia, and east to the
+            central Ural Mountains, the Caucasus, and northwestern Iran. It is an important
+            component of the hedgerows that were the traditional field boundaries in lowland
+            England. The wood was traditionally grown ascoppice, the poles cut being used for
+            wattle-and-daub building and agricultural fencing.</description>
+    </species>
+    <species>
+        <latin>Cornus controversa</latin>
+        <common>Dogwood</common>
+        <description>A species of flowering plant in the genus Cornus of the dogwood family
+            Cornaceae, native to China, the Himalayas and Japan. It is a deciduous tree growing to
+            50 ft, with multiple tiered branches.</description>
+    </species>
+    <species>
+        <latin>Cornus controversa 'Variegata'</latin>
+        <common>Table Dogwood</common>
+        <altname>Wedding Cake Tree</altname>
+        <description>A small deciduous tree with strongly tiered branches bearing narrowly ovate leaves broadly margined with cream and turning yellow in autumn. Small, cream flowers in flat clusters are followed by black berries.</description>
+    </species>
+    <species>
+        <latin>Corylus colurna</latin>
+        <common>Turkish Hazel</common>
+        <description>A deciduous tree native to southeast Europe and southwest Asia, from the
+            Balkans through northern Turkey to northern Iran. Its leaf and fruit are similar to the
+            Hazel bush, but it makes a stout tree with very dark rough bark.</description>
+    </species>
+    <species>
+        <latin>Cornus kousa</latin>
+        <common>Kousa Dogwood</common>
+        <description>A small deciduous tree 812 m tall, in the family Cornaceae. Common names
+            include Japanese dogwood, kousa, and kousa dogwood. Synonyms are Benthamia kousa and
+            Cynoxylon kousa.</description>
+    </species>
+    <species>
+        <latin>Corylus avellana 'Contorta'</latin>
+        <common>Corkscrew Hazel</common>
+        <description>A large deciduous shrub with highly contorted and twisted branches bearing broadly ovate leaves and pendent yellow male catkins in late winter and early spring; useful for winter flower arrangements.</description>
+    </species>
+    <species>
+        <latin>Corylus maxima 'Purpurea'</latin>
+        <common>Purple-leaved Filbert</common>
+        <description>Corylus are deciduous trees and large shrubs with broad leaves, and showy male
+            catkins in early spring, followed by edible nuts. 'Purpurea' is a large deciduous shrub
+            to 6m, with broad, deep purple leaves to 12cm in length. Pendulous pale yellow catkins
+            on leafless twigs in late winter are followed by edible nuts concealed by a tubular
+            husk.</description>
+    </species>
+    <species>
+        <latin>Cotoneaster</latin>
+        <common>Cotoneaster</common>
+        <description>A genus of flowering plants in the rose family,Rosaceae,native to the
+            Palaearctic region (temperate Asia, Europe, north Africa), with a strong concentration
+            of diversity in the genus in the mountains of southwestern China and the Himalayas.They
+            are related to hawthorns(Crataegus),firethorns(Pyracantha),photinias(Photinia)
+            androwans(Sorbus).</description>
+    </species>
+    <species>
+        <latin>Crataegus monogyna</latin>
+        <common>Common Hawthorn</common>
+        <altname>Single-seeded Hawthorn</altname>
+        <description>A species of hawthorn native to Europe, northwest Africa and western Asia. It
+            has been introduced in many other parts of the world. It can be an invasive
+            weed.</description>
+    </species>
+    <species>
+        <latin>Crataegus persimilis 'Prunifolia'</latin>
+        <common>Broad-leaved Cockspur Thorn 'Prunifolia'</common>
+        <description>Crataegus are deciduous trees and shrubs, usually with spiny branches, lobed or
+            toothed leaves, and clusters of creamy-white flowers followed by red or black fruits.
+            Some have fine autumn colourA small, broad-crowned deciduous tree with long thorns and
+            glossy broad-oval leaves. Dramatic red and orange autumn colour. Flowers white; fruits
+            deep red</description>
+    </species>
+    <species>
+        <latin>Crataegus laevigata 'Paul's Scarlet'</latin>
+        <common>Hawthorn 'Paul's Scarlet'</common>
+        <description>Crataegus are deciduous trees and shrubs, usually with spiny branches, lobed or
+            toothed leaves, and clusters of creamy-white flowers followed by red or black fruits.
+            Some have fine autumn colour. 'Paul's Scarlet' is a small, rounded deciduous thorny tree
+            with lobed, glossy leaves. Flowers fully double, light red.</description>
+    </species>
+    <species>
+        <latin>Crataegus x lavalleei</latin>
+        <common>Hybrid Cockspur Thorn</common>
+        <parent>Crataegus mexicana</parent>
+        <parent>Crataegus calpodendron</parent>
+        <description>Crataegus are deciduous trees and shrubs, usually with spiny branches, lobed or toothed leaves, and clusters of creamy-white flowers followed by red or black fruits. Some have fine autumn colour.</description>
+    </species>
+    <species>
+        <latin>Cryptomeria japonica</latin>
+        <common>Japanese Cedar</common>
+        <altname>Sugi</altname>
+        <description>A monotypic genus of conifer in the cypress family Cupressaceae, formerly
+            belonging to the family Taxodiaceae. It includes only one species, Cryptomeria japonica.
+            It is endemic to Japan, where it is known as sugi. Its most attractive feature is its
+            red fibrous barks with long vertical striations.</description>
+    </species>
+    <species>
+        <latin>Cupressus macrocarpa</latin>
+        <common>Monterey Cypress</common>
+        <description>This species was first introduced into the UK from its tiny natural outpost on
+            the Monterey Peninsula in Californian in 1839. It proved to have the fastest rate of
+            growth of any species. It is one of the parents of Cupressus leylandii, so commonly, and
+            rashly, planted as screening today.</description>
+    </species>
+    <species>
+        <latin>Cupressus sempervirens</latin>
+        <common>Italian Cypress</common>
+        <altname>Mediterranean Cypress</altname>
+        <description>A species of cypress native to the eastern Mediterranean region, in northeast
+            Libya, southern Albania, southern coastal Croatia, southern Greece. Now often planted in
+            gardens, but old specimens are uncommon.</description>
+    </species>
+    <species>
+        <latin>Cupressus x leylandii</latin>
+        <synomym>× Cuprocyparis leylandii</synomym>
+        <common>Leylandii</common>
+        <altname>Leyland cypress</altname>
+        <parent>Cupressus macrocarpa</parent>
+        <parent>Cupressus nootkatensis</parent>
+        <description>A fast-growing coniferous evergreen tree much used in horticulture, primarily for hedges and screens. Even on sites of relatively poor culture, plants have been known to grow to heights of 15 metres (49 ft) in 16 years. Their rapid, thick growth means they are sometimes used to achieve privacy, but such use can result in disputes with neighbours whose own property becomes overshadowed. The tree is a hybrid, almost always sterile, and propagated mainly from cuttings.</description>
+    </species>
+    <species>
+        <latin>Davidia involucrata</latin>
+        <common>Dove Tree</common>
+        <altname>Paper Handkerchief Tree</altname>
+        <altname>Handkerchief Tree</altname>
+        <altname>Pocket Handkerchief Tree</altname>
+        <altname>Ghost Tree</altname>
+        <description>A medium-sized deciduous tree in the dogwood family Cornaceae, subfamily
+            Nyssoideae. When flowering, it has white bracts that cover the flowers in late
+            May.</description>
+    </species>
+    <species>
+        <latin>Ehretia acuminata</latin>
+        <common>Chinese Koda</common>
+        <description>A deciduous tree found in Japan, China, Bhutan, Nepal, Laos, Vietnam, New
+            Guinea and Australia. Fossil evidence suggests an ancient Laurasian
+            origin.</description>
+    </species>
+    <species>
+        <latin>Eucalyptus gunnii</latin>
+        <common>Cider Gum</common>
+        <altname>Eucalyptus Gunnii</altname>
+        <altname>Gunnii</altname>
+        <description>A species of flowering plant in the family Myrtaceae, endemic to Tasmania,
+            occurring on the plains and slopes of the central plateaux to around 1100 metres, with
+            isolated occurrences south of Hobart. This is very frequently planted in gardens, and
+            has proved to be hardy. Very fast growing.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica</latin>
+        <common>European beech</common>
+        <altname>Common Beech</altname>
+        <description>A deciduous tree belonging to the beech family Fagaceae.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica 'Fastigiata'</latin>
+        <common>Pyramidal Beech</common>
+        <altname>Common Beech</altname>
+        <altname>European Beech</altname>
+        <description>A deciduous tree belonging to the beech family Fagaceae.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica 'Dawyck'</latin>
+        <common>Dawyck Beech</common>
+        <description>A large, fastigiate deciduous tree, becoming broadly columnar with age. Leaves
+            green, elliptic, turning orange-brown in autumn. Flowers inconspicuous, fruit
+            bristly.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica 'Pendula'</latin>
+        <common>Weeping Beech</common>
+        <description>A cultured variety of the deciduous European Beech. The weeping beech is
+            characterized by its shape with sweeping, pendulous branches.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica 'Purpurea'</latin>
+        <common>Copper Beech</common>
+        <description>Atropurpurea Group are large deciduous trees grown for their deep purple
+            leaves, which become reddish in autumn. In Spring the newly opened leaves have still
+            fully to develop the 'copper' pigments that mask the normal green colour of beech trees.
+            The male and female flowers of the beech are arranged in catkins. The male ones hang
+            down, while the reddish hairy female catkins stand upright. The beech nuts develop from
+            these female flowers. Good seed (nut) crops - called 'masts' only occur every four or
+            five years.</description>
+    </species>
+    <species>
+        <latin>Fagus sylvatica var heterophylla 'Aspleniifolia'</latin>
+        <common>Fern-leaf Beech</common>
+        <description>A medium-sized deciduous tree with a broad, open crown. Leaves variable, mostly
+            long and narrow, cut deeply into several pairs of pointed lobes and turning orange-brown
+            in autumn This is a natural variant with cut leaves.</description>
+    </species>
+    <species>
+        <latin>Ficus carica</latin>
+        <common>Fig</common>
+        <description>An Asian species of flowering plants in the mulberry family, known as the
+            common fig. It is the source of the fruit also called the fig, and as such is an
+            important crop in those areas where it is grown commercially.</description>
+    </species>
+    <species>
+        <latin>Fraxinus angustifolia</latin>
+        <common>Narrow-leaf Ash</common>
+        <description>A species of Fraxinus native to central and southern Europe, northwest Africa,
+            and southwest Asia. Widely planted in parks in recent years, it turns a magnificent
+            purple in the autumn.</description>
+    </species>
+    <species>
+        <latin>Fraxinus excelsior</latin>
+        <common>Ash</common>
+        <altname>European Ash</altname>
+        <altname>Common Ash</altname>
+        <description>This is a native species and common to abundant in much of Britain. In 'A Field
+            Guide to the Trees in Britain and Northern Europe' by Alan Mitchell, he describes the
+            'total sexual confusion' shown by this species. 'Some trees are all male, some all
+            female, some male with one or more female branches, some vice versa, some branches male
+            one year and female the next. 536 species of lichen have been recorded growing on Ash
+            trees in Britain. It is thought that Ash bark is particularly conducive to lichen
+            colonisation because of its high pH - between 5.5 and 6.5 and its relatively open canopy
+            which lets more light through to lower branches and trunk, which helps the lichens to
+            photosynthesise more efficiently. Also, widespread instances of galls can be found on
+            the Common Ash, Fraxinus excelsior. They are caused by Aceria fraxinivorus mites which
+            attack the flowers soon after they open. At first the galls are green, but they soon
+            turn brown. They can stay on the tree through the winter. The mites pass the winter in
+            the galls or in crevices in the bark. But how long before 'Ash dieback' disease -
+            Chalaria fraxina is found these trees. It could perhaps be identified as soon as the
+            leaves emerge. Please be vigilant and check any ash trees and ash woodland which you
+            manage for signs of this disease, especially trees planted within the past 20 years.
+            Refer to the Forestry Commission video and pictorial guides on their website for help to
+            recognise the symptoms (www.forestry.gov.uk/chalara). If you have concerns, please
+            report them through the Tree Alert app or online form available at
+            www.forestry.gov.uk/treealert, preferably including photos, so that the report can be
+            assessed and followed up if necessary. An advisory note is attached which gives further
+            information.</description>
+    </species>
+    <species>
+        <latin>Fraxinus excelsior 'Diversifolia'</latin>
+        <common>One-leaved Ash</common>
+        <description>This is a natural variant of the Ash in which the leaf is a single blade rather
+            than leaflets. It was quite widely planted about 30 years ago.</description>
+    </species>
+    <species>
+        <latin>Fraxinus excelsior 'Pendula'</latin>
+        <common>Weeping Ash</common>
+        <description>A strong-growing medium-sized deciduous tree forming an umbrella-shaped crown
+            of pendulous branches arching to the ground. Leaves pinnate, sometimes turning yellow in
+            the autumn They were a Victorian cemetery favourite, achieved by grafting as high as
+            possible, as the branches grow straight downwards.</description>
+    </species>
+    <species>
+        <latin>Fraxinus ornus</latin>
+        <common>Flowering Ash</common>
+        <altname>Manna Ash</altname>
+        <description>Named for its dramatic white flowers in spring, this is a species of Fraxinus native to southern Europe and southwestern Asia, from Spain and Italy north to Austria, Poland and the Czech Republic, and east through the Balkans, Turkey, and western Syria to Lebanon and Armenia.</description>
+    </species>
+    <species>
+        <latin>Ginkgo biloba</latin>
+        <common>Maidenhair Tree</common>
+        <description>It has a very upright form of growth and is now being planted in streets. Its
+            leaf is unlike that of any other tree, and it turns a wonderful lemon yellow in the
+            Autumn. Called a living fossil by Darwin as it is the only existing species of a group
+            of primitive trees that originated in, and was dominant in the Jurassic era, 200 million
+            years ago. Fossils of the Jurassic trees are virtually identical to those of present day
+            trees. Ginkgo biloba is the scientific name, 'Ginkgo' deriving from a Japanese word
+            meaning 'silver plum' which refers to its fruits; 'biloba' describing the
+            characteristically two lobed shape of the leaves. The tree is uncommon outside southern
+            England and is most frequent around London and in the Bristol-Bath-Yeovil area. The
+            Maidenhair Tree is probably a native of eastern Asia and the first specimen planted in
+            this country is still at Kew, where it was brought from China in 1754. A relic
+            population occurs in China, believed to be wild, though studies have shown little
+            genetic variation in this population and it may be that these trees result from original
+            plantings by local monks, taken from temple specimens. Nevertheless, some individuals in
+            wild hill populations are believed to be up to 3000 years old. Trees are either male or
+            female. Females bear fruits that when shed and begin to rot, produce a putrid smell. It
+            has been postulated that this might have been an adaptation to attract carrion-feeding
+            dinosaurs who would then aid dispersal via their digestive system. The fruits produce an
+            oil source containing compounds with insecticidal properties. More than 40 components
+            from the ginkgo tree have been identified, but only two are believed to act as medicine:
+            flavonoids and terpenoids. Flavonoids are plant-based antioxidants. Laboratory and
+            animal studies have shown that flavonoids protect the nerves, heart muscle, blood
+            vessels, and retina from damage. Terpenoids (such as ginkgoilides) improve blood flow by
+            dilating blood vessels and reducing the stickiness of platelets and ginkgoilides is also
+            used in treating Parkinson's Disease. It had been thought that Ginkgo compounds
+            extracted from the leaves could improve memory in older people but one of the longest
+            and best-designed studies found ginkgo was no better than a placebo in reducing
+            Alzheimer's symptoms. In a 2008 study, 176 people in the United Kingdom with Alzheimer's
+            took either ginkgo or placebo for 6 months. At the end of the study there was no
+            difference in mental function or quality of life between the groups. Another
+            well-designed study in 2008 with more than 3,000 elderly participants also found the
+            ginkgo was no better than placebo in preventing dementia or Alzheimer's.</description>
+    </species>
+    <species>
+        <latin>Gleditsia triacanthos</latin>
+        <common>Honey Locust</common>
+        <description>This deciduous tree can grow to 20m and is native to the north and east of the United States. It arrived in Britain during the later half of the 17th century, at Fulham, London.</description>
+    </species>
+    <species>
+        <latin>Griselinia littoralis</latin>
+        <common>Kapuka</common>
+        <altname>New Zealand Broadleaf</altname>
+        <description>A fast-growing small to medium-sized evergreen tree growing up to 20 m tall,
+            though generally 4-8 m particularly in coastal exposure, it is quite commonly used as a
+            hedging plant.</description>
+    </species>
+    <species>
+        <latin>Gymnocladus dioicus</latin>
+        <common>Kentucky Coffee Tree</common>
+        <description>A tree in the subfamily Caesalpinioideae of the pea family Fabaceae, native to
+            the Midwest and Upper South of North America with leaves a yard long.</description>
+    </species>
+    <species>
+        <latin>Ilex</latin>
+        <common>Holly</common>
+        <description>A genus of 400 to 600 species of flowering plants in the family Aquifoliaceae,
+            and the only living genus in that family. The species are evergreen or deciduous trees,
+            shrubs, and climbers from tropics to temperate zones worldwide.</description>
+    </species>
+    <species>
+        <latin>Ilex aquifolium</latin>
+        <common>English Holly</common>
+        <altname>Common Holly</altname>
+        <altname>European holly</altname>
+        <description>A species of holly native to western and southern Europe, northwest Africa, and
+            southwest Asia, hollies are very widespread but mostly form an understory because they
+            are so tolerant of shade.</description>
+    </species>
+    <species>
+        <latin>Ilex aquifolium 'Argentea Marginata'</latin>
+        <common>Silver-margined Holly</common>
+        <description>A medium-sized evergreen tree of conical outline, with spiny, undulate leaves
+            boldly edged with cream and tinged pink when young. Flowers small, dull white; berries
+            bright red</description>
+    </species>
+    <species>
+        <latin>Ilex aquifolium 'Aureomarginata'</latin>
+        <common>Aureomarginata English Holly</common>
+        <description/>
+    </species>
+    <species>
+        <latin>Juglans nigra</latin>
+        <common>Black Walnut</common>
+        <altname>Eastern Black Walnut</altname>
+        <description>A species of deciduous tree in the walnut family, Juglandaceae, native to
+            eastern North America species which looks superficially like an Ash. The fruit are
+            inedible. It bears walnut-like fruits with no resemblence to the fruits of
+            Wingnuts</description>
+    </species>
+    <species>
+        <latin>Juglans regia</latin>
+        <common>Persian Walnut</common>
+        <altname>Common Walnut</altname>
+        <altname>English Walnut</altname>
+        <description>Not often planted, but often self-sown by squirrels, a native of Asia from the
+            Caucasus to Japan, valuable for their timber and for the excellent nuts. The ancient
+            Greeks and Romans had walnut orchards, and it has been widely cultivated in Northern
+            Europe since 1500. Its timber became a favourite for quality furniture from 1600 until
+            it was replaced by mahogany. The English have long grown walnuts with optimism if not
+            always with success, but ours seem to be flourishing. Sometimes it is called the English
+            walnut, even though it is not a native tree and does not grow wild in Britain. It is at
+            the northern edge of its range in Britain. With an increasingly warmer climate however,
+            growing conditions are improving. Some nurseries are offering up to 30 different
+            varieties of walnut, some chosen for their nuts, others give a better quality wood.
+            Walnut wood is four times the value of oak wood. In the Park, the walnut's leaves are
+            regularly attacked by eriophyoid mites - Acaria erinea, which induce erinia galls (dense
+            patches of glandular hairs) in which the mites can feed safely. The mites only leave an
+            erinium when the hairs collapse and the leaves dry out at the end of the
+            summer.</description>
+    </species>
+    <species>
+        <latin>Juniperus communis 'Compressa'</latin>
+        <common>Chinese Juniper</common>
+        <altname>Noah's ark Juniper</altname>
+        <description>A dwarf evergreen conifer with attractive, light green foliage and white
+            stomatal lines which form a narrow, upright cone-shaped mass.</description>
+    </species>
+    <species>
+        <latin>Koelreuteria paniculata</latin>
+        <common>Pride of India</common>
+        <altname>Golden Rain Tree</altname>
+        <altname>China Tree</altname>
+        <altname>Varnish Tree</altname>
+        <description>A species of flowering plant in the family Sapindaceae, native to eastern Asia,
+            in China and Korea. It has bright yellow flowers which come in August, it has very
+            unusual attractive leaves and small black fruit in papery bladders.</description>
+    </species>
+    <species>
+        <latin>Larix</latin>
+        <common>Larch</common>
+        <description>Conifers in the genus Larix, in the family Pinaceae. Growing from 20 to 45 m
+            tall (65 to 147ft),they are native to much of the cooler temperate northern hemisphere,
+            on lowlands in the north and high on mountains further south. Larches are among the
+            dominant plants in the boreal forests of Siberia and Canada.</description>
+    </species>
+    <species>
+        <latin>Larix decidua</latin>
+        <common>Larch</common>
+        <altname>European Larch</altname>
+        <description>A species of larch native to the mountains of central Europe, in the Alps and
+            Carpathian Mountains, with disjunct lowland populations in northern Poland and southern
+            Lithuania. Most of those planted grow rather badly.</description>
+    </species>
+    <species>
+        <latin>Laurus nobilis</latin>
+        <common>Bay tree</common>
+        <description>An aromatic evergreen tree or large shrub with green, glossy leaves, native to
+            the Mediterranean region. It is one of the plants used for bay leaf seasoning in
+            cooking.</description>
+    </species>
+    <species>
+        <latin>Ligustrum lucidum</latin>
+        <common>Chinese Privet</common>
+        <altname>Broad-leaf Privet</altname>
+        <altname>Glossy Privet</altname>
+        <altname>Tree Privet</altname>
+        <altname>Wax-leaf Privet</altname>
+        <description>A flowering plant in the olive family, Oleaceae, native to the southern half of
+            China and naturalized in many places: Spain, Italy, Algeria, Canary Islands, New
+            Zealand, Lesotho, South Africa, Japan, Korea, Australia, Norfolk Island, Chiapas,
+            Central America, Argentina, and the southern United States(California, Arizona,
+            Maryland, and the southeast from Texas to North Carolina).The name</description>
+    </species>
+    <species>
+        <latin>Liquidambar styraciflua</latin>
+        <common>Sweetgum</common>
+        <altname>American sweetgum</altname>
+        <altname>Sweet Gum</altname>
+        <altname>Sweet-gum</altname>
+        <altname>Hazel Pine</altname>
+        <altname>American-storax</altname>
+        <altname>Bilsted</altname>
+        <altname>Red-gum</altname>
+        <altname>Satin-walnut</altname>
+        <altname>Star-leaved Gum</altname>
+        <altname>Alligator-wood</altname>
+        <description>A deciduous tree in the genus Liquidambar native to warm temperate areas of
+            eastern North America and tropical montane regions of Mexico and Central America. Sweet
+            gum is one of the main valuable forest trees in the southeastern United States, and is a
+            popular ornamental tree in temperate climates. It is recognizable by the combination of
+            its five-pointed star-shaped leaves and its hard, spiked fruits. It is currently
+            classified in the plant family Altingiaceae, but was formerly considered a member of the
+            Hamamelidaceae.Has magnificent autumn colouring and leaves rather like a Maple. Rare,
+            but increasingly planted.</description>
+    </species>
+    <species>
+        <latin>Liquidambar styraciflua 'Worplesdon'</latin>
+        <common>Sweet Gum 'Worplesdon'</common>
+        <description>A broad-crowned medium-sized deciduous tree with five-lobed, maple-like leaves which turn to deep orange and yellow in autumn. Flowers insignificant.</description>
+    </species>
+    <species>
+        <latin>Liriodendron tulipifera</latin>
+        <common>Tulip Tree</common>
+        <description>The Western Hemisphere representative of the two-species genus Liriodendron,
+            and the tallest eastern hardwood. It is native to eastern North America from Southern
+            Ontario and Illinois eastward to southeastern Massachusetts and Rhode Island, and south
+            to central Florida and Louisiana. It can grow to more than 50 m (160 ft) in virgin cove
+            forests of the Appalachian Mountains, often with no limbs until it reaches 25?30 m
+            (80?100 ft) in height, making it a very valuable timber tree. It is fast-growing,
+            without the common problems of weak wood strength and short lifespan often seen in
+            fast-growing species. April marks the start of the flowering period in the southern USA;
+            trees at the northern limit of cultivation begin to flower in June. The flowers are pale
+            green or yellow (rarely white), with an orange band on the tepals; they yield large
+            quantities of nectar. Named after its Tulip shaped greenish flowers and recognisable by
+            its leaves that appear to have had the tips bitten out of them, it is a handsome and
+            fast growing tree, widely planted for many years.</description>
+    </species>
+    <species>
+        <latin>Lophozonia obliqua</latin>
+        <common>Roble Beech</common>
+        <description>A deciduous tree from Chile and Argentina. It grows from 33 to 43 south
+            latitude. The northern extent of this tree's range in Chile is considered to be the
+            Vizcachas Mountains and La Campana National Park. This is the beech of South America and
+            it is too rarely planted in Bristol. The tree in the Zoo has a girth of
+            200cm.</description>
+    </species>
+    <species>
+        <latin>Magnolia</latin>
+        <common>magnolia</common>
+        <description>A large genus of about 210 flowering plant species in the subfamily
+            Magnolioideae of the family Magnoliaceae. It is named after French botanist Pierre
+            Magnol. Magnolia is an ancient genus.</description>
+    </species>
+    <species>
+        <latin>Magnolia grandiflora</latin>
+        <common>Bull Bay</common>
+        <altname>Southern Magnolia</altname>
+        <description>A tree of the family Magnoliaceae native to the southeastern United States,
+            from coastal North Carolina to central Florida, and west to East Texas and Oklahoma. The
+            evergreen magnolia from the southern states of the USA which has flowers the size of
+            dinner plates.</description>
+    </species>
+    <species>
+        <latin>Malus sylvestris</latin>
+        <common>European Crab Apple</common>
+        <description>A species of the genus Malus, native to Europe. Its scientific name
+            means</description>
+    </species>
+    <species>
+        <latin>Mespilus germanica</latin>
+        <common>Medlar</common>
+        <altname>Common Medlar</altname>
+        <description>A large shrub or small tree, and the name of the fruit of this
+            tree.</description>
+    </species>
+    <species>
+        <latin>Metasequoia glyptostroboides</latin>
+        <common>Dawn Redwood</common>
+        <description>A fast-growing, endangered coniferous tree, the sole living species of the
+            genus Metasequoia, one of three species in the subfamily Sequoioideae. This tree was
+            discovered at a remote site in China in 1941, and widely distributed to parks across the
+            world.</description>
+    </species>
+    <species>
+        <latin>Morus alba</latin>
+        <common>White Mulberry</common>
+        <description>A short-lived, fast-growing, small to medium-sized mulberry tree, which grows
+            to 1020 m tall. The species is native to northern China, and is widely cultivated and
+            naturalized elsewhere.</description>
+    </species>
+    <species>
+        <latin>Morus nigra</latin>
+        <common>Black Mulberry</common>
+        <altname>Blackberry</altname>
+        <description>A species of flowering plant in the family Moraceae, native to southwestern
+            Asia, where it has been cultivated for so long that its precise natural range is
+            unknown. This species is widely planted for its delicious fruit, but is very often found
+            growing horizontally.</description>
+    </species>
+    <species>
+        <latin>Neolitsea sericea</latin>
+        <common>Neolitsea sericea</common>
+        <description>A species of a medium-sized evergreen tree up to 10 m tall in the Lauraceae
+            family. It is found in China, Taiwan, south Korea, and Japan. A very rare tree. It is
+            evergreen, and not especially impressive. It is multi-trunked, and related to
+            Laurel.</description>
+    </species>
+    <species>
+        <latin>Ostrya carpinifolia</latin>
+        <common>Hop Hornbeam</common>
+        <altname>European Hop-hornbeam</altname>
+        <description>A tree in the family Betulaceae. It is the only species of the genus Ostrya
+            that is native to Europe. This is a rare tree closely related to the Hornbeam, with
+            fruit that look like a bunch of ripe hops.</description>
+    </species>
+    <species>
+        <latin>Parrotia persica</latin>
+        <common>Persian Ironwood</common>
+        <description>A deciduous tree in the family Hamamelidaceae, closely related to the witch-hazel genus Hamamelis. It is native to northern Iran and other parts of Iran and it is endemic in the Alborz mountains. This is a large, sprawling tree, with dark leaves that turn a wonderful purple in the autumn. It is rare.</description>
+    </species>
+    <species>
+        <latin>Paulownia tomentosa</latin>
+        <common>Foxglove Tree</common>
+        <description>A deciduous tree in the family Paulowniaceae, native to central and western
+            China. Paulownia tomentosa is an extremely fast-growing tree, and is a persistent exotic
+            invasive in North America with huge leaves and wonderful purple flowers on the bare
+            branches in early spring.</description>
+    </species>
+    <species>
+        <latin>Phillyrea latifolia</latin>
+        <common>Phillyrea</common>
+        <altname>Green Olive Tree</altname>
+        <altname>Mock Privet</altname>
+        <description>A rare small evergreen tree which is a species of tree in the family
+            Oleaceae.</description>
+    </species>
+    <species>
+        <latin>Picea abies</latin>
+        <common>Norway Spruce</common>
+        <description>A species of spruce native to Northern, Central and Eastern Europe. It has
+            branchlets that typically hang downwards, and the largest cones of any spruce, 9?17 cm
+            long. This is the commonest Christmas Tree.</description>
+    </species>
+    <species>
+        <latin>Picea breweriana</latin>
+        <common>Brewer's Spruce</common>
+        <altname>Brewer's Weeping Spruce</altname>
+        <altname>Weeping Spruce</altname>
+        <description>A species of spruce native to western North America, where it is one of the
+            rarest on the continent, endemic to the Klamath Mountains of southwest Oregon and
+            northwest California. The specific epithet breweriana is in honor of the American
+            botanist William Henry Brewer. Spruces are uncommon in Bristol. This species has
+            branches hung with pendulous branchlets.</description>
+    </species>
+    <species>
+        <latin>Pinus</latin>
+        <common>pine</common>
+        <description>Any conifer in the genus Pinus of the family Pinaceae. Pinus is
+            the sole genus in the subfamily Pinoideae.</description>
+    </species>
+    <species>
+        <latin>Pinus jeffreyi</latin>
+        <common>Jefferies Pine</common>
+        <altname>Yellow Pine</altname>
+        <altname>Black Pine</altname>
+        <description>A North American pine tree mainly found in California, but also in the
+            westernmost part of Nevada, southwestern Oregon, and northern Baja California. This tree
+            has the distinction of carrying the largest pine cone, up to 500 grams in weight, and
+            the longest needles, up to 23cm. of any pine. It is very rare in Bristol.</description>
+    </species>
+    <species>
+        <latin>Pinus nigra</latin>
+        <common>European Black Pine</common>
+        <altname>Black Pine</altname>
+        <altname>Austrian Pine</altname>
+        <altname>Corsican Pine</altname>
+        <description>It is a native of South-eastern Europe and commonly occurs on limestone. The
+            needles occur in pairs and although it is an evergreen species, the ground under the
+            trees is covered with shed needles in November. Its cones, which contain the seeds, can
+            be found on the ground at almost any time of the year. The most common and successful
+            pine in the city. It was widely planted on the Downs in the 1880s.</description>
+    </species>
+    <species>
+        <latin>Pinus pinaster</latin>
+        <common>Maritime Pine</common>
+        <altname>Cluster Pine</altname>
+        <description>A pine native to Mediterranean region, this species is distinguished by holding
+            its unopened cones on its branches for years, waiting for a fire to come to open
+            them.</description>
+    </species>
+    <species>
+        <latin>Pinus sylvestris</latin>
+        <common>Scots Pine</common>
+        <description>A species of pine that is native to Eurasia, ranging from Western Europe to
+            Eastern Siberia, south to the Caucasus Mountains and Anatolia, and north to well inside
+            the Arctic Circle in Scandinavia. This is quite often planted, but rarely does well in
+            Bristol.</description>
+    </species>
+    <species>
+        <latin>Pinus wallichiana</latin>
+        <common>Bhutan Pine</common>
+        <description>A coniferous evergreen tree native to the Himalaya, Karakoram and Hindu Kush
+            mountains, from eastern Afghanistan east across northern Pakistan and India to Yunnan in
+            southwest China. This tree has very graceful fine needles in bunches of five, and is
+            often planted.</description>
+    </species>
+    <species>
+        <latin>Platanus orientalis</latin>
+        <common>Eastern Plane</common>
+        <description>A large, deciduous tree of the Platanaceae family, growing to 30 m or more, and
+            known for its longevity and spreading crown. It is one of the parents of the London
+            Plane, but is now very rarely planted, though it grows just as fast.</description>
+    </species>
+    <species>
+        <latin>Platanus orientalis var insularis</latin>
+        <common>Cyprian Plane</common>
+        <description>An interesting variety with leaves that have five long fingers, and holds its
+            foliage later than other planes.</description>
+    </species>
+    <species>
+        <latin>Platanus x acerifolia</latin>
+        <synomym>Platanus x hispanica</synomym>
+        <common>London Plane</common>
+        <altname>Hybrid Plane</altname>
+        <parent>Platanus orientalis</parent>
+        <parent>Platanus occidentalis</parent>
+        <description>London Plane is 'allegedly' a cross between the Oriental Plane and the American Plane. The hybrid probably arose in Southern France, and seed sent from Montpelier was first raised at Oxford Botanic Garden around 1670. It is a much more adaptable and frost-resistant tree than the parental species and has, as a consequence, become widely distributed throughout much of central Europe. The London Planes can be easily identified by the mosaic-like appearance of their bark, which develops as the bark peels off in large flakes to leave, initially, pale yellow patches of the inner bark below. London Planes are particularly tolerant of smoke and dust laden air of cities. This is doubtless why so many London Planes were planted in our park. The Victorian air in Bristol must have been quite noxious from all the domestic coal fires emitting copious quantities of smoke and fumes. In autumn and winter, when the leaves have dropped, the globose clusters of fruits are clearly visible, hanging from long stalks in clusters of two or three. In winter, these provide a valuable food source for goldfinches and greenfinches which can commonly be seen feeding on them. In spring,the globose female catkins appear, their tips a pinkish red.</description>
+    </species>
+    <species>
+        <latin>Populus alba</latin>
+        <common>White Poplar</common>
+        <altname>Silver Poplar</altname>
+        <altname>Abele</altname>
+        <description>A species of poplar, most closely related to the aspens. It is native from
+            Morocco and the Iberian Peninsula through central Europe to central Asia. This tree
+            suckers vigorously, and can often be seen along Motorways. The undersides of the leaves
+            are white and turn silver in the Autumn.</description>
+    </species>
+    <species>
+        <latin>Populus nigra 'Italica'</latin>
+        <common>Lombardy Poplar</common>
+        <description>A large, vigorous, narrowly columnar deciduous tree to 30m tall, with bright
+            green ovate leaves and crimson male catkins before the leaves open in early spring.
+            Poplars are exceptionally fast growing trees, but there are very few old Lombardy
+            Poplars in Bristol parks, though they were often planted as industrial screening in the
+            1930s.</description>
+    </species>
+    <species>
+        <latin>Populus nigra 'Plantierensis'</latin>
+        <common>Black Poplar</common>
+        <description>The following information is taken verbatim from the entry on Black Poplar in
+            Wikipedia: The Plantierensis group consists of clones derived by crossing 'Italica' with
+            P. nigra ssp betulifolia at the Plantires Nursery near Metz in France in 1884; they are
+            similar to 'Italica' (and often mistaken for it) but with a slightly broader crown, and
+            better adapted to the cool, humid climate of northwest Europe, where the true Lombardy
+            poplar does not grow well. Both male and female clones are grown. This is the tree most
+            commonly grown in Great Britain and Ireland as 'Lombardy poplar'.' So, if you are not
+            even more confused, this tree is not a true Lombardy Poplar (Populus nigra 'Italica')
+            but Populus nigra 'Plantierensis' which is still (mistakenly) referred to as the
+            'Lombardy' Poplar! This view is supported by the fact that Black Poplars were commonly
+            planted in parks in Victorian times.</description>
+    </species>
+    <species>
+        <latin>Populus trichocarpa</latin>
+        <common>Balsam Poplar</common>
+        <altname>Black cottonwood</altname>
+        <altname>Western Balsam-poplar</altname>
+        <altname>California Poplar</altname>
+        <description>A deciduous broadleaf tree species native to western North America. It is used
+            for timber, and is notable as a model organism in plant biology. This fine species, with
+            a strongly upright growth, scents the whole area with balsam when its buds break in the
+            spring, and it turns a magnificent yellow in the Autumn. It is not common.</description>
+    </species>
+    <species>
+        <latin>Populus x canadensis</latin>
+        <common>Hybrid Black Poplar</common>
+        <altname>Black Poplar</altname>
+        <altname>Canadian Poplar</altname>
+        <altname>Carolina Poplar</altname>
+        <parent>Populus nigra</parent>
+        <parent>Populus deltoides</parent>
+        <description>A naturally occurring hybrid of Populus nigra and Populus deltoides. It is commonly used by landscape architects. Varieties include</description>
+    </species>
+    <species>
+        <latin>Populus x canescens</latin>
+        <common>Grey Poplar</common>
+        <parent>Populus alba</parent>
+        <parent>Populus tremula</parent>
+        <description>A hybrid between Populus alba and Populus tremula. It is intermediate between its parents, with a thin grey downy coating on the leaves, which are also much less deeply lobed than the leaves of P. albus Distinguished by the black diamond shaped pits on its trunk.</description>
+    </species>
+    <species>
+        <latin>Prunus</latin>
+        <common>Cherry</common>
+        <description>A genus of trees and shrubs, which includes the plums, cherries, peaches,
+            nectarines, apricots and almonds. Around 430 species are spread throughout the northern
+            temperate regions of the globe.</description>
+    </species>
+    <species>
+        <latin>Prunus avium</latin>
+        <common>Wild Cherry</common>
+        <altname>Sweet Cherry</altname>
+        <altname>Gean</altname>
+        <altname>Bird Cherry</altname>
+        <description>A species of cherry native to Europe, Anatolia, Maghreb, and western Asia, from the British Isles south to Morocco and Tunisia, north to the Trondheimsfjord region in Norway and east to the Caucasus and northern Iran, with a small isolated population in the western Himalaya. The species is widely cultivated in other regions and has become naturalized in North America and Australia. It seeds itself readily, and spreads by suckering. They turn a fine colour in the autumn.</description>
+    </species>
+    <species>
+        <latin>Prunus cerasifera 'Atropurpurea'</latin>
+        <common>Myrobalan Plum</common>
+        <description>The English name indicates the tree bears plum fruits, though they are small
+            and resemble cherries in both shape and colour. The fruit was once used in making
+            ointments and the alternative name of 'Myrobalan' comes from two Greek words, myron
+            meaning sweet-scented ointment and balanos, a fruit.</description>
+    </species>
+    <species>
+        <latin>Prunus cerasifera 'Pissardii'</latin>
+        <common>Cherry Plum</common>
+        <altname>Purple-leaved Plum</altname>
+        <description>A small, ornamental plum tree with rich, dark-purple leaves displayed on
+            blackish stems, against which the pink buds and blush/white flowers that appear in
+            spring are a beautiful contrast. The flowers are followed by plum like fruits (not
+            edible to humans) in the autumn, so extending the period of interest. With a rounded
+            habit, the eventual height and spread of this Purple Leaved Plum tree after 20 years is
+            about 5 x 4 metres.</description>
+    </species>
+    <species>
+        <latin>Prunus serrulata 'Kanzan'</latin>
+        <common>Flowering Cherry 'Kanzan'</common>
+        <description>A flowering cherry cultivar. It is a deciduous tree that grows to between 8 and 12 metres high with an 8-metre spread. Young trees have a vase-shaped habit that becomes more spreading into maturity.</description>
+    </species>
+    <species>
+        <latin>Prunus laurocerasus</latin>
+        <common>Cherry Laurel,Common Laurel,English Laurel</common>
+        <description>An evergreen species of cherry (Prunus), native to regions bordering theBlack
+            Sea in southwestern Asiaand southeasternEurope, from Albania and Bulgaria east through Turkey to
+            the Caucasus Mountains and northern Iran. </description>
+    </species>
+    <species>
+        <latin>Prunus lusitanica</latin>
+        <common>Portuguese Laurel</common>
+        <description>A species of the genus Prunus, related to the cherry. It is native to
+            southwestern France, Spain, Portugal, Morocco, and Macaronesia.</description>
+    </species>
+    <species>
+        <latin>Prunus padus</latin>
+        <common>Bird Cherry</common>
+        <altname>Mayday Tree</altname>
+        <description>The Bird Cherry is a native species but is only found in the wild in the
+            Scottish glens where it is common and by streams in limestone areas in North West
+            Yorkshire and in mid Wales. The specimens we have are a cultivar, P. pardus Watereri
+            which flowers more profusely than the wild form of the tree. The flower spikes (racemes)
+            are particularly long in 'Watereri' and the park trees come into spectacular flowering
+            in late April, early May. The flowers are heavily scented. A trip to the park when the
+            trees are in full flower is strongly recommended as the air around the trees is fragrant
+            with their perfume. The name, Bird Cherry derives from the small fruits that ripen in
+            August into bitter tasting 'cherries' which are only attractive to birds.</description>
+    </species>
+    <species>
+        <latin>Prunus serrulata</latin>
+        <common>Japanese Cherry</common>
+        <altname>Tibetan Cherry</altname>
+        <altname>Hill Cherry</altname>
+        <altname>Oriental Cherry</altname>
+        <altname>East Asian Cherry</altname>
+        <description>A species of cherry native to Japan, Korea and China and is used for its spring
+            cherry blossom displays and festivals. There are a huge variety of varieties that the
+            Japanese originally bred, and they are widely planted in streets and parks. The double
+            pink Kanzan is well known. A small slow growing tree recognised at once by its bight
+            glossy dark brown bark.</description>
+    </species>
+    <species>
+        <latin>Pseudotsuga menziesii</latin>
+        <common>Douglas Fir</common>
+        <description>A native to western North America, it is uncommon, and does not grow
+            well.</description>
+    </species>
+    <species>
+        <latin>Pterocarya fraxinifolia</latin>
+        <common>Caucasian Wingnut</common>
+        <altname>Caucasian Walnut</altname>
+        <description>A species of tree in the Juglandaceae family. It is native to the Caucasian
+            region Armenia, Azerbaijan, Georgia, Iran, Russia, Ukraine and Turkey. Rarely planted
+            for the good reason that is suckers spread very vigorously.</description>
+    </species>
+    <species>
+        <latin>Pyrus calleryana 'Chanticleer'</latin>
+        <common>Chanticleer pear</common>
+        <description>A narrowly conical medium-sized deciduous tree with glossy dark green ovate leaves, usually colouring well in autumn. Abundant clusters of white flowers followed by small brown fruits</description>
+    </species>
+    <species>
+        <latin>Quercus</latin>
+        <common>Oak</common>
+        <description>A tree or shrub in the genus Quercus of the beech family, Fagaceae. There are
+            approximately 600 extant species of oaks. The common name</description>
+    </species>
+    <species>
+        <latin>Quercus alba</latin>
+        <common>White Oak</common>
+        <description>One of the pre-eminent hardwoods of eastern and central North America. This is
+            a rare tree.</description>
+    </species>
+    <species>
+        <latin>Quercus borealis</latin>
+        <common>Red Oak</common>
+        <altname>Northern Red Oak</altname>
+        <altname>Champion Oak</altname>
+        <description>An oak in the red oak group (Quercus section Lobatae). It is a native of North
+            America, in the eastern and central United States and southeast and south-central
+            Canada. It grows from the north end of the Great Lakes, east to Nova Scotia, south as
+            far as Georgia, Alabama, and Louisiana, and west to Oklahoma, Kansas, Nebraska, and
+            Minnesota. It has been introduced to small areas in Western Europe, where it can
+            frequently be seen cultivated in gardens and parks. It prefers good soil that is
+            slightly acidic. This is a fast growing oak, with splendid colour in some autumns and
+            very large leaves with fine points.</description>
+    </species>
+    <species>
+        <latin>Quercus castaneifolia</latin>
+        <common>Chestnut-leaved Oak</common>
+        <description>A species of oak in the turkey oak section Quercus sect. Cerris. It is native
+            to the Caucasus and Alborz mountains of Iran, and resembles the closely related Turkey
+            Oak in appearance.</description>
+    </species>
+    <species>
+        <latin>Quercus cerris</latin>
+        <common>Turkey Oak</common>
+        <altname>Austrian Oak</altname>
+        <description>An oak native to south-eastern Europe and Asia Minor. It is the type species of
+            Quercus sect. It has been widely planted, and is now spreading fast naturally though
+            woodlands. It is distinguished by hairs at the tip of its buds, and the sharp teething
+            on its leaves, but it is very variable.</description>
+    </species>
+    <species>
+        <latin>Quercus ilex</latin>
+        <common>Holm Oak</common>
+        <altname>Holly Oak</altname>
+        <description>A large evergreen oak native to the Mediterranean region. It takes its name
+            from holm, an ancient name for holly.</description>
+    </species>
+    <species>
+        <latin>Quercus libani</latin>
+        <common>Lebanon Oak</common>
+        <description>A species of oak native to the eastern Mediterranean in western Asia, including
+            in Lebanon, western Syria, northeastern Israel, eastern Turkey, and northern Iraq and
+            Iran.</description>
+    </species>
+    <species>
+        <latin>Quercus petraea</latin>
+        <common>Sessile Oak</common>
+        <altname>Durmast Oak</altname>
+        <description>A species of oak tree native to most of Europe and into Anatolia and Iran. The
+            sessile oak is an unofficial emblem in Wales and Cornwall.</description>
+    </species>
+    <species>
+        <latin>Quercus robur</latin>
+        <common>Pedunculate Oak</common>
+        <altname>Common Oak</altname>
+        <altname>English Oak</altname>
+        <description>A species of flowering plant in the beech and oak family Fagaceae. It is native
+            to most of Europe west of the Caucasus.</description>
+    </species>
+    <species>
+        <latin>Quercus robur 'Cristata'</latin>
+        <common>Cluster Oak</common>
+        <description>The rarest tree in Bristol as there are only about six in the country. The
+            original tree was found in Savernake Forest, and it is a very slow growing sport with
+            distorted leaves. It does however come true from seed.</description>
+    </species>
+    <species>
+        <latin>Quercus robur 'Fastigiata'</latin>
+        <common>Cypress Oak</common>
+        <description>This variety grows in a columnar form, but is not often planted.</description>
+    </species>
+    <species>
+        <latin>Quercus rubra</latin>
+        <common>Red Oak,Norther Red Oak</common>
+        <description>An oak in the red oak group. It is a native of North America, in the eastern
+            and central United States and southeast and south-central Canada.</description>
+    </species>
+    <species>
+        <latin>Quercus suber</latin>
+        <common>Cork Oak</common>
+        <description>A medium-sized, evergreen oak tree in the section Quercus sect. Cerris. It is
+            the primary source of cork for wine bottle stoppers and other uses, such as cork
+            flooring.</description>
+    </species>
+    <species>
+        <latin>Quercus x hispanica</latin>
+        <common>Luccombe Oak</common>
+        <parent>Quercus suber</parent>
+        <parent>Quercus serris</parent>
+        <description>This is a cross between Turkey Oak and Cork oak, and originated in the Exeter nurseries, and was widely planted by the Victorians. It does come true from seed. Most of the old estates had one, but they have tended to die in recent years.</description>
+    </species>
+    <species>
+        <latin>Quercus x turneri</latin>
+        <common>Turner's Oak</common>
+        <parent>Quercus robur</parent>
+        <parent>Quercus ilex</parent>
+        <description>This is a rare hybrid between the Common Oak and the Holm oak, which is semi-evergreen.</description>
+    </species>
+    <species>
+        <latin>Robinia pseudoacacia</latin>
+        <common>Robinia</common>
+        <altname>False Acacia</altname>
+        <altname>Black Locust</altname>
+        <description>A medium-sized deciduous tree native to the southeastern United States, but it
+            has been widely planted and naturalized elsewhere in temperate North America, Europe,
+            Southern Africa and Asia and is considered an invasive species in some areas. It was
+            introduced into Britain in 1636. This is a very tough spiny fast-growing tree that
+            suckers readily, and has delicate white pea like flowers.</description>
+    </species>
+    <species>
+        <latin>Salix</latin>
+        <common>Willow,Sallows,Osiers</common>
+        <description>Form the genus Salix, around 400 species of deciduous trees and shrubs, found
+            primarily on moist soils in cold and temperate regions of the Northern
+            Hemisphere.</description>
+    </species>
+    <species>
+        <latin>Salix alba</latin>
+        <common>White Willow</common>
+        <description>A species of willow native to Europe and western and central Asia. The name
+            derives from the pale under-surface of the leaves, this has a variety of attractive
+            forms.</description>
+    </species>
+    <species>
+        <latin>Salix caprea</latin>
+        <common>Goat</common>
+        <description>A common species of willow native to Europe and western and central Asia. It is
+            a deciduous shrub or small tree, reaching a height of 8-10 m, rarely to 13
+            m.</description>
+    </species>
+    <species>
+        <latin>Salix fragilis</latin>
+        <common>Crack Willow</common>
+        <altname>Brittle Willow</altname>
+        <description>A species of willow native to Europe and Western Asia. Distinguished by the
+            fact that branchlets snap off, it is a very common native tree, but rare in
+            parks.</description>
+    </species>
+    <species>
+        <latin>Salix x sepulcralis 'Chrysocoma'</latin>
+        <common>Weeping Golden Willow</common>
+        <parent>Salix alba</parent>
+        <parent>Salix babylonica</parent>
+        <description>A familiar form that grows very rapidly, it is the most popular and widely grown weeping tree in the warm temperate regions of the world. It is an artificial hybrid between S. alba 'Vitellina' and S. babylonica.</description>
+    </species>
+    <species>
+        <latin>Sambucus nigra</latin>
+        <common>Elder</common>
+        <description>A species complex of flowering plants in the family Adoxaceae native to most of
+            Europe and North America. Common names include elder, elderberry, black elder, European
+            elder, European elderberry and European black elderberry.</description>
+    </species>
+    <species>
+        <latin>Sequoia sempervirens</latin>
+        <common>Redwood</common>
+        <altname>Coast Redwood</altname>
+        <altname>California Redwood</altname>
+        <description>The sole living species of the genus Sequoia in the cypress family
+            Cupressaceae. Distinguished by its thick red bark and yew-like leaves, it does not grow
+            as well as the Wellingtonia. It will coppice, which is very unusual for a
+            conifer.</description>
+    </species>
+    <species>
+        <latin>Sequoiadendron giganteum</latin>
+        <common>Wellingtonia</common>
+        <description>The sole living species in the genus Sequoiadendron, and one of three species
+            of coniferous trees known as redwoods, classified in the family Cupressaceae in the
+            subfamily Sequoioideae, together with Sequoia sempervirens (coast redwood) and
+            Metasequoia glyptostroboides (dawn redwood). The common use of the name</description>
+    </species>
+    <species>
+        <latin>Sophora japonica</latin>
+        <common>Scholar's Tree</common>
+        <altname>Japanese Pagoda Tree</altname>
+        <description>An uncommon tree that flowers in August, it is a species of tree in the
+            subfamily Faboideae of the pea family Fabaceae. It was formerly included within a
+            broader interpretation of the genus Sophora.</description>
+    </species>
+    <species>
+        <latin>Sorbus aria</latin>
+        <common>Common Whitebeam</common>
+        <altname>Whitebeam</altname>
+        <description>Members of the Rosaceae family, comprising subgenus Aria of genus Sorbus, and hybrids involving species of this subgenus and members of subgenera Sorbus, Torminaria and Chamaemespilus. Many specimens on the face of the Avon Gorge, and a total of 19 micro-species have also been proved to be present there. A wide variety of species and variants are planted. The tree was often planted as boundary markers as the white underside of its leaves flashing in the wind drew attention to it.</description>
+    </species>
+    <species>
+        <latin>Sorbus aucuparia</latin>
+        <common>Mountain Ash</common>
+        <altname>Mountain-ash</altname>
+        <altname>Rowan</altname>
+        <description>A native small tree, and a number of varieties and species are often planted in gardens and car parks, but rarely in parks, it is a species of deciduous tree or shrub in the rose family.</description>
+    </species>
+    <species>
+        <latin>Sorbus bristoliensis</latin>
+        <common>Bristol Whitebeam</common>
+        <description>A species of flowering plant in the family Rosaceae. An endemic species of
+            Whitebeam, unique to the Avon Gorge and there are estimated to be about 300 of them
+            growing there. An unusual feature of this tree is that it quite often divides into two
+            main trunks as it develops. Although that doesn't always happen, the development of a
+            forked trunk is common. Trying to identify the Bristol Whitebeam from other Sorbus
+            species in the Avon Gorge woodlands is not easy. Examining and comparing the particular
+            shape of its fruits - orange berries - is the most reliable way an experienced botanist
+            can recognise and differentiate the Bristol Whitebeam from other Sorbus.</description>
+    </species>
+    <species>
+        <latin>Sorbus hupehensis</latin>
+        <common>Hubei Rowan</common>
+        <description>A species of rowan native to central and western China. It is a small deciduous
+            tree growing to 5o?=10 m tall, with grey-brown to purplish-brown bark. The branches and
+            shoots are slender.</description>
+    </species>
+    <species>
+        <latin>Sorbus intermedia</latin>
+        <common>Swedish Whitebeam</common>
+        <description>A species of whitebeam found in southern Sweden, with scattered occurrences in
+            easternmost Denmark, the far southwest of Finland, Estonia, Latvia and northern Poland.
+            Widely planted often as a street tree but it tends to be short-lived.</description>
+    </species>
+    <species>
+        <latin>Sorbus aucuparia 'Joseph Rock'</latin>
+        <common>Mountain Ash 'Joseph Rock'</common>
+        <description>Sorbuscan be deciduous trees or shrubs with simple or pinnate leaves and clusters of small white or pink flowers, followed by white, yellow, pink, red or brown berries; some have fine autumn colour. 'Joseph Rock' is an upright tree with pinnate leaves which turn orange, red and purple in autumn, contrasting with the butter-yellow berries.</description>
+    </species>
+    <species>
+        <latin>Sorbus torminalis</latin>
+        <common>Service Tree</common>
+        <altname>Wild Service Tree</altname>
+        <altname>Chequers</altname>
+        <altname>Checker Tree</altname>
+        <description>A species of Sorbus native to Europe from England and Wales east to Denmark and
+            Poland, south to northwest Africa, and southeast to southwest Asia from Asia Minor to
+            the Caucasus and Alborz mountains.</description>
+    </species>
+    <species>
+        <latin>Taxus baccata</latin>
+        <common>English Yew</common>
+        <altname>Yew</altname>
+        <description>A very common native tree, and the Irish form whose branches grow vertically is
+            the commonest planted especially in cemeteries. The champion tree is on the Downs with a
+            girth of 480cm. A conifer native to western, central and southern Europe, northwest
+            Africa, northern Iran and southwest Asia.</description>
+    </species>
+    <species>
+        <latin>Taxus baccata 'Fastigiata'</latin>
+        <common>Irish Yew</common>
+        <altname>Blue John</altname>
+        <description>A large, bushy, upright evergreen shrub, columnar when young, later broader,
+            with erect shoots bearing radially arranged, dark green leaves</description>
+    </species>
+    <species>
+        <latin>Tetradium daniellii</latin>
+        <common>Korean Euodia</common>
+        <altname>Bee-bee Tree</altname>
+        <description>A species of flowering plant in the Rutaceae family. This is a rare tree that
+            flowers in September.</description>
+    </species>
+    <species>
+        <latin>Thuja occidentalis 'Rheingold'</latin>
+        <common>Eastern arborvitae cultivar, White Cedar 'Rheingold'</common>
+        <description>A slow-growing bushy evergreen conifer making a medium-sized shrub of ovoid outline. Bronze-tinged, amber-yellow foliage, becoming more richly-coloured in winter</description>
+    </species>
+    <species>
+        <latin>Thuja plicata</latin>
+        <common>Western Red Cedar</common>
+        <altname>Pacific Red Cedar</altname>
+        <altname>Giant Arborvitae</altname>
+        <altname>Western Arborvitae</altname>
+        <altname>Giant Cedar</altname>
+        <altname>Shinglewood</altname>
+        <description>A species of Thuja, an evergreen coniferous tree in the cypress family
+            Cupressaceae native to western North America. A handsome common conifer with a
+            distinctive egg shaped fruit, it often has branches coming horizontally from the base of
+            its trunk.</description>
+    </species>
+    <species>
+        <latin>Tilia</latin>
+        <common>Lime</common>
+        <description>Tilia is a genus of about 30 species of trees native throughout most of the
+            temperate Northern Hemisphere. Commonly called lime trees in the British Isles, they are
+            not closely related to the lime fruit.</description>
+    </species>
+    <species>
+        <latin>Tilia cordata</latin>
+        <common>Small Leafed Lime</common>
+        <description>A species of Tilia native to much of Europe, from Britain through central
+            Fennoscandia, to central Russia, and south to central Spain, Italy, Greece, Bulgaria,
+            Romania, Turkey, the Caucasus, and western Asia. Developing flower buds on Small Leafed
+            Lime in Spring have leaf-like winged bracts which are later used to help disperse the
+            seeds. Though nationally this is an uncommon native species, locally it is frequent with
+            some very ancient trees in Leigh Woods. It rarely produces seed in our present climate.
+            It is distinguished by holding its flowers and fruit upright rather than hanging. Many
+            were planted on the Downs avenues to replace Huntingdon Elms.</description>
+    </species>
+    <species>
+        <latin>Tilia platyphyllos</latin>
+        <common>Large Leaved Lime</common>
+        <description>A species of flowering plant in the family Malvaceae. It is a deciduous tree,
+            native to much of Europe, including locally in southwestern Great Britain, growing on
+            lime-rich soils. This a rare native species, but now very widely planted. It has none of
+            the Common Lime's faults and all its advantages. Like all limes it is slow
+            growing.</description>
+    </species>
+    <species>
+        <latin>Tilia tomentosa</latin>
+        <common>Silver Lime</common>
+        <altname>Silver Linden</altname>
+        <description>A species of flowering plant in the family Malvaceae, native to southeastern
+            Europe and southwestern Asia, from Hungary A fine well shaped tree distinguished by the
+            white undersides of the leaves.</description>
+    </species>
+    <species>
+        <latin>Tilia tomentosa 'Petiolaris'</latin>
+        <common>Silver Pendent Lime</common>
+        <description>A vigorous and elegant large deciduous tree with pendulous branches bearing
+            heart-shaped dark green leaves whitish beneath. Clusters of highly scented yellowish
+            flowers are narcotic to bees Always grafted this is similar to the Silver Lime, but with
+            a weeping form.</description>
+    </species>
+    <species>
+        <latin>Tilia x europaea</latin>
+        <common>Common Lime</common>
+        <altname>European Lime</altname>
+        <parent>Tilia cordata</parent>
+        <parent>Tilia platyphyllos</parent>
+        <description>A naturally occurring hybrid between Tilia cordata and Tilia platyphyllos. The Common Lime was the commonest tree for formal avenues in the 18th century. The trees typically have dense masses of growth both around the base of the trunk and in the middle of the tree as they are clones. Is easily coppiced.</description>
+    </species>
+    <species>
+        <latin>Ulmus glabra</latin>
+        <common>Wych Elm</common>
+        <altname>Scots Elm</altname>
+        <description>Has the widest range of the European elm species, from Ireland eastwards to the
+            Urals, and from the Arctic Circle south to the mountains of the Peloponnese in Greece;
+            it is also found in Iran. Until 1975 Elms were the most familiar of trees, and the
+            recovery from Dutch Elm Disease has been slow.</description>
+    </species>
+    <species>
+        <latin>Ulmus 'New Horizon'</latin>
+        <common>Resistant Elm</common>
+        <description>An American hybrid cultivar raised by the Wisconsin Alumni Research
+            Foundation(WARF), from a crossing of the Japanese Elm clone W43-8 ='Reseda'(female parent)
+            with Siberian Elm clone W426 grown from seed collected from a street tree at Yankton, South
+            Dakota. 'New Horizon' was patented in the USA in 1994, while in Europe, it is one of
+            the 'Resista' elms protected under E U breeders' rights (E U council decision
+            2100/94).</description>
+    </species>
+    <species>
+        <latin>Ulmus 'Sapporo Autumn Gold'</latin>
+        <common>Resistant Elm</common>
+        <description>One of the most commercially successful hybrid elm cultivars ever marketed,
+            widely planted across North America and western Europe, although it has now been largely
+            supplanted by more recent introductions.</description>
+    </species>
+    <species>
+        <latin>Zelkova</latin>
+        <common>Zelkova</common>
+        <description>A genus of six species of deciduous trees in the elm family Ulmaceae, native to
+            southern Europe, and southwest and eastern Asia. They vary in size from shrubs to large
+            trees up to 35 m tall.</description>
+    </species>
+    <species>
+        <latin>Zelkova serrata</latin>
+        <common>Keaki</common>
+        <description>A species of flowering plant native to Japan, Korea, eastern China and Taiwan,
+            this is an uncommon Japanese tree. It is often grown as an ornamental tree, and used in
+            bonsai.</description>
+    </species>
+    <species>
+        <latin>Zelkova carpinifolia</latin>
+        <common>Zelkova</common>
+        <description>A species of Zelkova, native to the Caucasus, Kakar, and Alborz mountains in
+            the extreme southeast of Europe and southwest Asia.</description>
+    </species>
+    <species>
+        <latin>Acer campestre</latin>
+        <common>Field Maple</common>
+        <description>A deciduous, flowering tree in the soapberry and lychee family Sapindaceae. It is native to much of Europe, the British Isles, southwest Asia from Turkey to the Caucasus, and north Africa in the Atlas Mountains. it has been widely planted, and is introduced outside its native range in Europe, and to areas of USA and Western Australia with suitable climate.</description>
+    </species>
+    <species>
+        <latin>Acer cappadocicum</latin>
+        <common>Cappadocian Maple</common>
+        <description>Cappadocian maple is grown as an ornamental tree in Europe. Many of the trees in cultivation show a strong tendency to produce numerous root sprouts, a character rare in maples</description>
+    </species>
+    <species>
+        <latin>Fraxinus excelsior 'Aurea'</latin>
+        <common>Golden Ash</common>
+    </species>
+    <species>
+        <latin>Malus</latin>
+        <common>Apple</common>
+    </species>
+    <species>
+        <latin>Quercus coccinea</latin>
+        <common>Scarlet Oak</common>
+    </species>
+    <species>
+        <latin>Betula</latin>
+        <common>Birch</common>
+    </species>
+    <species>
+        <latin>Fraxinus excelsior 'Diversifoli'</latin>
+        <common>One-leaved Ash</common>
+    </species>
+    <species>
+        <latin>Prunus avium 'Plena'</latin>
+        <common>Wild Cherry 'Plena'</common>
+    </species>
+    <species>
+        <latin>Acer pseudoplatanus 'Purpureum'</latin>
+        <common>Purple Sycamore Maple</common>
+    </species>
+    <species>
+        <latin>Sorbus</latin>
+        <common>Sorbus</common>
+    </species>
+    <species>
+        <latin>Pyrus</latin>
+        <common>Pear</common>
+    </species>
+    <species>
+        <latin>Ilex aquifolium 'Albomarginata'</latin>
+        <common>White-margined Holly</common>
+    </species>
+    <species>
+        <latin>Fagus sylvatica 'Rohanii'</latin>
+        <common>Rohanii European Beech</common>
+    </species>
+    <species>
+        <latin>Acer capillipes</latin>
+        <common>Kyushu Maple</common>
+        <altname>Red Snakebark Maple</altname>
+    </species>
+    <species>
+        <latin>Acer platanoides 'Goldsworth Purple'</latin>
+        <common>Norway Maple 'Goldsworth Purple'</common>
+    </species>
+    <species>
+        <latin>Pyrus communis</latin>
+        <common>Common Pear</common>
+        <altname>European Pear</altname>
+    </species>
+    <species>
+        <latin>Acer pseudoplatanus 'Brilliantissimum'</latin>
+        <common>Maple 'Brilliantissimum'</common>
+    </species>
+    <species>
+        <latin>Chamaecyparis lawsoniana 'Erecta'</latin>
+        <common>Lawson's cypress 'Erecta'</common>
+    </species>
+    <species>
+        <latin>Sorbus x thuringiaca 'Fastigiata'</latin>
+        <common>Bastard Service Tree</common>
+        <parent>Sorbus aria</parent>
+        <parent>Sorbus aucuparia</parent>
+    </species>
+    <species>
+        <latin>Prunus x subhirtella 'Autumnalis Rosea'</latin>
+        <common>Rosebud Cherry 'Autumnalis Rosea'</common>
+        <parent>Prunus incisa</parent>
+        <parent>Prunus spachiana</parent>
+        <description>Prunus can be deciduous or evergreen trees or shrubs with showy flowers in spring, and often good autumn foliage colour. Some have edible fruit in autumn, and a few species have ornamental bark. 'Autumnalis Rosea' is a small deciduous tree of spreading habit with ovate leaves turning yellow in autumn, and pale pink, semi-double flowers opening during mild weather from late autumn to early spring.</description>
+    </species>
+    <species>
+        <latin>Ulmus x hollandica</latin>
+        <common>Dutch Elm</common>
+        <parent>Ulmus glabra</parent>
+        <parent>Ulmus minor</parent>
+    </species>
+    <species>
+        <latin>Arbutus andrachne</latin>
+        <common>Greek strawberry tree</common>
+    </species>
+    <species>
+        <latin>Cercis siliquastrum</latin>
+        <common>Judas tree</common>
+        <description>This beautiful small deciduous tree can reach a height of 14m. It is a native of south-eastern Europe and western Asia. It was introduced to Britain in 1596 by the herbalist John Gerard.</description>
+    </species>
+    <species>
+        <latin>Cotoneaster frigidus</latin>
+        <common>Himalayan Tree Cotoneaster</common>
+    </species>
+    <species>
+        <latin>Crataegus laevigata</latin>
+        <common>Midland Hawthorn</common>
+    </species>
+    <species>
+        <latin>Malus floribunda</latin>
+        <common>Japanese crabapple</common>
+    </species>
+    <species>
+        <latin>Picea</latin>
+        <common>Spruce</common>
+    </species>
+    <species>
+        <latin>Pinus mugo</latin>
+        <common>Mountain Pine</common>
+    </species>
+    <species>
+        <latin>Prunus serrula</latin>
+        <common>Tibetan cherry</common>
+    </species>
+    <species>
+        <latin>Salix cinerea</latin>
+        <common>Grey Willow</common>
+    </species>
+    <species>
+        <latin>Tilia x euchlora</latin>
+        <common>Crimean Lime</common>
+        <parent>Tilia cordata</parent>
+        <parent>Tilia dasystyla</parent>
+    </species>
+    <species>
+        <latin>Prunus incisa 'Louisa Lea'</latin>
+        <common>Fuji cherry</common>
+    </species>
+    <species>
+        <latin>Tilia cordata 'Greenspire'</latin>
+        <common>Small-leaved lime 'Greenspire'</common>
+    </species>
+    <species>
+        <latin>Prunus 'Amanogawa'</latin>
+        <common>Japanese flowering cherry</common>
+    </species>
+    <species>
+        <latin>Prunus 'Shirofugen'</latin>
+        <common>Japanese flowering cherry</common>
+    </species>
+    <species>
+        <latin>Prunus 'Tai-haku'</latin>
+        <common>Japanese flowering cherry</common>
+    </species>
+    <species>
+        <latin>Prunus sargentii 'Rancho'</latin>
+        <common>Sargent's cherry</common>
+    </species>
+    <species>
+        <latin>Aesculus indica</latin>
+        <common>Indian horse chestnut</common>
+    </species>
+    <species>
+        <latin>Buddleja davidii</latin>
+        <synomym>Buddleia davidii</synomym>
+        <common>Buddleia</common>
+        <altname>Butterfly Bush</altname>
+    </species>
+    <species>
+        <latin>Laburnum anagyroides</latin>
+        <common>Laburnum</common>
+    </species>
+    <species>
+        <latin>Quercus frainetto</latin>
+        <common>Hungarian oak</common>
+    </species>
+    <species>
+        <latin>Ulmus minor 'Atinia'</latin>
+        <synomym>Ulmus procera</synomym>
+        <common>English elm</common>
+    </species>
+    <species>
+        <latin>Ulmus</latin>
+        <common>Elm</common>
+    </species>
+    <species>
+        <latin>Populus</latin>
+        <common>Poplar</common>
+    </species>
+    <species>
+        <latin>Prunus cerasifera</latin>
+        <common>Cherry plum</common>
+    </species>
+    <species>
+        <latin>Pinus nigra var. nigra</latin>
+        <common>Austrian pine</common>
+    </species>
+    <species>
+        <latin>Alnus</latin>
+        <common>Alder</common>
+    </species>
+    <species>
+        <latin>Aesculus</latin>
+        <common>Horse chestnut</common>
+    </species>
+    <species>
+        <latin>Ilex x altaclerensis</latin>
+        <common>Highclere holly</common>
+        <parent>Ilex aquifolium</parent>
+        <parent>Ilex perado</parent>
+    </species>
+    <species>
+        <latin>Cupressus nootkatensis 'Pendula'</latin>
+        <common>Nootka cypress cultivar</common>
+    </species>
+    <species>
+        <latin>Juniperus communis</latin>
+        <common>Common Jupiter</common>
+        <description>A species of conifer in the genus Juniperus, in the family
+            Cupressaceae. A small evergreen coniferous tree or large scrub, common juniper grows to a height of 10m. The berries (really cones) are used to flavour gin.</description>
+    </species>
+    <species>
+        <latin>Prunus x subhirtella</latin>
+        <common>Winter flowering cherry</common>
+        <altname>Higan Cherry</altname>
+    </species>
+    <species>
+        <latin>Prunus x yedoensis</latin>
+        <common>Japanese flowering cherry</common>
+        <parent>Prunus speciosa</parent>
+        <parent>Prunus pendula f. ascendens</parent>
+    </species>
+</species-list>
