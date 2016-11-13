@@ -2,7 +2,7 @@ body {
     background-color:  #D8D8D8;
     padding-right: 20px;    padding-left: 20px; 
     font-family: 'Gentium Book Basic', serif; font-size:14pt;
-    font-size: 20pt; color: #5E5853;
+    font-size: 14pt; color: #5E5853;
 }
 
 h1,h2,h3 {
@@ -18,11 +18,13 @@ h2 {
 h3 {
     font-size:14pt;
 }
+div {font-family: 'Gentium Book Basic', serif; font-size:16pt; margin-bottom:5px;}
 
+span {padding-right: 10px}
 table {margin-top:5px;}
 tr {margin-top:2px;}
-th {text-align:left; font-family: 'Merriweather Sans'; font-size:12pt; color: #055;}
-td {font-family: 'Gentium Book Basic', serif; font-size:14pt;}
+th {text-align:left;  vertical-align:top; font-family: 'Merriweather Sans'; font-size:12pt; color: #055;}
+td {font-family: 'Gentium Book Basic', serif; font-size:12pt;}
 
 ul {margin-top:0px;}
 li {margin-top:4px; font-family: 'Gentium Book Basic', serif; font-size:16pt;}
@@ -45,8 +47,8 @@ a.external {
     background-position: right;
     background-repeat:no-repeat;
 }
+.text {margin:10px}
 
 #map_text {position:relative; left:0; width:50%; height:800px; overflow:auto;}
 
 #map_canvas {position: absolute; top: 60px; right:5px; width: 45%; height:600px; }
-
